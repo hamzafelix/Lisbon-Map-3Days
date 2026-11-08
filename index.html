@@ -283,8 +283,8 @@ function onMove(e){
 }
 function onUp(e){
   if(!drag) return;
+  if(e && e.pointerId!==undefined && e.pointerId!==drag.id) return;
   const d=drag; drag=null;
-  if(e && e.pointerId!==undefined && e.pointerId!==d.id) return;
   if(rafId){ cancelAnimationFrame(rafId); rafId=0; }
   sheetY=pendY; paint();
   const sp=snaps();
