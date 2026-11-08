@@ -1,0 +1,630 @@
+# Photo & data attribution
+
+Photos are hotlinked from Wikimedia Commons and are the property of their
+respective authors. Each image links back to the file page, where the exact
+licence and author are listed. Article text data comes from Portuguese
+Wikipedia (CC BY-SA 4.0) and Wikidata (CC0); place attributes from
+OpenStreetMap (ODbL); basemap tiles from Esri / HERE / Garmin.
+
+## Wikipedia articles per place
+
+- **1. Palácio do Grilo** — https://pt.wikipedia.org/wiki/Palácio_do_Grilo
+- **2. Convento do Grilo** — https://pt.wikipedia.org/wiki/Convento_do_Grilo
+- **3. Museu Nacional do Azulejo** — https://pt.wikipedia.org/wiki/Museu_Nacional_do_Azulejo
+- **4. Igreja dos Anjos (Lisboa)** — https://pt.wikipedia.org/wiki/Igreja_dos_Anjos_(Lisboa)
+- **5. Capela de Nossa Senhora do Monte (Lisboa)** — https://pt.wikipedia.org/wiki/Capela_de_Nossa_Senhora_do_Monte_(Lisboa)
+- **6. Museu da Água** — https://pt.wikipedia.org/wiki/Museu_da_Água
+- **7. Miradouro da Senhora do Monte** — https://pt.wikipedia.org/wiki/Miradouro_da_Senhora_do_Monte
+- **8. Convento da Graça (Lisboa)** — https://pt.wikipedia.org/wiki/Convento_da_Graça_(Lisboa)
+- **9. Panteão Nacional** — https://pt.wikipedia.org/wiki/Panteão_Nacional
+- **10. Igreja de Santa Engrácia** — https://pt.wikipedia.org/wiki/Igreja_de_Santa_Engrácia
+- **11. Igreja de São Vicente de Fora** — https://pt.wikipedia.org/wiki/Igreja_de_São_Vicente_de_Fora
+- **12. Castelo de São Jorge** — https://pt.wikipedia.org/wiki/Castelo_de_São_Jorge
+- **13. Igreja de Santa Cruz do Castelo** — https://pt.wikipedia.org/wiki/Igreja_de_Santa_Cruz_do_Castelo
+- **14. Estação Ferroviária de Lisboa-Santa Apolónia** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Lisboa-Santa_Apolónia
+- **15. Museu Militar de Lisboa** — https://pt.wikipedia.org/wiki/Museu_Militar_de_Lisboa
+- **16. Palácio Belmonte** — https://pt.wikipedia.org/wiki/Palácio_Belmonte
+- **17. Igreja de Santo Estêvão (Lisboa)** — https://pt.wikipedia.org/wiki/Igreja_de_Santo_Estêvão_(Lisboa)
+- **18. Igreja de Santiago (Lisboa)** — https://pt.wikipedia.org/wiki/Igreja_de_Santiago_(Lisboa)
+- **19. Miradouro de Santa Luzia** — https://pt.wikipedia.org/wiki/Miradouro_de_Santa_Luzia
+- **20. Museu do Fado** — https://pt.wikipedia.org/wiki/Museu_do_Fado
+- **21. Cadeia do Aljube** — https://pt.wikipedia.org/wiki/Cadeia_do_Aljube
+- **22. Casa dos Bicos** — https://pt.wikipedia.org/wiki/Casa_dos_Bicos
+- **23. Palácio da Bemposta** — https://pt.wikipedia.org/wiki/Palácio_da_Bemposta
+- **24. Campo dos Mártires da Pátria** — https://pt.wikipedia.org/wiki/Campo_dos_Mártires_da_Pátria
+- **25. Igreja de São José dos Carpinteiros** — https://pt.wikipedia.org/wiki/Igreja_de_São_José_dos_Carpinteiros
+- **26. Palácio de Sant'Anna** — https://pt.wikipedia.org/wiki/Palácio_de_Sant'Anna
+- **27. Elevador do Lavra** — https://pt.wikipedia.org/wiki/Elevador_do_Lavra
+- **28. Praça da Alegria (Lisboa)** — https://pt.wikipedia.org/wiki/Praça_da_Alegria_(Lisboa)
+- **29. Coliseu dos Recreios** — https://pt.wikipedia.org/wiki/Coliseu_dos_Recreios
+- **30. Cinema Olympia (Lisboa)** — https://pt.wikipedia.org/wiki/Cinema_Olympia_(Lisboa)
+- **31. Teatro da Rua dos Condes** — https://pt.wikipedia.org/wiki/Teatro_da_Rua_dos_Condes
+- **32. Teatro Politeama (Lisboa)** — https://pt.wikipedia.org/wiki/Teatro_Politeama_(Lisboa)
+- **33. Capela de Nossa Senhora da Saúde (Lisboa)** — https://pt.wikipedia.org/wiki/Capela_de_Nossa_Senhora_da_Saúde_(Lisboa)
+- **34. Palácio Foz** — https://pt.wikipedia.org/wiki/Palácio_Foz
+- **35. Palácio da Independência** — https://pt.wikipedia.org/wiki/Palácio_da_Independência
+- **36. Jardim de São Pedro de Alcântara** — https://pt.wikipedia.org/wiki/Jardim_de_São_Pedro_de_Alcântara
+- **37. Cineteatro Éden** — https://pt.wikipedia.org/wiki/Cineteatro_Éden
+- **38. Elevador da Glória** — https://pt.wikipedia.org/wiki/Elevador_da_Glória
+- **39. Teatro Nacional D. Maria II** — https://pt.wikipedia.org/wiki/Teatro_Nacional_D._Maria_II
+- **40. Estação Ferroviária do Rossio** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_do_Rossio
+- **41. Igreja de São Domingos (Santa Justa)** — https://pt.wikipedia.org/wiki/Igreja_de_São_Domingos_(Santa_Justa)
+- **42. Igreja de São Lourenço (Socorro)** — https://pt.wikipedia.org/wiki/Igreja_de_São_Lourenço_(Socorro)
+- **43. Rossio** — https://pt.wikipedia.org/wiki/Rossio
+- **44. Praça D. Pedro IV** — https://pt.wikipedia.org/wiki/Praça_D._Pedro_IV
+- **45. Igreja de São Roque (Lisboa)** — https://pt.wikipedia.org/wiki/Igreja_de_São_Roque_(Lisboa)
+- **46. Igreja de São Roque** — https://pt.wikipedia.org/wiki/Igreja_de_São_Roque
+- **47. Igreja de São Cristóvão (Lisboa)** — https://pt.wikipedia.org/wiki/Igreja_de_São_Cristóvão_(Lisboa)
+- **48. Praça da Figueira** — https://pt.wikipedia.org/wiki/Praça_da_Figueira
+- **49. Palácio Vagos** — https://pt.wikipedia.org/wiki/Palácio_Vagos
+- **50. Palácio Vila Flor** — https://pt.wikipedia.org/wiki/Palácio_Vila_Flor
+- **51. Museu Arqueológico do Carmo** — https://pt.wikipedia.org/wiki/Museu_Arqueológico_do_Carmo
+- **52. Convento do Carmo (Lisboa)** — https://pt.wikipedia.org/wiki/Convento_do_Carmo_(Lisboa)
+- **53. Elevador de Santa Justa** — https://pt.wikipedia.org/wiki/Elevador_de_Santa_Justa
+- **54. Teatro da Trindade** — https://pt.wikipedia.org/wiki/Teatro_da_Trindade
+- **55. Palácio Valada-Azambuja** — https://pt.wikipedia.org/wiki/Palácio_Valada-Azambuja
+- **56. Praça de Luís de Camões** — https://pt.wikipedia.org/wiki/Praça_de_Luís_de_Camões
+- **57. Basílica de Nossa Senhora dos Mártires** — https://pt.wikipedia.org/wiki/Basílica_de_Nossa_Senhora_dos_Mártires
+- **58. Igreja da Madalena** — https://pt.wikipedia.org/wiki/Igreja_da_Madalena
+- **59. Museu da Farmácia** — https://pt.wikipedia.org/wiki/Museu_da_Farmácia
+- **60. Elevador da Bica** — https://pt.wikipedia.org/wiki/Elevador_da_Bica
+- **61. Sé de Lisboa** — https://pt.wikipedia.org/wiki/Sé_de_Lisboa
+- **62. Palácio Quintela** — https://pt.wikipedia.org/wiki/Palácio_Quintela
+- **63. Teatro Nacional de São Carlos** — https://pt.wikipedia.org/wiki/Teatro_Nacional_de_São_Carlos
+- **64. Teatro São Luiz** — https://pt.wikipedia.org/wiki/Teatro_São_Luiz
+- **65. Museu Nacional de Arte Contemporânea do Chiado** — https://pt.wikipedia.org/wiki/Museu_Nacional_de_Arte_Contemporânea_do_Chiado
+- **66. Igreja da Conceição Velha** — https://pt.wikipedia.org/wiki/Igreja_da_Conceição_Velha
+- **67. Arco da Rua Augusta** — https://pt.wikipedia.org/wiki/Arco_da_Rua_Augusta
+- **68. Museu da Cerveja (Lisboa)** — https://pt.wikipedia.org/wiki/Museu_da_Cerveja_(Lisboa)
+- **69. Praça do Comércio** — https://pt.wikipedia.org/wiki/Praça_do_Comércio
+- **70. Mercado da Ribeira** — https://pt.wikipedia.org/wiki/Mercado_da_Ribeira
+- **71. Paço da Ribeira** — https://pt.wikipedia.org/wiki/Paço_da_Ribeira
+- **72. Terminal Fluvial do Terreiro do Paço** — https://pt.wikipedia.org/wiki/Terminal_Fluvial_do_Terreiro_do_Paço
+- **73. Estação Ferroviária do Cais do Sodré** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_do_Cais_do_Sodré
+- **74. Palácio Anadia** — https://pt.wikipedia.org/wiki/Palácio_Anadia
+- **75. Capela de Nossa Senhora de Monserrate** — https://pt.wikipedia.org/wiki/Capela_de_Nossa_Senhora_de_Monserrate
+- **76. Museu Medeiros e Almeida** — https://pt.wikipedia.org/wiki/Museu_Medeiros_e_Almeida
+- **77. Cinemateca Portuguesa** — https://pt.wikipedia.org/wiki/Cinemateca_Portuguesa
+- **78. Teatro Tivoli** — https://pt.wikipedia.org/wiki/Teatro_Tivoli
+- **79. Teatro ABC** — https://pt.wikipedia.org/wiki/Teatro_ABC
+- **80. Teatro Maria Vitória** — https://pt.wikipedia.org/wiki/Teatro_Maria_Vitória
+- **81. Palácio Lima Mayer** — https://pt.wikipedia.org/wiki/Palácio_Lima_Mayer
+- **82. Palácio Palmela** — https://pt.wikipedia.org/wiki/Palácio_Palmela
+- **83. Teatro Variedades** — https://pt.wikipedia.org/wiki/Teatro_Variedades
+- **84. Cineteatro Capitólio** — https://pt.wikipedia.org/wiki/Cineteatro_Capitólio
+- **85. Jardim Botânico de Lisboa** — https://pt.wikipedia.org/wiki/Jardim_Botânico_de_Lisboa
+- **86. Museu Nacional de História Natural e da Ciência** — https://pt.wikipedia.org/wiki/Museu_Nacional_de_História_Natural_e_da_Ciência
+- **87. Casa Fernando Pessoa** — https://pt.wikipedia.org/wiki/Casa_Fernando_Pessoa
+- **88. Jardim do Príncipe Real** — https://pt.wikipedia.org/wiki/Jardim_do_Príncipe_Real
+- **89. Museu João de Deus** — https://pt.wikipedia.org/wiki/Museu_João_de_Deus
+- **90. Igreja do Santo Condestável** — https://pt.wikipedia.org/wiki/Igreja_do_Santo_Condestável
+- **91. Praça das Flores** — https://pt.wikipedia.org/wiki/Praça_das_Flores
+- **92. Convento dos Cardais** — https://pt.wikipedia.org/wiki/Convento_dos_Cardais
+- **93. Jardim da Estrela** — https://pt.wikipedia.org/wiki/Jardim_da_Estrela
+- **94. Basílica da Estrela** — https://pt.wikipedia.org/wiki/Basílica_da_Estrela
+- **95. Igreja da Memória** — https://pt.wikipedia.org/wiki/Igreja_da_Memória
+- **96. Convento de Nossa Senhora de Jesus** — https://pt.wikipedia.org/wiki/Convento_de_Nossa_Senhora_de_Jesus
+- **97. Palacete de São Bento** — https://pt.wikipedia.org/wiki/Palacete_de_São_Bento
+- **98. Palácio de São Bento** — https://pt.wikipedia.org/wiki/Palácio_de_São_Bento
+- **99. Assembleia da República (Portugal)** — https://pt.wikipedia.org/wiki/Assembleia_da_República_(Portugal)
+- **100. Museu da Marioneta** — https://pt.wikipedia.org/wiki/Museu_da_Marioneta
+- **101. Estação Ferroviária de Santos** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Santos
+- **102. Palácio Nacional da Ajuda** — https://pt.wikipedia.org/wiki/Palácio_Nacional_da_Ajuda
+- **103. Jardim Botânico da Ajuda** — https://pt.wikipedia.org/wiki/Jardim_Botânico_da_Ajuda
+- **104. Museu Nacional de Etnologia** — https://pt.wikipedia.org/wiki/Museu_Nacional_de_Etnologia
+- **105. Jardim Botânico Tropical** — https://pt.wikipedia.org/wiki/Jardim_Botânico_Tropical
+- **106. Palácio Nacional de Belém** — https://pt.wikipedia.org/wiki/Palácio_Nacional_de_Belém
+- **107. Mosteiro dos Jerónimos** — https://pt.wikipedia.org/wiki/Mosteiro_dos_Jerónimos
+- **108. Jardins do Palácio de Belém** — https://pt.wikipedia.org/wiki/Jardins_do_Palácio_de_Belém
+- **109. Cordoaria Nacional** — https://pt.wikipedia.org/wiki/Cordoaria_Nacional
+- **110. Museu Nacional de Arqueologia** — https://pt.wikipedia.org/wiki/Museu_Nacional_de_Arqueologia
+- **111. Museu de Marinha** — https://pt.wikipedia.org/wiki/Museu_de_Marinha
+- **112. Museu Nacional dos Coches** — https://pt.wikipedia.org/wiki/Museu_Nacional_dos_Coches
+- **113. Jardim da Praça do Império** — https://pt.wikipedia.org/wiki/Jardim_da_Praça_do_Império
+- **114. Estação Ferroviária de Belém** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Belém
+- **115. Museu de Arte, Arquitetura e Tecnologia** — https://pt.wikipedia.org/wiki/Museu_de_Arte,_Arquitetura_e_Tecnologia
+- **116. Museu da Eletricidade** — https://pt.wikipedia.org/wiki/Museu_da_Eletricidade
+- **117. Centro Cultural de Belém** — https://pt.wikipedia.org/wiki/Centro_Cultural_de_Belém
+- **118. Museu da Eletricidade (Lisboa)** — https://pt.wikipedia.org/wiki/Museu_da_Eletricidade_(Lisboa)
+- **119. Museu de Arte Contemporânea - Centro Cultural de Belém** — https://pt.wikipedia.org/wiki/Museu_de_Arte_Contemporânea_-_Centro_Cultural_de_Belém
+- **120. Museu de Arte Contemporânea do Centro Cultural de Belém** — https://pt.wikipedia.org/wiki/Museu_de_Arte_Contemporânea_do_Centro_Cultural_de_Belém
+- **121. Museu de Arte Popular (Portugal)** — https://pt.wikipedia.org/wiki/Museu_de_Arte_Popular_(Portugal)
+- **122. Padrão dos Descobrimentos** — https://pt.wikipedia.org/wiki/Padrão_dos_Descobrimentos
+- **123. Torre de Belém** — https://pt.wikipedia.org/wiki/Torre_de_Belém
+- **124. Estação Ferroviária de Alvito-A** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Alvito-A
+- **125. Estação Ferroviária de Alcântara-Terra** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Alcântara-Terra
+- **126. Palácio das Necessidades** — https://pt.wikipedia.org/wiki/Palácio_das_Necessidades
+- **127. Museu Nacional de Arte Antiga** — https://pt.wikipedia.org/wiki/Museu_Nacional_de_Arte_Antiga
+- **128. Igreja e Convento das Flamengas** — https://pt.wikipedia.org/wiki/Igreja_e_Convento_das_Flamengas
+- **129. Palácio dos Condes de Óbidos** — https://pt.wikipedia.org/wiki/Palácio_dos_Condes_de_Óbidos
+- **130. Palácio Sabugosa** — https://pt.wikipedia.org/wiki/Palácio_Sabugosa
+- **131. Museu do Oriente** — https://pt.wikipedia.org/wiki/Museu_do_Oriente
+- **132. Estação Ferroviária de Alcântara-Mar** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Alcântara-Mar
+- **133. Museu da Carris** — https://pt.wikipedia.org/wiki/Museu_da_Carris
+- **134. Museu do Centro Científico e Cultural de Macau** — https://pt.wikipedia.org/wiki/Museu_do_Centro_Científico_e_Cultural_de_Macau
+- **135. Palácio dos Condes da Ponte** — https://pt.wikipedia.org/wiki/Palácio_dos_Condes_da_Ponte
+- **136. Igreja de São Bartolomeu da Charneca** — https://pt.wikipedia.org/wiki/Igreja_de_São_Bartolomeu_da_Charneca
+- **137. Igreja de Nossa Senhora da Encarnação da Ameixoeira** — https://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_da_Encarnação_da_Ameixoeira
+- **138. Museu Nacional do Traje** — https://pt.wikipedia.org/wiki/Museu_Nacional_do_Traje
+- **139. Palácio do Monteiro-Mor** — https://pt.wikipedia.org/wiki/Palácio_do_Monteiro-Mor
+- **140. Igreja de São João Baptista (Lumiar)** — https://pt.wikipedia.org/wiki/Igreja_de_São_João_Baptista_(Lumiar)
+- **141. Teatro de Carnide** — https://pt.wikipedia.org/wiki/Teatro_de_Carnide
+- **142. Convento de Santa Teresa de Jesus de Carnide** — https://pt.wikipedia.org/wiki/Convento_de_Santa_Teresa_de_Jesus_de_Carnide
+- **143. Igreja de Nossa Senhora da Luz (Carnide)** — https://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_da_Luz_(Carnide)
+- **144. Igreja de São Lourenço de Carnide** — https://pt.wikipedia.org/wiki/Igreja_de_São_Lourenço_de_Carnide
+- **145. Palácio do Conde de Vimioso** — https://pt.wikipedia.org/wiki/Palácio_do_Conde_de_Vimioso
+- **146. Igreja Paroquial de Nossa Senhora da Porta do Céu** — https://pt.wikipedia.org/wiki/Igreja_Paroquial_de_Nossa_Senhora_da_Porta_do_Céu
+- **147. Museu Rafael Bordalo Pinheiro** — https://pt.wikipedia.org/wiki/Museu_Rafael_Bordalo_Pinheiro
+- **148. Museu de Lisboa** — https://pt.wikipedia.org/wiki/Museu_de_Lisboa
+- **149. Palácio Pimenta** — https://pt.wikipedia.org/wiki/Palácio_Pimenta
+- **150. Quinta dos Condes de Carnide** — https://pt.wikipedia.org/wiki/Quinta_dos_Condes_de_Carnide
+- **151. Igreja de São João de Brito** — https://pt.wikipedia.org/wiki/Igreja_de_São_João_de_Brito
+- **152. Arquivo Nacional da Torre do Tombo** — https://pt.wikipedia.org/wiki/Arquivo_Nacional_da_Torre_do_Tombo
+- **153. Igreja dos Santos Reis Magos (Lisboa)** — https://pt.wikipedia.org/wiki/Igreja_dos_Santos_Reis_Magos_(Lisboa)
+- **154. Jardim Mário Soares** — https://pt.wikipedia.org/wiki/Jardim_Mário_Soares
+- **155. Igreja de Nossa Senhora do Amparo (Benfica)** — https://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_do_Amparo_(Benfica)
+- **156. Monumento aos Heróis da Guerra Peninsular (Lisboa)** — https://pt.wikipedia.org/wiki/Monumento_aos_Heróis_da_Guerra_Peninsular_(Lisboa)
+- **157. Teatro Maria Matos** — https://pt.wikipedia.org/wiki/Teatro_Maria_Matos
+- **158. Estação Ferroviária de Roma-Areeiro** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Roma-Areeiro
+- **159. Teatro Talia** — https://pt.wikipedia.org/wiki/Teatro_Talia
+- **160. Estação Ferroviária de Entrecampos** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Entrecampos
+- **161. Estação Ferroviária de Benfica** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Benfica
+- **162. Aqueduto das Águas Livres** — https://pt.wikipedia.org/wiki/Aqueduto_das_Águas_Livres
+- **163. Apeadeiro de Cruz da Pedra** — https://pt.wikipedia.org/wiki/Apeadeiro_de_Cruz_da_Pedra
+- **164. Palácio Galveias** — https://pt.wikipedia.org/wiki/Palácio_Galveias
+- **165. Jardim Maria José Moura** — https://pt.wikipedia.org/wiki/Jardim_Maria_José_Moura
+- **166. Igreja de São João de Deus (Lisboa)** — https://pt.wikipedia.org/wiki/Igreja_de_São_João_de_Deus_(Lisboa)
+- **167. Estação Ferroviária de Sete Rios** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Sete_Rios
+- **168. Palácio dos Marqueses de Fronteira** — https://pt.wikipedia.org/wiki/Palácio_dos_Marqueses_de_Fronteira
+- **169. Igreja de Nossa Senhora do Rosário de Fátima** — https://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_do_Rosário_de_Fátima
+- **170. Museu Calouste Gulbenkian** — https://pt.wikipedia.org/wiki/Museu_Calouste_Gulbenkian
+- **171. Teatro Aberto** — https://pt.wikipedia.org/wiki/Teatro_Aberto
+- **172. Centro de Arte Moderna Gulbenkian** — https://pt.wikipedia.org/wiki/Centro_de_Arte_Moderna_Gulbenkian
+- **173. Convento de Arroios** — https://pt.wikipedia.org/wiki/Convento_de_Arroios
+- **174. Estação Ferroviária de Campolide** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Campolide
+- **175. Igreja de São Sebastião da Pedreira** — https://pt.wikipedia.org/wiki/Igreja_de_São_Sebastião_da_Pedreira
+- **176. Palácio da Justiça (Lisboa)** — https://pt.wikipedia.org/wiki/Palácio_da_Justiça_(Lisboa)
+- **177. Casa-Museu Dr. Anastácio Gonçalves** — https://pt.wikipedia.org/wiki/Casa-Museu_Dr._Anastácio_Gonçalves
+- **178. Palacete Mendonça** — https://pt.wikipedia.org/wiki/Palacete_Mendonça
+- **179. Convento de Nossa Senhora da Penha de França** — https://pt.wikipedia.org/wiki/Convento_de_Nossa_Senhora_da_Penha_de_França
+- **180. Estufa Fria** — https://pt.wikipedia.org/wiki/Estufa_Fria
+- **181. Parque Eduardo VII** — https://pt.wikipedia.org/wiki/Parque_Eduardo_VII
+- **182. Praça do Marquês de Pombal (Lisboa)** — https://pt.wikipedia.org/wiki/Praça_do_Marquês_de_Pombal_(Lisboa)
+- **183. Igreja do Coração de Jesus (Lisboa)** — https://pt.wikipedia.org/wiki/Igreja_do_Coração_de_Jesus_(Lisboa)
+- **184. Torre Vasco da Gama** — https://pt.wikipedia.org/wiki/Torre_Vasco_da_Gama
+- **185. Gare do Oriente** — https://pt.wikipedia.org/wiki/Gare_do_Oriente
+- **186. Pavilhão de Portugal** — https://pt.wikipedia.org/wiki/Pavilhão_de_Portugal
+- **187. Oceanário de Lisboa** — https://pt.wikipedia.org/wiki/Oceanário_de_Lisboa
+- **188. Teatro Camões** — https://pt.wikipedia.org/wiki/Teatro_Camões
+- **189. Estação Ferroviária de Braço de Prata** — https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Braço_de_Prata
+- **190. Palácio da Mitra (Marvila)** — https://pt.wikipedia.org/wiki/Palácio_da_Mitra_(Marvila)
+
+## Commons files
+
+- [960px-Palácio_do_Grilo.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_do_Grilo.jpg) — used for Palácio do Grilo
+- [960px-Palacio-do-grilo-48.jpg](https://commons.wikimedia.org/wiki/File:960px-Palacio-do-grilo-48.jpg) — used for Palácio do Grilo
+- [960px-Palacio-do-grilo-49.jpg](https://commons.wikimedia.org/wiki/File:960px-Palacio-do-grilo-49.jpg) — used for Palácio do Grilo
+- [960px-Palacio-do-grilo-50.jpg](https://commons.wikimedia.org/wiki/File:960px-Palacio-do-grilo-50.jpg) — used for Palácio do Grilo
+- [960px-Igreja_Paroquial_de_São_Bartolomeu_do_Beato.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_Paroquial_de_S%C3%A3o_Bartolomeu_do_Beato.jpg) — used for Convento do Grilo
+- [960px-Igreja_do_Convento_da_Madre_de_Deus,_Lisboa_(Portugal).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_do_Convento_da_Madre_de_Deus%2C_Lisboa_%28Portugal%29.jpg) — used for Museu Nacional do Azulejo
+- [960px-Terreiro_do_Paço_Lisboa.jpg](https://commons.wikimedia.org/wiki/File:960px-Terreiro_do_Pa%C3%A7o_Lisboa.jpg) — used for Museu Nacional do Azulejo
+- [960px-Igreja_dos_Anjos_7114.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_dos_Anjos_7114.jpg) — used for Igreja dos Anjos (Lisboa)
+- [960px-Igreja_dos_Anjos,_Lisboa,_Portugal_(3499980987).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_dos_Anjos%2C_Lisboa%2C_Portugal_%283499980987%29.jpg) — used for Igreja dos Anjos (Lisboa)
+- [960px-Igreja_dos_Anjos,_Lisboa,_Portugal_(3500796792).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_dos_Anjos%2C_Lisboa%2C_Portugal_%283500796792%29.jpg) — used for Igreja dos Anjos (Lisboa)
+- [960px-Igreja_dos_Anjos,_Lisboa,_Portugal_(3500797168).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_dos_Anjos%2C_Lisboa%2C_Portugal_%283500797168%29.jpg) — used for Igreja dos Anjos (Lisboa)
+- [960px-Miradouro_Nossa_Senhora_do_Monte_I.jpg](https://commons.wikimedia.org/wiki/File:960px-Miradouro_Nossa_Senhora_do_Monte_I.jpg) — used for Capela de Nossa Senhora do Monte (Lisboa)
+- [960px-Capela_Nossa_Senhora_do_Monte.jpg](https://commons.wikimedia.org/wiki/File:960px-Capela_Nossa_Senhora_do_Monte.jpg) — used for Capela de Nossa Senhora do Monte (Lisboa)
+- [960px-Capela_de_Nossa_Senhora_do_Monte_8070.jpg](https://commons.wikimedia.org/wiki/File:960px-Capela_de_Nossa_Senhora_do_Monte_8070.jpg) — used for Capela de Nossa Senhora do Monte (Lisboa)
+- [960px-Capela_nossa_sra_do_Monte_011.jpg](https://commons.wikimedia.org/wiki/File:960px-Capela_nossa_sra_do_Monte_011.jpg) — used for Capela de Nossa Senhora do Monte (Lisboa)
+- [960px-Museu_da_Água.JPG](https://commons.wikimedia.org/wiki/File:960px-Museu_da_%C3%81gua.JPG) — used for Museu da Água
+- [960px-Miradouro_Nossa_Senhora_do_Monte_II.jpg](https://commons.wikimedia.org/wiki/File:960px-Miradouro_Nossa_Senhora_do_Monte_II.jpg) — used for Miradouro da Senhora do Monte
+- [960px-Miradouro_da_Senhora_do_Monte.jpg](https://commons.wikimedia.org/wiki/File:960px-Miradouro_da_Senhora_do_Monte.jpg) — used for Miradouro da Senhora do Monte
+- [960px-Exterior_of_Igreja_e_convento_da_Graça_234.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Igreja_e_convento_da_Gra%C3%A7a_234.jpg) — used for Convento da Graça (Lisboa)
+- [960px-Altarpiece_at_Igreja_e_convento_da_Graça,_Lisbon,_Portugal_julesvernex2.jpg](https://commons.wikimedia.org/wiki/File:960px-Altarpiece_at_Igreja_e_convento_da_Gra%C3%A7a%2C_Lisbon%2C_Portugal_julesvernex2.jpg) — used for Convento da Graça (Lisboa)
+- [960px-Chancel_of_Igreja_e_convento_da_Graça_221.jpg](https://commons.wikimedia.org/wiki/File:960px-Chancel_of_Igreja_e_convento_da_Gra%C3%A7a_221.jpg) — used for Convento da Graça (Lisboa)
+- [960px-Chapter_house_of_Igreja_e_convento_da_Graça_848.jpg](https://commons.wikimedia.org/wiki/File:960px-Chapter_house_of_Igreja_e_convento_da_Gra%C3%A7a_848.jpg) — used for Convento da Graça (Lisboa)
+- [960px-Exterior_of_Igreja_de_Santa_Engrácia_70.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Igreja_de_Santa_Engr%C3%A1cia_70.jpg) — used for Panteão Nacional
+- [960px-20200204_BatalhaMonastery_6382_(49657982422).jpg](https://commons.wikimedia.org/wiki/File:960px-20200204_BatalhaMonastery_6382_%2849657982422%29.jpg) — used for Panteão Nacional
+- [960px-Afonso_Henriques,_monumento_funerario._Coimbra.jpg](https://commons.wikimedia.org/wiki/File:960px-Afonso_Henriques%2C_monumento_funerario._Coimbra.jpg) — used for Panteão Nacional
+- [960px-Alexandre_Herculano_Casa_Camilo.JPG](https://commons.wikimedia.org/wiki/File:960px-Alexandre_Herculano_Casa_Camilo.JPG) — used for Panteão Nacional
+- [ArchPitt-Lisbon-EngraciaChurch-1863.jpg](https://commons.wikimedia.org/wiki/File:ArchPitt-Lisbon-EngraciaChurch-1863.jpg) — used for Igreja de Santa Engrácia
+- [960px-Church_of_Santa_Engrácia_(36800270851).jpg](https://commons.wikimedia.org/wiki/File:960px-Church_of_Santa_Engr%C3%A1cia_%2836800270851%29.jpg) — used for Igreja de Santa Engrácia
+- [960px-Igreja_e_Mosteiro_de_São_Vicente_de_Fora.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_e_Mosteiro_de_S%C3%A3o_Vicente_de_Fora.jpg) — used for Igreja de São Vicente de Fora
+- [960px-Azulejos_in_Mosteiro_de_São_Vicente_de_Fora_812.jpg](https://commons.wikimedia.org/wiki/File:960px-Azulejos_in_Mosteiro_de_S%C3%A3o_Vicente_de_Fora_812.jpg) — used for Igreja de São Vicente de Fora
+- [960px-Chancel_of_Igreja_de_São_Vicente_de_Fora_783.jpg](https://commons.wikimedia.org/wiki/File:960px-Chancel_of_Igreja_de_S%C3%A3o_Vicente_de_Fora_783.jpg) — used for Igreja de São Vicente de Fora
+- [960px-Cloisters_of_Mosteiro_de_São_Vicente_de_Fora_781.jpg](https://commons.wikimedia.org/wiki/File:960px-Cloisters_of_Mosteiro_de_S%C3%A3o_Vicente_de_Fora_781.jpg) — used for Igreja de São Vicente de Fora
+- [Castelo_Sao_Jorge_Lisboa_1.JPG](https://commons.wikimedia.org/wiki/File:Castelo_Sao_Jorge_Lisboa_1.JPG) — used for Castelo de São Jorge
+- [960px-Castelo_de_São_Jorge_DSC_0034_(17293550541).jpg](https://commons.wikimedia.org/wiki/File:960px-Castelo_de_S%C3%A3o_Jorge_DSC_0034_%2817293550541%29.jpg) — used for Castelo de São Jorge
+- [960px-Castelo_de_São_Jorge_at_night_09.jpg](https://commons.wikimedia.org/wiki/File:960px-Castelo_de_S%C3%A3o_Jorge_at_night_09.jpg) — used for Castelo de São Jorge
+- [960px-Castelo_de_São_Jorge_-_Fotografia_33.jpg](https://commons.wikimedia.org/wiki/File:960px-Castelo_de_S%C3%A3o_Jorge_-_Fotografia_33.jpg) — used for Igreja de Santa Cruz do Castelo
+- [960px-Castelo_de_S._Jorge_-_Vista_do_Miradouro_da_Graça_(2).jpg](https://commons.wikimedia.org/wiki/File:960px-Castelo_de_S._Jorge_-_Vista_do_Miradouro_da_Gra%C3%A7a_%282%29.jpg) — used for Igreja de Santa Cruz do Castelo
+- [960px-Castelo_de_São_Jorge_-_Fotografia_34.jpg](https://commons.wikimedia.org/wiki/File:960px-Castelo_de_S%C3%A3o_Jorge_-_Fotografia_34.jpg) — used for Igreja de Santa Cruz do Castelo
+- [960px-St._Apolonia_railway_station_(40582415693).jpg](https://commons.wikimedia.org/wiki/File:960px-St._Apolonia_railway_station_%2840582415693%29.jpg) — used for Estação Ferroviária de Lisboa-Santa Apolónia
+- [960px-2016-10-24_Lissabon_6209_(30639150330).jpg](https://commons.wikimedia.org/wiki/File:960px-2016-10-24_Lissabon_6209_%2830639150330%29.jpg) — used for Estação Ferroviária de Lisboa-Santa Apolónia
+- [960px-M_militar_lisboa.jpg](https://commons.wikimedia.org/wiki/File:960px-M_militar_lisboa.jpg) — used for Museu Militar de Lisboa
+- [960px-Palácio_Belmonte_-_Lisboa_-_Portugal_(29899100698).jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_Belmonte_-_Lisboa_-_Portugal_%2829899100698%29.jpg) — used for Palácio Belmonte
+- [960px-Lisbon_(49420635156).jpg](https://commons.wikimedia.org/wiki/File:960px-Lisbon_%2849420635156%29.jpg) — used for Palácio Belmonte
+- [960px-Igreja_de_Santo_Estêvão_-_Lisboa_-_Portugal_(50929982882).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_Santo_Est%C3%AAv%C3%A3o_-_Lisboa_-_Portugal_%2850929982882%29.jpg) — used for Igreja de Santo Estêvão (Lisboa)
+- [960px-Igreja_de_Santiago_de_Lisboa.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_Santiago_de_Lisboa.jpg) — used for Igreja de Santiago (Lisboa)
+- [960px-Imagem_Santiago.jpg](https://commons.wikimedia.org/wiki/File:960px-Imagem_Santiago.jpg) — used for Igreja de Santiago (Lisboa)
+- [960px-MiradouroSantaLuzia.JPG](https://commons.wikimedia.org/wiki/File:960px-MiradouroSantaLuzia.JPG) — used for Miradouro de Santa Luzia
+- [Museu_do_Fado_Lisbon_Portugal_01.png](https://commons.wikimedia.org/wiki/File:Museu_do_Fado_Lisbon_Portugal_01.png) — used for Museu do Fado
+- [960px-Jose_malhoa_fado.jpg](https://commons.wikimedia.org/wiki/File:960px-Jose_malhoa_fado.jpg) — used for Museu do Fado
+- [Museu_do_Fado_Lisbon_Portugal_02.png](https://commons.wikimedia.org/wiki/File:Museu_do_Fado_Lisbon_Portugal_02.png) — used for Museu do Fado
+- [960px-Museu_do_Aljube.jpg](https://commons.wikimedia.org/wiki/File:960px-Museu_do_Aljube.jpg) — used for Cadeia do Aljube
+- [AljubeSecXX.jpg](https://commons.wikimedia.org/wiki/File:AljubeSecXX.jpg) — used for Cadeia do Aljube
+- [Escavações_Aljube.jpg](https://commons.wikimedia.org/wiki/File:Escava%C3%A7%C3%B5es_Aljube.jpg) — used for Cadeia do Aljube
+- [960px-Lisboa_May_2013-12.jpg](https://commons.wikimedia.org/wiki/File:960px-Lisboa_May_2013-12.jpg) — used for Casa dos Bicos
+- [960px-Palácio_da_Bemposta,_Arroios,_Lisboa_02.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_da_Bemposta%2C_Arroios%2C_Lisboa_02.jpg) — used for Palácio da Bemposta
+- [960px-Catherine_of_Braganza.jpg](https://commons.wikimedia.org/wiki/File:960px-Catherine_of_Braganza.jpg) — used for Palácio da Bemposta
+- [960px-Decreto_Real_de_nomeação_da_Regencia_Lusitana_de_1826.png](https://commons.wikimedia.org/wiki/File:960px-Decreto_Real_de_nomea%C3%A7%C3%A3o_da_Regencia_Lusitana_de_1826.png) — used for Palácio da Bemposta
+- [CampoDosMártiresDaPátria.png](https://commons.wikimedia.org/wiki/File:CampoDosM%C3%A1rtiresDaP%C3%A1tria.png) — used for Campo dos Mártires da Pátria
+- [960px-Campo_Santana_02.JPG](https://commons.wikimedia.org/wiki/File:960px-Campo_Santana_02.JPG) — used for Campo dos Mártires da Pátria
+- [960px-Campo_Santana_03.JPG](https://commons.wikimedia.org/wiki/File:960px-Campo_Santana_03.JPG) — used for Campo dos Mártires da Pátria
+- [960px-Igreja_de_São_José_dos_Carpinteiros,_Lisboa_01.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Jos%C3%A9_dos_Carpinteiros%2C_Lisboa_01.jpg) — used for Igreja de São José dos Carpinteiros
+- [960px-Fachada_Palácio_Santana,_Lisboa.png](https://commons.wikimedia.org/wiki/File:960px-Fachada_Pal%C3%A1cio_Santana%2C_Lisboa.png) — used for Palácio de Sant'Anna
+- [960px-Evora-RomanTemple.jpg](https://commons.wikimedia.org/wiki/File:960px-Evora-RomanTemple.jpg) — used for Palácio de Sant'Anna
+- [960px-LisbonTram(byBio94)-6065849065.jpg](https://commons.wikimedia.org/wiki/File:960px-LisbonTram%28byBio94%29-6065849065.jpg) — used for Elevador do Lavra
+- [960px-PlacaPracaAlegria.JPG](https://commons.wikimedia.org/wiki/File:960px-PlacaPracaAlegria.JPG) — used for Praça da Alegria (Lisboa)
+- [Lisboa_-_Panorama_-_06_-_Vista_desde_el_Jardín_de_San_Pedro_de_Alcántara_(cropped)_Coliseu.jpg](https://commons.wikimedia.org/wiki/File:Lisboa_-_Panorama_-_06_-_Vista_desde_el_Jard%C3%ADn_de_San_Pedro_de_Alc%C3%A1ntara_%28cropped%29_Coliseu.jpg) — used for Coliseu dos Recreios
+- [960px-COLISEURECREIOS.jpg](https://commons.wikimedia.org/wiki/File:960px-COLISEURECREIOS.jpg) — used for Coliseu dos Recreios
+- [960px-Teatro_da_Rua_dos_Condes_após_a_reconstrução_de_1888.png](https://commons.wikimedia.org/wiki/File:960px-Teatro_da_Rua_dos_Condes_ap%C3%B3s_a_reconstru%C3%A7%C3%A3o_de_1888.png) — used for Teatro da Rua dos Condes
+- [960px-Theatro_da_Rua_dos_Condes,_1903_(Museu_da_Cidade,_MC.DES.1818.330).png](https://commons.wikimedia.org/wiki/File:960px-Theatro_da_Rua_dos_Condes%2C_1903_%28Museu_da_Cidade%2C_MC.DES.1818.330%29.png) — used for Teatro da Rua dos Condes
+- [960px-Teatro_Politeama_(Lisboa).jpg](https://commons.wikimedia.org/wiki/File:960px-Teatro_Politeama_%28Lisboa%29.jpg) — used for Teatro Politeama (Lisboa)
+- [960px-Capela_de_Nossa_Senhora_da_Saude_-_panoramio.jpg](https://commons.wikimedia.org/wiki/File:960px-Capela_de_Nossa_Senhora_da_Saude_-_panoramio.jpg) — used for Capela de Nossa Senhora da Saúde (Lisboa)
+- [960px-BAR000267_-_Mouraria_em_festa.jpg](https://commons.wikimedia.org/wiki/File:960px-BAR000267_-_Mouraria_em_festa.jpg) — used for Capela de Nossa Senhora da Saúde (Lisboa)
+- [960px-Capela_de_Nossa_Senhora_da_Saúde,_Lisboa,_2018_(photo_by_Gabriel_de_Andrade_Fernandes)_(39043250334).jpg](https://commons.wikimedia.org/wiki/File:960px-Capela_de_Nossa_Senhora_da_Sa%C3%BAde%2C_Lisboa%2C_2018_%28photo_by_Gabriel_de_Andrade_Fernandes%29_%2839043250334%29.jpg) — used for Capela de Nossa Senhora da Saúde (Lisboa)
+- [960px-Lissabon-Praca_dos_Restauradores-06-Palacio_da_Foz-2011-gje_(cropped).jpg](https://commons.wikimedia.org/wiki/File:960px-Lissabon-Praca_dos_Restauradores-06-Palacio_da_Foz-2011-gje_%28cropped%29.jpg) — used for Palácio Foz
+- [Palacio_Independência.JPG](https://commons.wikimedia.org/wiki/File:Palacio_Independ%C3%AAncia.JPG) — used for Palácio da Independência
+- [960px-Palácio_da_Independência_Lisboa_img_6070.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_da_Independ%C3%AAncia_Lisboa_img_6070.jpg) — used for Palácio da Independência
+- [960px-JardimSPedroAlcantara.JPG](https://commons.wikimedia.org/wiki/File:960px-JardimSPedroAlcantara.JPG) — used for Jardim de São Pedro de Alcântara
+- [960px-MiradouroSPedroAlcantara.JPG](https://commons.wikimedia.org/wiki/File:960px-MiradouroSPedroAlcantara.JPG) — used for Jardim de São Pedro de Alcântara
+- [960px-Lisboa_-_Teatro_Eden_(53853763539).jpg](https://commons.wikimedia.org/wiki/File:960px-Lisboa_-_Teatro_Eden_%2853853763539%29.jpg) — used for Cineteatro Éden
+- [960px-Cine_Teatro_Éden_em_construção_1935.jpg](https://commons.wikimedia.org/wiki/File:960px-Cine_Teatro_%C3%89den_em_constru%C3%A7%C3%A3o_1935.jpg) — used for Cineteatro Éden
+- [960px-Cine_teatro_Eden_Leopoldo_de_Almeida_6578.jpg](https://commons.wikimedia.org/wiki/File:960px-Cine_teatro_Eden_Leopoldo_de_Almeida_6578.jpg) — used for Cineteatro Éden
+- [Cine_teatro_Eden_Leopoldo_de_Almeida_6591.jpg](https://commons.wikimedia.org/wiki/File:Cine_teatro_Eden_Leopoldo_de_Almeida_6591.jpg) — used for Cineteatro Éden
+- [960px-2025_(365_challenge_No._1)_-_Week_9_(Lisbon_trios)_-_Day_1,_Pic_3_-_tram_on_Bairro_Alto_(54374478846).jpg](https://commons.wikimedia.org/wiki/File:960px-2025_%28365_challenge_No._1%29_-_Week_9_%28Lisbon_trios%29_-_Day_1%2C_Pic_3_-_tram_on_Bairro_Alto_%2854374478846%29.jpg) — used for Elevador da Glória
+- [960px-06_247_Elevador_da_Glória,_ET2.jpg](https://commons.wikimedia.org/wiki/File:960px-06_247_Elevador_da_Gl%C3%B3ria%2C_ET2.jpg) — used for Elevador da Glória
+- [960px-Praça_Don_Pedro_IV_(Rossio).jpg](https://commons.wikimedia.org/wiki/File:960px-Pra%C3%A7a_Don_Pedro_IV_%28Rossio%29.jpg) — used for Teatro Nacional D. Maria II
+- [960px-O_D._Maria_a_arder,_fotografia_Diário_de_Notícias_02-12-1964.png](https://commons.wikimedia.org/wiki/File:960px-O_D._Maria_a_arder%2C_fotografia_Di%C3%A1rio_de_Not%C3%ADcias_02-12-1964.png) — used for Teatro Nacional D. Maria II
+- [EstacaoRossioLisboa.JPG](https://commons.wikimedia.org/wiki/File:EstacaoRossioLisboa.JPG) — used for Estação Ferroviária do Rossio
+- [960px-Acidente_na_gare_do_Rossio_em_1922_-_O_Caminho_de_Ferro_Revisitado.jpg](https://commons.wikimedia.org/wiki/File:960px-Acidente_na_gare_do_Rossio_em_1922_-_O_Caminho_de_Ferro_Revisitado.jpg) — used for Estação Ferroviária do Rossio
+- [960px-Igreja_de_São_Domingos_(Lisbon).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Domingos_%28Lisbon%29.jpg) — used for Igreja de São Domingos (Santa Justa)
+- [960px-Igreja_de_São_Domingos_-_Lisboa_-_Portugal_(52142530242).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Domingos_-_Lisboa_-_Portugal_%2852142530242%29.jpg) — used for Igreja de São Domingos (Santa Justa)
+- [Placa_toponímica_-_Praça_D._Pedro_IV.png](https://commons.wikimedia.org/wiki/File:Placa_topon%C3%ADmica_-_Pra%C3%A7a_D._Pedro_IV.png) — used for Praça D. Pedro IV
+- [960px-Galheteiro_do_Rossio_(c._1860).png](https://commons.wikimedia.org/wiki/File:960px-Galheteiro_do_Rossio_%28c._1860%29.png) — used for Praça D. Pedro IV
+- [960px-Inauguração_da_estátua_de_Dom_Pedro_IV,_1870.png](https://commons.wikimedia.org/wiki/File:960px-Inaugura%C3%A7%C3%A3o_da_est%C3%A1tua_de_Dom_Pedro_IV%2C_1870.png) — used for Praça D. Pedro IV
+- [960px-Exterior_of_Igreja_de_São_Roque_(Lisbon).jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Igreja_de_S%C3%A3o_Roque_%28Lisbon%29.jpg) — used for Igreja de São Roque (Lisboa)
+- [StRoque2-IPPAR.jpg](https://commons.wikimedia.org/wiki/File:StRoque2-IPPAR.jpg) — used for Igreja de São Roque (Lisboa)
+- [960px-Igreja_de_São_Cristõvão.JPG](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Crist%C3%B5v%C3%A3o.JPG) — used for Igreja de São Cristóvão (Lisboa)
+- [960px-Placa_toponímica_-_Praça_da_Figueira.png](https://commons.wikimedia.org/wiki/File:960px-Placa_topon%C3%ADmica_-_Pra%C3%A7a_da_Figueira.png) — used for Praça da Figueira
+- [Praca_da_Figueira_Lisboa.JPG](https://commons.wikimedia.org/wiki/File:Praca_da_Figueira_Lisboa.JPG) — used for Praça da Figueira
+- [960px-Palácio_de_São_Cristóvão_01.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_de_S%C3%A3o_Crist%C3%B3v%C3%A3o_01.jpg) — used for Palácio Vagos
+- [Palácio_Vila_Flor_-_Costa_do_Castelo.jpg](https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_Vila_Flor_-_Costa_do_Castelo.jpg) — used for Palácio Vila Flor
+- [960px-Lisbonne_-_Couvent_des_Carles_-_Vue_générale.jpg](https://commons.wikimedia.org/wiki/File:960px-Lisbonne_-_Couvent_des_Carles_-_Vue_g%C3%A9n%C3%A9rale.jpg) — used for Museu Arqueológico do Carmo
+- [960px-Apse_of_Igreja_do_Convento_do_Carmo_de_Lisboa_(interior)_95.jpg](https://commons.wikimedia.org/wiki/File:960px-Apse_of_Igreja_do_Convento_do_Carmo_de_Lisboa_%28interior%29_95.jpg) — used for Museu Arqueológico do Carmo
+- [960px-CarmoConvent-KingFernandoTomb.jpg](https://commons.wikimedia.org/wiki/File:960px-CarmoConvent-KingFernandoTomb.jpg) — used for Museu Arqueológico do Carmo
+- [960px-Nave_of_Igreja_do_Convento_do_Carmo_(Lisbon)_81.jpg](https://commons.wikimedia.org/wiki/File:960px-Nave_of_Igreja_do_Convento_do_Carmo_%28Lisbon%29_81.jpg) — used for Convento do Carmo (Lisboa)
+- [960px-Arcadas_do_Convento_do_Carmo.jpg](https://commons.wikimedia.org/wiki/File:960px-Arcadas_do_Convento_do_Carmo.jpg) — used for Convento do Carmo (Lisboa)
+- [960px-Carlota,_Convento_do_Carmo_87.jpg](https://commons.wikimedia.org/wiki/File:960px-Carlota%2C_Convento_do_Carmo_87.jpg) — used for Convento do Carmo (Lisboa)
+- [Elevador-Sta-Justa_1902_fotoCarris.jpg](https://commons.wikimedia.org/wiki/File:Elevador-Sta-Justa_1902_fotoCarris.jpg) — used for Elevador de Santa Justa
+- [960px-Elevador_P1000525.JPG](https://commons.wikimedia.org/wiki/File:960px-Elevador_P1000525.JPG) — used for Elevador de Santa Justa
+- [960px-Elevador_de_Santa_Justa,_Lisboa,_Portugal,_2022-07-24,_DD_07.jpg](https://commons.wikimedia.org/wiki/File:960px-Elevador_de_Santa_Justa%2C_Lisboa%2C_Portugal%2C_2022-07-24%2C_DD_07.jpg) — used for Elevador de Santa Justa
+- [960px-Teatro_da_Trindade_2017.jpg](https://commons.wikimedia.org/wiki/File:960px-Teatro_da_Trindade_2017.jpg) — used for Teatro da Trindade
+- [960px-Palácio_Valada_Azambuja_ou_dos_Condes_de_Azambuja.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_Valada_Azambuja_ou_dos_Condes_de_Azambuja.jpg) — used for Palácio Valada-Azambuja
+- [960px-Palácio_Valada-Azambuja_ou_dos_Condes_de_Azambuja_ou1989.JPG](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_Valada-Azambuja_ou_dos_Condes_de_Azambuja_ou1989.JPG) — used for Palácio Valada-Azambuja
+- [960px-Camoes_2.jpg](https://commons.wikimedia.org/wiki/File:960px-Camoes_2.jpg) — used for Praça de Luís de Camões
+- [960px-Exterior_of_Igreja_de_Nossa_Senhora_dos_Mártires_56.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Igreja_de_Nossa_Senhora_dos_M%C3%A1rtires_56.jpg) — used for Basílica de Nossa Senhora dos Mártires
+- [960px-Baptistry_of_Igreja_de_Nossa_Senhora_dos_Mártires_52.jpg](https://commons.wikimedia.org/wiki/File:960px-Baptistry_of_Igreja_de_Nossa_Senhora_dos_M%C3%A1rtires_52.jpg) — used for Basílica de Nossa Senhora dos Mártires
+- [960px-Dedicação_da_Igreja_a_Nossa_Senhora_dos_Mártires_por_D._Afonso_Henriques_46.jpg](https://commons.wikimedia.org/wiki/File:960px-Dedica%C3%A7%C3%A3o_da_Igreja_a_Nossa_Senhora_dos_M%C3%A1rtires_por_D._Afonso_Henriques_46.jpg) — used for Basílica de Nossa Senhora dos Mártires
+- [960px-Exterior_of_Igreja_de_Nossa_Senhora_dos_Mártires_44.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Igreja_de_Nossa_Senhora_dos_M%C3%A1rtires_44.jpg) — used for Basílica de Nossa Senhora dos Mártires
+- [960px-Igreja_da_Madalena_(Lisbon)_35.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_da_Madalena_%28Lisbon%29_35.jpg) — used for Igreja da Madalena
+- [960px-Igreja_da_Madalena2038.JPG](https://commons.wikimedia.org/wiki/File:960px-Igreja_da_Madalena2038.JPG) — used for Igreja da Madalena
+- [960px-Interior_of_Igreja_da_Madalena_(Lisbon)_12.jpg](https://commons.wikimedia.org/wiki/File:960px-Interior_of_Igreja_da_Madalena_%28Lisbon%29_12.jpg) — used for Igreja da Madalena
+- [960px-ANF1975.jpg](https://commons.wikimedia.org/wiki/File:960px-ANF1975.jpg) — used for Museu da Farmácia
+- [960px-Lisboa_-_Elevador_da_Bica_(53861208616).jpg](https://commons.wikimedia.org/wiki/File:960px-Lisboa_-_Elevador_da_Bica_%2853861208616%29.jpg) — used for Elevador da Bica
+- [960px-Ascensor_da_Bica_-_Visão_geral.jpg](https://commons.wikimedia.org/wiki/File:960px-Ascensor_da_Bica_-_Vis%C3%A3o_geral.jpg) — used for Elevador da Bica
+- [960px-Elevador_da_Bica_frente.jpg](https://commons.wikimedia.org/wiki/File:960px-Elevador_da_Bica_frente.jpg) — used for Elevador da Bica
+- [960px-West_facade_of_Lisbon_Cathedral_(retouched).jpg](https://commons.wikimedia.org/wiki/File:960px-West_facade_of_Lisbon_Cathedral_%28retouched%29.jpg) — used for Sé de Lisboa
+- [Assunção_da_Virgem_(1825)_-_José_Inácio_de_Sampaio_(Sé_de_Lisboa).png](https://commons.wikimedia.org/wiki/File:Assun%C3%A7%C3%A3o_da_Virgem_%281825%29_-_Jos%C3%A9_In%C3%A1cio_de_Sampaio_%28S%C3%A9_de_Lisboa%29.png) — used for Sé de Lisboa
+- [960px-Baptistry_of_Sé_de_Lisboa_33.jpg](https://commons.wikimedia.org/wiki/File:960px-Baptistry_of_S%C3%A9_de_Lisboa_33.jpg) — used for Sé de Lisboa
+- [Capela-mor_da_Sé_de_Lisboa.jpg](https://commons.wikimedia.org/wiki/File:Capela-mor_da_S%C3%A9_de_Lisboa.jpg) — used for Sé de Lisboa
+- [960px-Palácio_Quintela_2017-09-25.png](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_Quintela_2017-09-25.png) — used for Palácio Quintela
+- [António_Augusto_Carvalho_Monteiro.jpg](https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Augusto_Carvalho_Monteiro.jpg) — used for Palácio Quintela
+- [960px-Teatro_Nacional_de_São_Carlos_2021-04-20.png](https://commons.wikimedia.org/wiki/File:960px-Teatro_Nacional_de_S%C3%A3o_Carlos_2021-04-20.png) — used for Teatro Nacional de São Carlos
+- [960px-Primeiro_Conde_de_Farrobo_-_Domingos_Sequeira.png](https://commons.wikimedia.org/wiki/File:960px-Primeiro_Conde_de_Farrobo_-_Domingos_Sequeira.png) — used for Teatro Nacional de São Carlos
+- [S._Carlos_em_1893.png](https://commons.wikimedia.org/wiki/File:S._Carlos_em_1893.png) — used for Teatro Nacional de São Carlos
+- [960px-TNSC_na_1a_metade_do_século_XIX.png](https://commons.wikimedia.org/wiki/File:960px-TNSC_na_1a_metade_do_s%C3%A9culo_XIX.png) — used for Teatro Nacional de São Carlos
+- [960px-Teatro_São_Luiz.jpg](https://commons.wikimedia.org/wiki/File:960px-Teatro_S%C3%A3o_Luiz.jpg) — used for Teatro São Luiz
+- [Lisbonne_Musée_du_Chiado.jpg](https://commons.wikimedia.org/wiki/File:Lisbonne_Mus%C3%A9e_du_Chiado.jpg) — used for Museu Nacional de Arte Contemporânea do Chiado
+- [960px-0_Adriano_Sousa_Lopes_IMG_5301.jpg](https://commons.wikimedia.org/wiki/File:960px-0_Adriano_Sousa_Lopes_IMG_5301.jpg) — used for Museu Nacional de Arte Contemporânea do Chiado
+- [960px-A_Luva_Cinzenta_(1881)_-_Columbano_Bordalo_Pinheiro_(MNAC_Inv._56).png](https://commons.wikimedia.org/wiki/File:960px-A_Luva_Cinzenta_%281881%29_-_Columbano_Bordalo_Pinheiro_%28MNAC_Inv._56%29.png) — used for Museu Nacional de Arte Contemporânea do Chiado
+- [A_avó_-_António_José_Patrício_(detalhe).jpg](https://commons.wikimedia.org/wiki/File:A_av%C3%B3_-_Ant%C3%B3nio_Jos%C3%A9_Patr%C3%ADcio_%28detalhe%29.jpg) — used for Museu Nacional de Arte Contemporânea do Chiado
+- [960px-Exterior_of_Igreja_de_Nossa_Senhora_da_Conceição_Velha_70.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Igreja_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Velha_70.jpg) — used for Igreja da Conceição Velha
+- [960px-Ceiling_of_Igreja_de_Nossa_Senhora_da_Conceição_Velha_75.jpg](https://commons.wikimedia.org/wiki/File:960px-Ceiling_of_Igreja_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Velha_75.jpg) — used for Igreja da Conceição Velha
+- [960px-Chancel_of_Igreja_de_Nossa_Senhora_da_Conceição_Velha_74.jpg](https://commons.wikimedia.org/wiki/File:960px-Chancel_of_Igreja_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Velha_74.jpg) — used for Igreja da Conceição Velha
+- [960px-Lisbon_Praça_do_Comércio_BW_2018-10-03_13-33-44_s.jpg](https://commons.wikimedia.org/wiki/File:960px-Lisbon_Pra%C3%A7a_do_Com%C3%A9rcio_BW_2018-10-03_13-33-44_s.jpg) — used for Arco da Rua Augusta
+- [Alçado_de_projecto_não_realizado_para_a_entrada_da_Rua_Augusta_(c._1759)_-_Dionísio_de_S._Dionísio.png](https://commons.wikimedia.org/wiki/File:Al%C3%A7ado_de_projecto_n%C3%A3o_realizado_para_a_entrada_da_Rua_Augusta_%28c._1759%29_-_Dion%C3%ADsio_de_S._Dion%C3%ADsio.png) — used for Arco da Rua Augusta
+- [960px-Arco_Triunfal_da_Rua_Augusta,_Plaza_del_Comercio,_Lisboa,_Portugal,_2012-05-12,_DD_05.JPG](https://commons.wikimedia.org/wiki/File:960px-Arco_Triunfal_da_Rua_Augusta%2C_Plaza_del_Comercio%2C_Lisboa%2C_Portugal%2C_2012-05-12%2C_DD_05.JPG) — used for Arco da Rua Augusta
+- [960px-Arco_Triunfal_da_Rua_Augusta_33.jpg](https://commons.wikimedia.org/wiki/File:960px-Arco_Triunfal_da_Rua_Augusta_33.jpg) — used for Arco da Rua Augusta
+- [960px-01_Museu_da_Cerveja.jpg](https://commons.wikimedia.org/wiki/File:960px-01_Museu_da_Cerveja.jpg) — used for Museu da Cerveja (Lisboa)
+- [960px-Copo_Museu_da_Cerveja_Júlio_Pomar.jpg](https://commons.wikimedia.org/wiki/File:960px-Copo_Museu_da_Cerveja_J%C3%BAlio_Pomar.jpg) — used for Museu da Cerveja (Lisboa)
+- [960px-Aerial_view_of_Praça_do_Comércio_and_Baixa_Pombalina_(cropped_and_retouched).jpg](https://commons.wikimedia.org/wiki/File:960px-Aerial_view_of_Pra%C3%A7a_do_Com%C3%A9rcio_and_Baixa_Pombalina_%28cropped_and_retouched%29.jpg) — used for Praça do Comércio
+- [960px-Arcades_of_Praça_do_Comércio_37.jpg](https://commons.wikimedia.org/wiki/File:960px-Arcades_of_Pra%C3%A7a_do_Com%C3%A9rcio_37.jpg) — used for Praça do Comércio
+- [Mercado_Ribeira_Lisbon.JPG](https://commons.wikimedia.org/wiki/File:Mercado_Ribeira_Lisbon.JPG) — used for Mercado da Ribeira
+- [960px-Time_Out_Market.JPG](https://commons.wikimedia.org/wiki/File:960px-Time_Out_Market.JPG) — used for Mercado da Ribeira
+- [960px-Terreiro_do_Paço_antes_do_Terramoto_de_1755.png](https://commons.wikimedia.org/wiki/File:960px-Terreiro_do_Pa%C3%A7o_antes_do_Terramoto_de_1755.png) — used for Paço da Ribeira
+- [960px-Court_function_at_the_Palace_of_Ribeira_in_1748.jpg](https://commons.wikimedia.org/wiki/File:960px-Court_function_at_the_Palace_of_Ribeira_in_1748.jpg) — used for Paço da Ribeira
+- [960px-Terminal_Terreiro_do_Paço_(51215404296).jpg](https://commons.wikimedia.org/wiki/File:960px-Terminal_Terreiro_do_Pa%C3%A7o_%2851215404296%29.jpg) — used for Terminal Fluvial do Terreiro do Paço
+- [960px-Bahnhof_Lissabon_Cais_do_Sodre.jpg](https://commons.wikimedia.org/wiki/File:960px-Bahnhof_Lissabon_Cais_do_Sodre.jpg) — used for Estação Ferroviária do Cais do Sodré
+- [960px-Vista_lateral_da_fachada_do_Palácio_Anadia.jpg](https://commons.wikimedia.org/wiki/File:960px-Vista_lateral_da_fachada_do_Pal%C3%A1cio_Anadia.jpg) — used for Palácio Anadia
+- [960px-AML-HNV-000197_-_Palácio_Anadia.jpg](https://commons.wikimedia.org/wiki/File:960px-AML-HNV-000197_-_Pal%C3%A1cio_Anadia.jpg) — used for Palácio Anadia
+- [960px-AML-HNV-000198_-_Palácio_Anadia.jpg](https://commons.wikimedia.org/wiki/File:960px-AML-HNV-000198_-_Pal%C3%A1cio_Anadia.jpg) — used for Palácio Anadia
+- [960px-AML-HNV-000199_-_Palácio_Anadia_e_jardim.jpg](https://commons.wikimedia.org/wiki/File:960px-AML-HNV-000199_-_Pal%C3%A1cio_Anadia_e_jardim.jpg) — used for Palácio Anadia
+- [960px-Lisbon_(49424132976).jpg](https://commons.wikimedia.org/wiki/File:960px-Lisbon_%2849424132976%29.jpg) — used for Capela de Nossa Senhora de Monserrate
+- [960px-Capela_de_Nossa_Senhora_de_Monserrate,_Lisboa,_Portugal_02.jpg](https://commons.wikimedia.org/wiki/File:960px-Capela_de_Nossa_Senhora_de_Monserrate%2C_Lisboa%2C_Portugal_02.jpg) — used for Capela de Nossa Senhora de Monserrate
+- [960px-Casa_Museu_António_Medeiros_e_Almeida.jpg](https://commons.wikimedia.org/wiki/File:960px-Casa_Museu_Ant%C3%B3nio_Medeiros_e_Almeida.jpg) — used for Museu Medeiros e Almeida
+- [960px-Cinemateca_de_Lisboa_-_Portugal_🇵🇹_(53664180193)_(cropped).jpg](https://commons.wikimedia.org/wiki/File:960px-Cinemateca_de_Lisboa_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853664180193%29_%28cropped%29.jpg) — used for Cinemateca Portuguesa
+- [960px-Cinemateca_de_Lisboa_-_Portugal_🇵🇹_(53664180233).jpg](https://commons.wikimedia.org/wiki/File:960px-Cinemateca_de_Lisboa_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853664180233%29.jpg) — used for Cinemateca Portuguesa
+- [Tivoli_Raul_Lino_00004.jpg](https://commons.wikimedia.org/wiki/File:Tivoli_Raul_Lino_00004.jpg) — used for Teatro Tivoli
+- [960px-Teatro_Tivoli_-_Fachada.jpg](https://commons.wikimedia.org/wiki/File:960px-Teatro_Tivoli_-_Fachada.jpg) — used for Teatro Tivoli
+- [960px-Theatre_ABC_Lisbon.jpg](https://commons.wikimedia.org/wiki/File:960px-Theatre_ABC_Lisbon.jpg) — used for Teatro ABC
+- [960px-Teatro_Maria_Vitoria.JPG](https://commons.wikimedia.org/wiki/File:960px-Teatro_Maria_Vitoria.JPG) — used for Teatro Maria Vitória
+- [960px-PalacioMayer.JPG](https://commons.wikimedia.org/wiki/File:960px-PalacioMayer.JPG) — used for Palácio Lima Mayer
+- [960px-Embaixada_de_Espanha.JPG](https://commons.wikimedia.org/wiki/File:960px-Embaixada_de_Espanha.JPG) — used for Palácio Lima Mayer
+- [960px-Palácio_Palmela_7948.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_Palmela_7948.jpg) — used for Palácio Palmela
+- [960px-Teatro_Variedades_2026_-_Entrada_Vista_Superior_1.jpg](https://commons.wikimedia.org/wiki/File:960px-Teatro_Variedades_2026_-_Entrada_Vista_Superior_1.jpg) — used for Teatro Variedades
+- [Adérito_Lopes_(ator).jpg](https://commons.wikimedia.org/wiki/File:Ad%C3%A9rito_Lopes_%28ator%29.jpg) — used for Teatro Variedades
+- [António_Silva_(O_Costa_do_Castelo)_2.jpg](https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Silva_%28O_Costa_do_Castelo%29_2.jpg) — used for Teatro Variedades
+- [960px-Balcão_e_plateia_do_teatro_Variedades_março_2026,.jpg](https://commons.wikimedia.org/wiki/File:960px-Balc%C3%A3o_e_plateia_do_teatro_Variedades_mar%C3%A7o_2026%2C.jpg) — used for Teatro Variedades
+- [960px-Teatro_Capitólio_Lisbon_sunny_day.jpg](https://commons.wikimedia.org/wiki/File:960px-Teatro_Capit%C3%B3lio_Lisbon_sunny_day.jpg) — used for Cineteatro Capitólio
+- [960px-Jardim_Botânico_de_Lisboa_-_Portugal_🇵🇹_(54210262784).jpg](https://commons.wikimedia.org/wiki/File:960px-Jardim_Bot%C3%A2nico_de_Lisboa_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2854210262784%29.jpg) — used for Jardim Botânico de Lisboa
+- [960px-Clematis_flammula.jpg](https://commons.wikimedia.org/wiki/File:960px-Clematis_flammula.jpg) — used for Jardim Botânico de Lisboa
+- [960px-Euphorbia_resinifera_JBL.JPG](https://commons.wikimedia.org/wiki/File:960px-Euphorbia_resinifera_JBL.JPG) — used for Jardim Botânico de Lisboa
+- [960px-Museu_Nacional_de_Historia_Natural_e_da_Ciencia_-_Universidade_de_Lisboa_-_panoramio.jpg](https://commons.wikimedia.org/wiki/File:960px-Museu_Nacional_de_Historia_Natural_e_da_Ciencia_-_Universidade_de_Lisboa_-_panoramio.jpg) — used for Museu Nacional de História Natural e da Ciência
+- [960px-Casa_Fernando_Pessoa.jpg](https://commons.wikimedia.org/wiki/File:960px-Casa_Fernando_Pessoa.jpg) — used for Casa Fernando Pessoa
+- [960px-Patriarcal_Reservoir_01.jpg](https://commons.wikimedia.org/wiki/File:960px-Patriarcal_Reservoir_01.jpg) — used for Jardim do Príncipe Real
+- [Patriarcal_Queimada_-_Diário_Illustrado_(29Jul1873).png](https://commons.wikimedia.org/wiki/File:Patriarcal_Queimada_-_Di%C3%A1rio_Illustrado_%2829Jul1873%29.png) — used for Jardim do Príncipe Real
+- [960px-Museu_Joao_Deus_-_Lisboa.JPG](https://commons.wikimedia.org/wiki/File:960px-Museu_Joao_Deus_-_Lisboa.JPG) — used for Museu João de Deus
+- [960px-Igreja_do_Santo_Condestável_13.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_do_Santo_Condest%C3%A1vel_13.jpg) — used for Igreja do Santo Condestável
+- [960px-Igreja_do_Santo_Condestável_10.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_do_Santo_Condest%C3%A1vel_10.jpg) — used for Igreja do Santo Condestável
+- [960px-Igreja_do_Santo_Condestável_11.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_do_Santo_Condest%C3%A1vel_11.jpg) — used for Igreja do Santo Condestável
+- [960px-Jardim_Fialho_de_Almeida_-_Lisboa_-_Portugal_(53116309229).jpg](https://commons.wikimedia.org/wiki/File:960px-Jardim_Fialho_de_Almeida_-_Lisboa_-_Portugal_%2853116309229%29.jpg) — used for Praça das Flores
+- [960px-Nave_of_the_church_of_the_Convento_dos_Cardais_93.jpg](https://commons.wikimedia.org/wiki/File:960px-Nave_of_the_church_of_the_Convento_dos_Cardais_93.jpg) — used for Convento dos Cardais
+- [960px-Altarpieces_in_Convento_dos_Cardais_73.jpg](https://commons.wikimedia.org/wiki/File:960px-Altarpieces_in_Convento_dos_Cardais_73.jpg) — used for Convento dos Cardais
+- [960px-Altarpieces_in_Convento_dos_Cardais_79.jpg](https://commons.wikimedia.org/wiki/File:960px-Altarpieces_in_Convento_dos_Cardais_79.jpg) — used for Convento dos Cardais
+- [Anunciação_by_André_Gonçalves_(Convento_dos_Cardais,_Lisboa)_-_Jul_2007-_extracted.jpg](https://commons.wikimedia.org/wiki/File:Anuncia%C3%A7%C3%A3o_by_Andr%C3%A9_Gon%C3%A7alves_%28Convento_dos_Cardais%2C_Lisboa%29_-_Jul_2007-_extracted.jpg) — used for Convento dos Cardais
+- [960px-Jardim_da_Estrela_-_Lisboa_-_Portugal_(15227514472).jpg](https://commons.wikimedia.org/wiki/File:960px-Jardim_da_Estrela_-_Lisboa_-_Portugal_%2815227514472%29.jpg) — used for Jardim da Estrela
+- [Barata_Feyo_Antero_de_Quental_IMG_9831.JPG](https://commons.wikimedia.org/wiki/File:Barata_Feyo_Antero_de_Quental_IMG_9831.JPG) — used for Jardim da Estrela
+- [Casa_do_Jardim_da_Estrela_2024.jpg](https://commons.wikimedia.org/wiki/File:Casa_do_Jardim_da_Estrela_2024.jpg) — used for Jardim da Estrela
+- [960px-Main_facade_of_Basílica_da_Estrela_57.jpg](https://commons.wikimedia.org/wiki/File:960px-Main_facade_of_Bas%C3%ADlica_da_Estrela_57.jpg) — used for Basílica da Estrela
+- [960px-Church_dome_exterior_of_Basílica_da_Estrela_62.jpg](https://commons.wikimedia.org/wiki/File:960px-Church_dome_exterior_of_Bas%C3%ADlica_da_Estrela_62.jpg) — used for Basílica da Estrela
+- [960px-Church_dome_interior_of_Basílica_da_Estrela_82.jpg](https://commons.wikimedia.org/wiki/File:960px-Church_dome_interior_of_Bas%C3%ADlica_da_Estrela_82.jpg) — used for Basílica da Estrela
+- [960px-Exterior_of_Igreja_da_Memória_56.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Igreja_da_Mem%C3%B3ria_56.jpg) — used for Igreja da Memória
+- [960px-Dome_interior_of_Igreja_da_Memória_78.jpg](https://commons.wikimedia.org/wiki/File:960px-Dome_interior_of_Igreja_da_Mem%C3%B3ria_78.jpg) — used for Igreja da Memória
+- [960px-Exterior_of_Igreja_da_Memória_54.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Igreja_da_Mem%C3%B3ria_54.jpg) — used for Igreja da Memória
+- [960px-Exterior_Igreja_Nª_Sª_Mercês_2.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_Igreja_N%C2%AA_S%C2%AA_Merc%C3%AAs_2.jpg) — used for Convento de Nossa Senhora de Jesus
+- [960px-22_11_2022_Encontro_com_o_senhor_António_Costa,_Primeiro-Ministro_da_República_Portuguesa_(52518745795).jpg](https://commons.wikimedia.org/wiki/File:960px-22_11_2022_Encontro_com_o_senhor_Ant%C3%B3nio_Costa%2C_Primeiro-Ministro_da_Rep%C3%BAblica_Portuguesa_%2852518745795%29.jpg) — used for Palacete de São Bento
+- [960px-Antonio_Salazar-1.jpg](https://commons.wikimedia.org/wiki/File:960px-Antonio_Salazar-1.jpg) — used for Palacete de São Bento
+- [António_Guterres.jpg](https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Guterres.jpg) — used for Palacete de São Bento
+- [Palácio_das_Cortes,_extinto_mosteiro_de_S._Bento_(1860).png](https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_das_Cortes%2C_extinto_mosteiro_de_S._Bento_%281860%29.png) — used for Palácio de São Bento
+- [960px-Palácio_de_São_Bento_3.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_de_S%C3%A3o_Bento_3.jpg) — used for Palácio de São Bento
+- [960px-22_11_2022_Encontro_com_o_senhor_Augusto_Santos_Silva,_Presidente_da_Assembleia_da_República_(52518546029).jpg](https://commons.wikimedia.org/wiki/File:960px-22_11_2022_Encontro_com_o_senhor_Augusto_Santos_Silva%2C_Presidente_da_Assembleia_da_Rep%C3%BAblica_%2852518546029%29.jpg) — used for Assembleia da República (Portugal)
+- [960px-Museu_da_Marioneta.jpg](https://commons.wikimedia.org/wiki/File:960px-Museu_da_Marioneta.jpg) — used for Museu da Marioneta
+- [Golek_marioneta.jpg](https://commons.wikimedia.org/wiki/File:Golek_marioneta.jpg) — used for Museu da Marioneta
+- [Punch_judy.jpg](https://commons.wikimedia.org/wiki/File:Punch_judy.jpg) — used for Museu da Marioneta
+- [960px-Santos_train_station.jpg](https://commons.wikimedia.org/wiki/File:960px-Santos_train_station.jpg) — used for Estação Ferroviária de Santos
+- [960px-20210703_100648_Santos_train_station.jpg](https://commons.wikimedia.org/wiki/File:960px-20210703_100648_Santos_train_station.jpg) — used for Estação Ferroviária de Santos
+- [960px-20210703_100700_Santos_train_station.jpg](https://commons.wikimedia.org/wiki/File:960px-20210703_100700_Santos_train_station.jpg) — used for Estação Ferroviária de Santos
+- [960px-Main_façade_of_Palácio_Nacional_da_Ajuda_043.jpg](https://commons.wikimedia.org/wiki/File:960px-Main_fa%C3%A7ade_of_Pal%C3%A1cio_Nacional_da_Ajuda_043.jpg) — used for Palácio Nacional da Ajuda
+- [960px-A_Família_Real_Portuguesa_em_Queluz.jpg](https://commons.wikimedia.org/wiki/File:960px-A_Fam%C3%ADlia_Real_Portuguesa_em_Queluz.jpg) — used for Palácio Nacional da Ajuda
+- [960px-Audience_Room_(Palácio_Nacional_da_Ajuda)_107.jpg](https://commons.wikimedia.org/wiki/File:960px-Audience_Room_%28Pal%C3%A1cio_Nacional_da_Ajuda%29_107.jpg) — used for Palácio Nacional da Ajuda
+- [960px-Exterior_of_Palácio_Nacional_da_Ajuda_051.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Pal%C3%A1cio_Nacional_da_Ajuda_051.jpg) — used for Palácio Nacional da Ajuda
+- [960px-Topiary_in_Jardim_Botânico_da_Ajuda_73.jpg](https://commons.wikimedia.org/wiki/File:960px-Topiary_in_Jardim_Bot%C3%A2nico_da_Ajuda_73.jpg) — used for Jardim Botânico da Ajuda
+- [960px-Animals_in_Jardim_Botânico_da_Ajuda_52.jpg](https://commons.wikimedia.org/wiki/File:960px-Animals_in_Jardim_Bot%C3%A2nico_da_Ajuda_52.jpg) — used for Jardim Botânico da Ajuda
+- [960px-Fonte_das_40_bicas_84.jpg](https://commons.wikimedia.org/wiki/File:960px-Fonte_das_40_bicas_84.jpg) — used for Jardim Botânico da Ajuda
+- [960px-Lisbon,_the_Museu_Nacional_de_Etnologia.JPG](https://commons.wikimedia.org/wiki/File:960px-Lisbon%2C_the_Museu_Nacional_de_Etnologia.JPG) — used for Museu Nacional de Etnologia
+- [960px-Palm_Trees_-_Jardim_do_Ultramar_(Botanical_Gardens)_-_Belem_District_-_Lisbon,_Portugal_(4633068205).jpg](https://commons.wikimedia.org/wiki/File:960px-Palm_Trees_-_Jardim_do_Ultramar_%28Botanical_Gardens%29_-_Belem_District_-_Lisbon%2C_Portugal_%284633068205%29.jpg) — used for Jardim Botânico Tropical
+- [960px-Jardim_Botânico_Tropical.jpg](https://commons.wikimedia.org/wiki/File:960px-Jardim_Bot%C3%A2nico_Tropical.jpg) — used for Jardim Botânico Tropical
+- [960px-Jardim_Botânico_Tropical_1.jpg](https://commons.wikimedia.org/wiki/File:960px-Jardim_Bot%C3%A2nico_Tropical_1.jpg) — used for Jardim Botânico Tropical
+- [960px-Jardim_Botânico_Tropical_6.jpg](https://commons.wikimedia.org/wiki/File:960px-Jardim_Bot%C3%A2nico_Tropical_6.jpg) — used for Jardim Botânico Tropical
+- [Palacio_Belem_Lisboa.JPG](https://commons.wikimedia.org/wiki/File:Palacio_Belem_Lisboa.JPG) — used for Palácio Nacional de Belém
+- [960px-20230507_Lisboa_Bilateral_Presidente_de_Portugal-jc_00699_(52877370691).jpg](https://commons.wikimedia.org/wiki/File:960px-20230507_Lisboa_Bilateral_Presidente_de_Portugal-jc_00699_%2852877370691%29.jpg) — used for Palácio Nacional de Belém
+- [960px-Chapel_of_Palácio_Nacional_de_Belém_41.jpg](https://commons.wikimedia.org/wiki/File:960px-Chapel_of_Pal%C3%A1cio_Nacional_de_Bel%C3%A9m_41.jpg) — used for Palácio Nacional de Belém
+- [960px-Exterior_of_Palácio_Nacional_de_Belém_10.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Pal%C3%A1cio_Nacional_de_Bel%C3%A9m_10.jpg) — used for Palácio Nacional de Belém
+- [960px-1502_legte_König_Manuel_I._den_Grundstein_für_das_Hieronymus_Kloster_in_Lissabon._06.jpg](https://commons.wikimedia.org/wiki/File:960px-1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg) — used for Mosteiro dos Jerónimos
+- [960px-Capela-mor_Mosteiro_dos_Jerónimos_2_IMG_0728.JPG](https://commons.wikimedia.org/wiki/File:960px-Capela-mor_Mosteiro_dos_Jer%C3%B3nimos_2_IMG_0728.JPG) — used for Mosteiro dos Jerónimos
+- [960px-Capela_do_transepto_túmulo_de_D_Sebastião_Mosteiro_dos_Jerónimos_3_IMG_1090.JPG](https://commons.wikimedia.org/wiki/File:960px-Capela_do_transepto_t%C3%BAmulo_de_D_Sebasti%C3%A3o_Mosteiro_dos_Jer%C3%B3nimos_3_IMG_1090.JPG) — used for Mosteiro dos Jerónimos
+- [960px-Palácio_de_Belém_-_Lisboa_-_Portugal_(5284659273)_(cropped).jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_de_Bel%C3%A9m_-_Lisboa_-_Portugal_%285284659273%29_%28cropped%29.jpg) — used for Jardins do Palácio de Belém
+- [960px-Marcelo_Rebelo_de_Sousa_recebe_os_Campeões_Europeus_de_Futebol_em_Belém_(2016-07-11).png](https://commons.wikimedia.org/wiki/File:960px-Marcelo_Rebelo_de_Sousa_recebe_os_Campe%C3%B5es_Europeus_de_Futebol_em_Bel%C3%A9m_%282016-07-11%29.png) — used for Jardins do Palácio de Belém
+- [960px-Palácio_de_Belém_-_Lisboa_-_Portugal_(5285234420).jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_de_Bel%C3%A9m_-_Lisboa_-_Portugal_%285285234420%29.jpg) — used for Jardins do Palácio de Belém
+- [960px-Fábrica_Nacional_da_Cordoaria_7614.jpg](https://commons.wikimedia.org/wiki/File:960px-F%C3%A1brica_Nacional_da_Cordoaria_7614.jpg) — used for Cordoaria Nacional
+- [960px-Corodoaria-Nacional6.jpg](https://commons.wikimedia.org/wiki/File:960px-Corodoaria-Nacional6.jpg) — used for Cordoaria Nacional
+- [960px-Museo_Nacional_de_Arqueología._Lisboa.jpg](https://commons.wikimedia.org/wiki/File:960px-Museo_Nacional_de_Arqueolog%C3%ADa._Lisboa.jpg) — used for Museu Nacional de Arqueologia
+- [960px-ArkeoMuseumBelem.jpg](https://commons.wikimedia.org/wiki/File:960px-ArkeoMuseumBelem.jpg) — used for Museu Nacional de Arqueologia
+- [960px-Cabeça_Feminina_(Júlia),_I_d.C._-_II_d.C.,_Época_Romana,_Romano_Lusitânia.jpg](https://commons.wikimedia.org/wiki/File:960px-Cabe%C3%A7a_Feminina_%28J%C3%BAlia%29%2C_I_d.C._-_II_d.C.%2C_%C3%89poca_Romana%2C_Romano_Lusit%C3%A2nia.jpg) — used for Museu Nacional de Arqueologia
+- [960px-Estátua_de_Apolo_(vista_de_costas)_MNArqueologia.jpg](https://commons.wikimedia.org/wiki/File:960px-Est%C3%A1tua_de_Apolo_%28vista_de_costas%29_MNArqueologia.jpg) — used for Museu Nacional de Arqueologia
+- [960px-Museu_de_Marinha_Lissabon_Eingang_September_2014.jpg](https://commons.wikimedia.org/wiki/File:960px-Museu_de_Marinha_Lissabon_Eingang_September_2014.jpg) — used for Museu de Marinha
+- [960px-2006-11-Lisbonne_030.jpg](https://commons.wikimedia.org/wiki/File:960px-2006-11-Lisbonne_030.jpg) — used for Museu de Marinha
+- [960px-Carrack_Madre_de_Deus.jpg](https://commons.wikimedia.org/wiki/File:960px-Carrack_Madre_de_Deus.jpg) — used for Museu de Marinha
+- [960px-MaritimeMuseumLisbon1.jpg](https://commons.wikimedia.org/wiki/File:960px-MaritimeMuseumLisbon1.jpg) — used for Museu de Marinha
+- [960px-Antigo_Picadeiro_Real.jpg](https://commons.wikimedia.org/wiki/File:960px-Antigo_Picadeiro_Real.jpg) — used for Museu Nacional dos Coches
+- [960px-Carriage_in_the_Museu_Nacional_dos_Coches_(22).jpg](https://commons.wikimedia.org/wiki/File:960px-Carriage_in_the_Museu_Nacional_dos_Coches_%2822%29.jpg) — used for Museu Nacional dos Coches
+- [960px-Clarence_-_Museu_Nacional_dos_Coches_-_Lisboa_-_Portugal_(50949343291).jpg](https://commons.wikimedia.org/wiki/File:960px-Clarence_-_Museu_Nacional_dos_Coches_-_Lisboa_-_Portugal_%2850949343291%29.jpg) — used for Museu Nacional dos Coches
+- [960px-JeronimosView.jpg](https://commons.wikimedia.org/wiki/File:960px-JeronimosView.jpg) — used for Jardim da Praça do Império
+- [960px-Fonte_Luminosa_da_Praça_do_Império_64.jpg](https://commons.wikimedia.org/wiki/File:960px-Fonte_Luminosa_da_Pra%C3%A7a_do_Imp%C3%A9rio_64.jpg) — used for Jardim da Praça do Império
+- [960px-Hippocamp_pond_in_Praça_do_Império_65.jpg](https://commons.wikimedia.org/wiki/File:960px-Hippocamp_pond_in_Pra%C3%A7a_do_Imp%C3%A9rio_65.jpg) — used for Jardim da Praça do Império
+- [960px-Between_Belem_and_Alcantara_(42498166721).jpg](https://commons.wikimedia.org/wiki/File:960px-Between_Belem_and_Alcantara_%2842498166721%29.jpg) — used for Estação Ferroviária de Belém
+- [960px-Exterior_of_Museu_de_Arte,_Arquitetura_e_Tecnologia_67.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Museu_de_Arte%2C_Arquitetura_e_Tecnologia_67.jpg) — used for Museu de Arte, Arquitetura e Tecnologia
+- [960px-Calderes.JPG](https://commons.wikimedia.org/wiki/File:960px-Calderes.JPG) — used for Museu de Arte, Arquitetura e Tecnologia
+- [960px-Cinzeiros.JPG](https://commons.wikimedia.org/wiki/File:960px-Cinzeiros.JPG) — used for Museu de Arte, Arquitetura e Tecnologia
+- [960px-Exterior_of_Museu_da_Electricidade_16.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Museu_da_Electricidade_16.jpg) — used for Museu de Arte, Arquitetura e Tecnologia
+- [960px-View_from_Padrão_dos_Descobrimentos_-_Centro_Cultural_de_Belém_(2)_-_Jul_2008.jpg](https://commons.wikimedia.org/wiki/File:960px-View_from_Padr%C3%A3o_dos_Descobrimentos_-_Centro_Cultural_de_Bel%C3%A9m_%282%29_-_Jul_2008.jpg) — used for Centro Cultural de Belém
+- [960px-Cc_belem_13.jpg](https://commons.wikimedia.org/wiki/File:960px-Cc_belem_13.jpg) — used for Centro Cultural de Belém
+- [960px-Cc_belem_2.jpg](https://commons.wikimedia.org/wiki/File:960px-Cc_belem_2.jpg) — used for Centro Cultural de Belém
+- [960px-Centro_Cultural_de_Belém_16.jpg](https://commons.wikimedia.org/wiki/File:960px-Centro_Cultural_de_Bel%C3%A9m_16.jpg) — used for Centro Cultural de Belém
+- [960px-Berardo_Collection_Museum.png](https://commons.wikimedia.org/wiki/File:960px-Berardo_Collection_Museum.png) — used for Museu de Arte Contemporânea do Centro Cultural de Belém
+- [960px-Cabinet_d’Amateur_-2_(Stockholm_version)_de_Pedro_Cabrita_Reis.jpg](https://commons.wikimedia.org/wiki/File:960px-Cabinet_d%E2%80%99Amateur_-2_%28Stockholm_version%29_de_Pedro_Cabrita_Reis.jpg) — used for Museu de Arte Contemporânea do Centro Cultural de Belém
+- [960px-Progression_in_6_stages_de_Max_Bill.jpg](https://commons.wikimedia.org/wiki/File:960px-Progression_in_6_stages_de_Max_Bill.jpg) — used for Museu de Arte Contemporânea do Centro Cultural de Belém
+- [960px-Exterior_of_Museu_de_Arte_Popular_(Lisboa)_84.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Museu_de_Arte_Popular_%28Lisboa%29_84.jpg) — used for Museu de Arte Popular (Portugal)
+- [960px-Exterior_of_Museu_de_Arte_Popular_(Lisboa)_26.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Museu_de_Arte_Popular_%28Lisboa%29_26.jpg) — used for Museu de Arte Popular (Portugal)
+- [960px-Exterior_of_Museu_de_Arte_Popular_(Lisboa)_29.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Museu_de_Arte_Popular_%28Lisboa%29_29.jpg) — used for Museu de Arte Popular (Portugal)
+- [960px-Exterior_of_Museu_de_Arte_Popular_(Lisboa)_31.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Museu_de_Arte_Popular_%28Lisboa%29_31.jpg) — used for Museu de Arte Popular (Portugal)
+- [960px-Monumento_a_los_Descubrimientos,_Lisboa,_Portugal,_2012-05-12,_DD_19.JPG](https://commons.wikimedia.org/wiki/File:960px-Monumento_a_los_Descubrimientos%2C_Lisboa%2C_Portugal%2C_2012-05-12%2C_DD_19.JPG) — used for Padrão dos Descobrimentos
+- [D._Afonso_V_-_Padrão_dos_Descobrimentos.png](https://commons.wikimedia.org/wiki/File:D._Afonso_V_-_Padr%C3%A3o_dos_Descobrimentos.png) — used for Padrão dos Descobrimentos
+- [960px-Belém_Tower_in_Lisbon,_Portugal.jpg](https://commons.wikimedia.org/wiki/File:960px-Bel%C3%A9m_Tower_in_Lisbon%2C_Portugal.jpg) — used for Torre de Belém
+- [960px-2002-10-26_11-15_(Andalusien_&_Lissabon_263)_Lissabon,_Belém,_Torre_de_Belém.jpg](https://commons.wikimedia.org/wiki/File:960px-2002-10-26_11-15_%28Andalusien_%26_Lissabon_263%29_Lissabon%2C_Bel%C3%A9m%2C_Torre_de_Bel%C3%A9m.jpg) — used for Torre de Belém
+- [960px-Belem's_Tower.jpg](https://commons.wikimedia.org/wiki/File:960px-Belem%27s_Tower.jpg) — used for Torre de Belém
+- [BelemTower-IPPAR2.jpg](https://commons.wikimedia.org/wiki/File:BelemTower-IPPAR2.jpg) — used for Torre de Belém
+- [960px-Alvito-A_train_station.jpg](https://commons.wikimedia.org/wiki/File:960px-Alvito-A_train_station.jpg) — used for Estação Ferroviária de Alvito-A
+- [960px-Alcantara_Terra_Railway_Station.jpg](https://commons.wikimedia.org/wiki/File:960px-Alcantara_Terra_Railway_Station.jpg) — used for Estação Ferroviária de Alcântara-Terra
+- [960px-Alcantara_Terra_-_Cadernos_do_AML_2015.jpg](https://commons.wikimedia.org/wiki/File:960px-Alcantara_Terra_-_Cadernos_do_AML_2015.jpg) — used for Estação Ferroviária de Alcântara-Terra
+- [960px-Exterior_of_Palácio_das_Necessidades_(Lisbon)_47.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Pal%C3%A1cio_das_Necessidades_%28Lisbon%29_47.jpg) — used for Palácio das Necessidades
+- [960px-Chafariz_das_Necessidades_45.jpg](https://commons.wikimedia.org/wiki/File:960px-Chafariz_das_Necessidades_45.jpg) — used for Palácio das Necessidades
+- [960px-Chafariz_das_Necessidades_46.jpg](https://commons.wikimedia.org/wiki/File:960px-Chafariz_das_Necessidades_46.jpg) — used for Palácio das Necessidades
+- [960px-MNAA.jpg](https://commons.wikimedia.org/wiki/File:960px-MNAA.jpg) — used for Museu Nacional de Arte Antiga
+- [960px-Albrecht_Dürer_035.jpg](https://commons.wikimedia.org/wiki/File:960px-Albrecht_D%C3%BCrer_035.jpg) — used for Museu Nacional de Arte Antiga
+- [960px-Chafariz_das_Janelas_Verdes2078.JPG](https://commons.wikimedia.org/wiki/File:960px-Chafariz_das_Janelas_Verdes2078.JPG) — used for Museu Nacional de Arte Antiga
+- [960px-Igreja_e_Convento_Flamengas.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_e_Convento_Flamengas.jpg) — used for Igreja e Convento das Flamengas
+- [960px-Altar-mor_da_Igreja_das_Flamengas_com_imagem_de_Nossa_Senhora_da_Quietação.jpg](https://commons.wikimedia.org/wiki/File:960px-Altar-mor_da_Igreja_das_Flamengas_com_imagem_de_Nossa_Senhora_da_Quieta%C3%A7%C3%A3o.jpg) — used for Igreja e Convento das Flamengas
+- [960px-Capela_e_Convento_das_Flamengas_-_Holy_Water_Font.jpg](https://commons.wikimedia.org/wiki/File:960px-Capela_e_Convento_das_Flamengas_-_Holy_Water_Font.jpg) — used for Igreja e Convento das Flamengas
+- [960px-Palácio_do_Conde_de_Óbidos_(da_gare_m_Rocha_Conde_de_Óbidos)_8266.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_do_Conde_de_%C3%93bidos_%28da_gare_m_Rocha_Conde_de_%C3%93bidos%29_8266.jpg) — used for Palácio dos Condes de Óbidos
+- [960px-Palácio_Sabugosa_2.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_Sabugosa_2.jpg) — used for Palácio Sabugosa
+- [960px-Museu_do_Oriente.jpg](https://commons.wikimedia.org/wiki/File:960px-Museu_do_Oriente.jpg) — used for Museu do Oriente
+- [960px-Alcântara-Mar_train_station_(1).jpg](https://commons.wikimedia.org/wiki/File:960px-Alc%C3%A2ntara-Mar_train_station_%281%29.jpg) — used for Estação Ferroviária de Alcântara-Mar
+- [AlcantaraPortugal02.JPG](https://commons.wikimedia.org/wiki/File:AlcantaraPortugal02.JPG) — used for Estação Ferroviária de Alcântara-Mar
+- [960px-Alcântara-Mar_train_station_(4).jpg](https://commons.wikimedia.org/wiki/File:960px-Alc%C3%A2ntara-Mar_train_station_%284%29.jpg) — used for Estação Ferroviária de Alcântara-Mar
+- [Museucarris002.png](https://commons.wikimedia.org/wiki/File:Museucarris002.png) — used for Museu da Carris
+- [960px-LocationAsia.png](https://commons.wikimedia.org/wiki/File:960px-LocationAsia.png) — used for Museu do Centro Científico e Cultural de Macau
+- [960px-Macao_Science_and_Culture_Centre,_Lisbon.JPG](https://commons.wikimedia.org/wiki/File:960px-Macao_Science_and_Culture_Centre%2C_Lisbon.JPG) — used for Museu do Centro Científico e Cultural de Macau
+- [960px-Capitão_Theodosio_Gonçalves_da_Silva_e_sua_mulher_D._Ana_de_Souza_Queiros_Silva_(1789)_-_Santa_Casa_da_Misericórdia_da_Bahia.png](https://commons.wikimedia.org/wiki/File:960px-Capit%C3%A3o_Theodosio_Gon%C3%A7alves_da_Silva_e_sua_mulher_D._Ana_de_Souza_Queiros_Silva_%281789%29_-_Santa_Casa_da_Miseric%C3%B3rdia_da_Bahia.png) — used for Palácio dos Condes da Ponte
+- [960px-Igreja_de_Nossa_Senhora_da_Encarnação_(Ameixoeira)_03.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_Nossa_Senhora_da_Encarna%C3%A7%C3%A3o_%28Ameixoeira%29_03.jpg) — used for Igreja de Nossa Senhora da Encarnação da Ameixoeira
+- [960px-Anunciação_Tecto_Igreja_de_Nossa_Senhora_da_Encarnação_Ameixoeira.jpg](https://commons.wikimedia.org/wiki/File:960px-Anuncia%C3%A7%C3%A3o_Tecto_Igreja_de_Nossa_Senhora_da_Encarna%C3%A7%C3%A3o_Ameixoeira.jpg) — used for Igreja de Nossa Senhora da Encarnação da Ameixoeira
+- [960px-Bodas_de_Canaa_Igreja_de_Nossa_Senhora_da_Encarnação_Ameixoeira.jpg](https://commons.wikimedia.org/wiki/File:960px-Bodas_de_Canaa_Igreja_de_Nossa_Senhora_da_Encarna%C3%A7%C3%A3o_Ameixoeira.jpg) — used for Igreja de Nossa Senhora da Encarnação da Ameixoeira
+- [960px-Cristo_Deposto_da_Cruz_Igreja_de_Nossa_Senhora_da_Encarnação_Ameixoeira.jpg](https://commons.wikimedia.org/wiki/File:960px-Cristo_Deposto_da_Cruz_Igreja_de_Nossa_Senhora_da_Encarna%C3%A7%C3%A3o_Ameixoeira.jpg) — used for Igreja de Nossa Senhora da Encarnação da Ameixoeira
+- [960px-Museu_do_Traje_8404.jpg](https://commons.wikimedia.org/wiki/File:960px-Museu_do_Traje_8404.jpg) — used for Museu Nacional do Traje
+- [Brasões_dos_Marqueses_de_Faial_e_2º_Duque_de_Palmela;_Museu_Nacional_do_Traje.jpg](https://commons.wikimedia.org/wiki/File:Bras%C3%B5es_dos_Marqueses_de_Faial_e_2%C2%BA_Duque_de_Palmela%3B_Museu_Nacional_do_Traje.jpg) — used for Museu Nacional do Traje
+- [960px-Capela_do_Palácio_Angeja-Palmela,_Museu_Nacional_do_Traje.jpg](https://commons.wikimedia.org/wiki/File:960px-Capela_do_Pal%C3%A1cio_Angeja-Palmela%2C_Museu_Nacional_do_Traje.jpg) — used for Museu Nacional do Traje
+- [960px-Museu_do_Teatro_8428.jpg](https://commons.wikimedia.org/wiki/File:960px-Museu_do_Teatro_8428.jpg) — used for Palácio do Monteiro-Mor
+- [960px-20210610_152354_Museu_Nacional_do_Teatro_e_da_Dança.jpg](https://commons.wikimedia.org/wiki/File:960px-20210610_152354_Museu_Nacional_do_Teatro_e_da_Dan%C3%A7a.jpg) — used for Palácio do Monteiro-Mor
+- [960px-20210610_152542_Museu_Nacional_do_Teatro_e_da_Dança.jpg](https://commons.wikimedia.org/wiki/File:960px-20210610_152542_Museu_Nacional_do_Teatro_e_da_Dan%C3%A7a.jpg) — used for Palácio do Monteiro-Mor
+- [960px-20210610_152658_Museu_Nacional_do_Teatro_e_da_Dança.jpg](https://commons.wikimedia.org/wiki/File:960px-20210610_152658_Museu_Nacional_do_Teatro_e_da_Dan%C3%A7a.jpg) — used for Palácio do Monteiro-Mor
+- [960px-Igreja_Paroquial_do_Lumiar.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_Paroquial_do_Lumiar.jpg) — used for Igreja de São João Baptista (Lumiar)
+- [960px-Igreja_de_São_João_Baptista_-_Lumiar_-_torre.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Jo%C3%A3o_Baptista_-_Lumiar_-_torre.jpg) — used for Igreja de São João Baptista (Lumiar)
+- [960px-Teatro_de_Carnide.jpg](https://commons.wikimedia.org/wiki/File:960px-Teatro_de_Carnide.jpg) — used for Teatro de Carnide
+- [960px-Convento_de_Santa_Teresa_de_Jesus_de_Carnide.jpg](https://commons.wikimedia.org/wiki/File:960px-Convento_de_Santa_Teresa_de_Jesus_de_Carnide.jpg) — used for Convento de Santa Teresa de Jesus de Carnide
+- [960px-Antigo_Convento_de_Santa_Teresa_de_Jesus_da_Ordem_das_Carmelitas_Descalças_e_de_Santo_Alberto,_Carnide,_Lisboa_01.jpg](https://commons.wikimedia.org/wiki/File:960px-Antigo_Convento_de_Santa_Teresa_de_Jesus_da_Ordem_das_Carmelitas_Descal%C3%A7as_e_de_Santo_Alberto%2C_Carnide%2C_Lisboa_01.jpg) — used for Convento de Santa Teresa de Jesus de Carnide
+- [960px-Covento_de_Santa_Teresa_de_Jesus,_Lisboa,_Portugal_(3585169256).jpg](https://commons.wikimedia.org/wiki/File:960px-Covento_de_Santa_Teresa_de_Jesus%2C_Lisboa%2C_Portugal_%283585169256%29.jpg) — used for Convento de Santa Teresa de Jesus de Carnide
+- [960px-Lisboa_-_Portugal_(281668614).jpg](https://commons.wikimedia.org/wiki/File:960px-Lisboa_-_Portugal_%28281668614%29.jpg) — used for Igreja de Nossa Senhora da Luz (Carnide)
+- [960px-Convento_de_Nossa_Senhora_da_Luz,_Carnide,_Lisboa_01.jpg](https://commons.wikimedia.org/wiki/File:960px-Convento_de_Nossa_Senhora_da_Luz%2C_Carnide%2C_Lisboa_01.jpg) — used for Igreja de Nossa Senhora da Luz (Carnide)
+- [960px-Pintura,_Convento_de_Nossa_Senhora_da_Luz,_Carnide,_Lisboa_02.jpg](https://commons.wikimedia.org/wiki/File:960px-Pintura%2C_Convento_de_Nossa_Senhora_da_Luz%2C_Carnide%2C_Lisboa_02.jpg) — used for Igreja de Nossa Senhora da Luz (Carnide)
+- [960px-Igreja_Sao_Lourenço_Carnide.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_Sao_Louren%C3%A7o_Carnide.jpg) — used for Igreja de São Lourenço de Carnide
+- [960px-Igreja_Paroquial_de_Carnide,_Lisboa_01.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_Paroquial_de_Carnide%2C_Lisboa_01.jpg) — used for Igreja de São Lourenço de Carnide
+- [960px-Igreja_Paroquial_de_Carnide,_Lisboa_03.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_Paroquial_de_Carnide%2C_Lisboa_03.jpg) — used for Igreja de São Lourenço de Carnide
+- [960px-Igreja_Paroquial_de_Carnide,_Lisboa_04.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_Paroquial_de_Carnide%2C_Lisboa_04.jpg) — used for Igreja de São Lourenço de Carnide
+- [960px-Palácio_do_Conde_de_Vimioso_8353.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_do_Conde_de_Vimioso_8353.jpg) — used for Palácio do Conde de Vimioso
+- [960px-Igreja_de_Nossa_Senhora_da_Porta_do_Céu_(Telheiras)_-_Fachada.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_Nossa_Senhora_da_Porta_do_C%C3%A9u_%28Telheiras%29_-_Fachada.jpg) — used for Igreja Paroquial de Nossa Senhora da Porta do Céu
+- [D._João,_Príncipe_de_Cândia.png](https://commons.wikimedia.org/wiki/File:D._Jo%C3%A3o%2C_Pr%C3%ADncipe_de_C%C3%A2ndia.png) — used for Igreja Paroquial de Nossa Senhora da Porta do Céu
+- [960px-Igreja_de_Nossa_Senhora_da_Porta_do_Céu_(Telheiras).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_Nossa_Senhora_da_Porta_do_C%C3%A9u_%28Telheiras%29.jpg) — used for Igreja Paroquial de Nossa Senhora da Porta do Céu
+- [960px-Museu_Bordalo_Pinheiro.jpg](https://commons.wikimedia.org/wiki/File:960px-Museu_Bordalo_Pinheiro.jpg) — used for Museu Rafael Bordalo Pinheiro
+- [960px-"Bacalhoa"_pattern_tiles_panel_(undated)_-_Rafael_Bordalo_Pinheiro_(1846-1905)_(47631298351).jpg](https://commons.wikimedia.org/wiki/File:960px-%22Bacalhoa%22_pattern_tiles_panel_%28undated%29_-_Rafael_Bordalo_Pinheiro_%281846-1905%29_%2847631298351%29.jpg) — used for Museu Rafael Bordalo Pinheiro
+- [960px-"Estrela"_pattern_tiles_panel_(undated)_-_Rafael_Bordalo_Pinheiro_(1846-1905)_(47601808582).jpg](https://commons.wikimedia.org/wiki/File:960px-%22Estrela%22_pattern_tiles_panel_%28undated%29_-_Rafael_Bordalo_Pinheiro_%281846-1905%29_%2847601808582%29.jpg) — used for Museu Rafael Bordalo Pinheiro
+- [960px-Antonio_Alves_Martins,_Bispo_de_Vizeu_(Álbum_das_Glórias,_n.º_22,_Novembro_1881).png](https://commons.wikimedia.org/wiki/File:960px-Antonio_Alves_Martins%2C_Bispo_de_Vizeu_%28%C3%81lbum_das_Gl%C3%B3rias%2C_n.%C2%BA_22%2C_Novembro_1881%29.png) — used for Museu Rafael Bordalo Pinheiro
+- [960px-Exterior_of_Palácio_Pimenta_78.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Pal%C3%A1cio_Pimenta_78.jpg) — used for Museu de Lisboa
+- [960px-Exterior_of_Palácio_Pimenta_76.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Pal%C3%A1cio_Pimenta_76.jpg) — used for Palácio Pimenta
+- [960px-Interior_of_Palácio_Pimenta_82.jpg](https://commons.wikimedia.org/wiki/File:960px-Interior_of_Pal%C3%A1cio_Pimenta_82.jpg) — used for Palácio Pimenta
+- [960px-Igreja_de_São_João_de_Brito.JPG](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Brito.JPG) — used for Igreja de São João de Brito
+- [960px-Igreja_de_São_João_de_Brito_9096.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Brito_9096.jpg) — used for Igreja de São João de Brito
+- [960px-Igreja_de_São_João_de_Brito_9097.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Brito_9097.jpg) — used for Igreja de São João de Brito
+- [960px-A_Guerra_e_a_Paz.jpg](https://commons.wikimedia.org/wiki/File:960px-A_Guerra_e_a_Paz.jpg) — used for Arquivo Nacional da Torre do Tombo
+- [960px-A_Tragédia_e_a_Comédia.jpg](https://commons.wikimedia.org/wiki/File:960px-A_Trag%C3%A9dia_e_a_Com%C3%A9dia.jpg) — used for Arquivo Nacional da Torre do Tombo
+- [960px-Igreja_Paroquial_do_Campo_Grande_01.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_Paroquial_do_Campo_Grande_01.jpg) — used for Igreja dos Santos Reis Magos (Lisboa)
+- [960px-"Adoração_dos_Pastores",_Interior_da_Igreja_Paroquial_do_Campo_Grande,_em_Lisboa_04.jpg](https://commons.wikimedia.org/wiki/File:960px-%22Adora%C3%A7%C3%A3o_dos_Pastores%22%2C_Interior_da_Igreja_Paroquial_do_Campo_Grande%2C_em_Lisboa_04.jpg) — used for Igreja dos Santos Reis Magos (Lisboa)
+- [960px-"Adoração_dos_Reis_Magos",_Interior_da_Igreja_Paroquial_do_Campo_Grande,_em_Lisboa_02.jpg](https://commons.wikimedia.org/wiki/File:960px-%22Adora%C3%A7%C3%A3o_dos_Reis_Magos%22%2C_Interior_da_Igreja_Paroquial_do_Campo_Grande%2C_em_Lisboa_02.jpg) — used for Igreja dos Santos Reis Magos (Lisboa)
+- [960px-"Apresentação_de_Jesus_no_templo",_Interior_da_Igreja_Paroquial_do_Campo_Grande,_em_Lisboa_03.jpg](https://commons.wikimedia.org/wiki/File:960px-%22Apresenta%C3%A7%C3%A3o_de_Jesus_no_templo%22%2C_Interior_da_Igreja_Paroquial_do_Campo_Grande%2C_em_Lisboa_03.jpg) — used for Igreja dos Santos Reis Magos (Lisboa)
+- [960px-Jardim_do_Campo_Grande.jpg](https://commons.wikimedia.org/wiki/File:960px-Jardim_do_Campo_Grande.jpg) — used for Jardim Mário Soares
+- [960px-Jardim_do_Campo_Grande_9216.jpg](https://commons.wikimedia.org/wiki/File:960px-Jardim_do_Campo_Grande_9216.jpg) — used for Jardim Mário Soares
+- [960px-Igreja_Paroquial_de_Benfica.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_Paroquial_de_Benfica.jpg) — used for Igreja de Nossa Senhora do Amparo (Benfica)
+- [960px-Monumento_aos_Heróis_da_guerra_Peninsular_(Lisboa)1883.JPG](https://commons.wikimedia.org/wiki/File:960px-Monumento_aos_Her%C3%B3is_da_guerra_Peninsular_%28Lisboa%291883.JPG) — used for Monumento aos Heróis da Guerra Peninsular (Lisboa)
+- [960px-Teatro_Municipal_Maria_Matos_8959.jpg](https://commons.wikimedia.org/wiki/File:960px-Teatro_Municipal_Maria_Matos_8959.jpg) — used for Teatro Maria Matos
+- [Pt_ferv.png](https://commons.wikimedia.org/wiki/File:Pt_ferv.png) — used for Estação Ferroviária de Roma-Areeiro
+- [960px-Acesso_roma-areeiro_01.jpg](https://commons.wikimedia.org/wiki/File:960px-Acesso_roma-areeiro_01.jpg) — used for Estação Ferroviária de Roma-Areeiro
+- [960px-Acesso_roma-areeiro_03.jpg](https://commons.wikimedia.org/wiki/File:960px-Acesso_roma-areeiro_03.jpg) — used for Estação Ferroviária de Roma-Areeiro
+- [960px-ApAreeiro1938.jpg](https://commons.wikimedia.org/wiki/File:960px-ApAreeiro1938.jpg) — used for Estação Ferroviária de Roma-Areeiro
+- [960px-Teatro_Thalia_02.JPG](https://commons.wikimedia.org/wiki/File:960px-Teatro_Thalia_02.JPG) — used for Teatro Talia
+- [960px-Entrecampos_train_station,_Lisbon_(27389921409).jpg](https://commons.wikimedia.org/wiki/File:960px-Entrecampos_train_station%2C_Lisbon_%2827389921409%29.jpg) — used for Estação Ferroviária de Entrecampos
+- [960px-Estação_Ferroviária_de_Benfica._07-25_(03).jpg](https://commons.wikimedia.org/wiki/File:960px-Esta%C3%A7%C3%A3o_Ferrovi%C3%A1ria_de_Benfica._07-25_%2803%29.jpg) — used for Estação Ferroviária de Benfica
+- [960px-Aviso_CP_abertura_Fontela_-_GazetaCF_929_1926.jpg](https://commons.wikimedia.org/wiki/File:960px-Aviso_CP_abertura_Fontela_-_GazetaCF_929_1926.jpg) — used for Estação Ferroviária de Benfica
+- [960px-Aqueduto_das_Águas_Livres2.JPG](https://commons.wikimedia.org/wiki/File:960px-Aqueduto_das_%C3%81guas_Livres2.JPG) — used for Aqueduto das Águas Livres
+- [960px-Aguas_Livres_Aqueduct_-_Lisbon,_Portugal.jpg](https://commons.wikimedia.org/wiki/File:960px-Aguas_Livres_Aqueduct_-_Lisbon%2C_Portugal.jpg) — used for Aqueduto das Águas Livres
+- [960px-Aqueduto_Mae_de_Agua.JPG](https://commons.wikimedia.org/wiki/File:960px-Aqueduto_Mae_de_Agua.JPG) — used for Aqueduto das Águas Livres
+- [960px-Aqueduto_das_Aguas_Livres_nas_Aguas_Livres,_Amadora.jpg](https://commons.wikimedia.org/wiki/File:960px-Aqueduto_das_Aguas_Livres_nas_Aguas_Livres%2C_Amadora.jpg) — used for Aqueduto das Águas Livres
+- [960px-Электричка_(11609588425).jpg](https://commons.wikimedia.org/wiki/File:960px-%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%BA%D0%B0_%2811609588425%29.jpg) — used for Apeadeiro de Cruz da Pedra
+- [ExApeadeirosLªSintraLx(fv_0394).jpg](https://commons.wikimedia.org/wiki/File:ExApeadeirosL%C2%AASintraLx%28fv_0394%29.jpg) — used for Apeadeiro de Cruz da Pedra
+- [960px-Palácio_Galveias.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_Galveias.jpg) — used for Palácio Galveias
+- [960px-Bustos_de_dupla_face_IX.jpg](https://commons.wikimedia.org/wiki/File:960px-Bustos_de_dupla_face_IX.jpg) — used for Palácio Galveias
+- [Palacio_das_Galveias.jpg](https://commons.wikimedia.org/wiki/File:Palacio_das_Galveias.jpg) — used for Palácio Galveias
+- [960px-Jules_passing_over_a_shadow_cast_of_window_bars,_Biblioteca_das_Galveias,_Lisbon,_Portugal_julesvernex2.jpg](https://commons.wikimedia.org/wiki/File:960px-Jules_passing_over_a_shadow_cast_of_window_bars%2C_Biblioteca_das_Galveias%2C_Lisbon%2C_Portugal_julesvernex2.jpg) — used for Jardim Maria José Moura
+- [960px-Painel_dos_Reis_Pedro_II.jpg](https://commons.wikimedia.org/wiki/File:960px-Painel_dos_Reis_Pedro_II.jpg) — used for Jardim Maria José Moura
+- [960px-Igreja_de_São_João_de_Deus_em_Lisboa,_Portugal.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Deus_em_Lisboa%2C_Portugal.jpg) — used for Igreja de São João de Deus (Lisboa)
+- [960px-Igreja_S_Joao_Deus_na_Praça_de_Londres_03.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_S_Joao_Deus_na_Pra%C3%A7a_de_Londres_03.jpg) — used for Igreja de São João de Deus (Lisboa)
+- [960px-Igreja_de_São_João_de_Deus_-_Lisboa_-_Portugal_(5284603221).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Deus_-_Lisboa_-_Portugal_%285284603221%29.jpg) — used for Igreja de São João de Deus (Lisboa)
+- [960px-Igreja_de_São_João_de_Deus_-_Lisboa_-_Portugal_(5285284246).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Deus_-_Lisboa_-_Portugal_%285285284246%29.jpg) — used for Igreja de São João de Deus (Lisboa)
+- [960px-Sete_Rios_Train_Station_(3784715251).jpg](https://commons.wikimedia.org/wiki/File:960px-Sete_Rios_Train_Station_%283784715251%29.jpg) — used for Estação Ferroviária de Sete Rios
+- [960px-2010-03-07_14_05_01_Portugal-São_Sebastião_da_Pedreira_(cropped).jpg](https://commons.wikimedia.org/wiki/File:960px-2010-03-07_14_05_01_Portugal-S%C3%A3o_Sebasti%C3%A3o_da_Pedreira_%28cropped%29.jpg) — used for Estação Ferroviária de Sete Rios
+- [960px-Automotora_em_sete_rios.jpg](https://commons.wikimedia.org/wiki/File:960px-Automotora_em_sete_rios.jpg) — used for Estação Ferroviária de Sete Rios
+- [960px-Flickr_-_nmorao_-_Urbano,_Estação_de_Sete_Rios,_2008.07.09.jpg](https://commons.wikimedia.org/wiki/File:960px-Flickr_-_nmorao_-_Urbano%2C_Esta%C3%A7%C3%A3o_de_Sete_Rios%2C_2008.07.09.jpg) — used for Estação Ferroviária de Sete Rios
+- [960px-Garden_of_Palácio_dos_Marqueses_de_Fronteira_59.jpg](https://commons.wikimedia.org/wiki/File:960px-Garden_of_Pal%C3%A1cio_dos_Marqueses_de_Fronteira_59.jpg) — used for Palácio dos Marqueses de Fronteira
+- [960px-Azulejos_in_Palácio_dos_Marqueses_de_Fronteira_34.jpg](https://commons.wikimedia.org/wiki/File:960px-Azulejos_in_Pal%C3%A1cio_dos_Marqueses_de_Fronteira_34.jpg) — used for Palácio dos Marqueses de Fronteira
+- [960px-Casa_do_Fresco_(Palácio_dos_Marqueses_de_Fronteira)_77.jpg](https://commons.wikimedia.org/wiki/File:960px-Casa_do_Fresco_%28Pal%C3%A1cio_dos_Marqueses_de_Fronteira%29_77.jpg) — used for Palácio dos Marqueses de Fronteira
+- [960px-Casa_do_Fresco_(Palácio_dos_Marqueses_de_Fronteira)_84.jpg](https://commons.wikimedia.org/wiki/File:960px-Casa_do_Fresco_%28Pal%C3%A1cio_dos_Marqueses_de_Fronteira%29_84.jpg) — used for Palácio dos Marqueses de Fronteira
+- [960px-Lisbon_(27721677829).jpg](https://commons.wikimedia.org/wiki/File:960px-Lisbon_%2827721677829%29.jpg) — used for Igreja de Nossa Senhora do Rosário de Fátima
+- [960px-Barata_Feyo_Cristo_na_Cruz_Igreja_N_S_Fátima_3.jpg](https://commons.wikimedia.org/wiki/File:960px-Barata_Feyo_Cristo_na_Cruz_Igreja_N_S_F%C3%A1tima_3.jpg) — used for Igreja de Nossa Senhora do Rosário de Fátima
+- [960px-Igreja_N_S_Fatima_Friso_de_Francisco_Franco.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_N_S_Fatima_Friso_de_Francisco_Franco.jpg) — used for Igreja de Nossa Senhora do Rosário de Fátima
+- [960px-Calouste_Gulbenkian_Museum_Exterior_37.jpg](https://commons.wikimedia.org/wiki/File:960px-Calouste_Gulbenkian_Museum_Exterior_37.jpg) — used for Museu Calouste Gulbenkian
+- [960px-Art_of_China_in_the_Calouste_Gulbenkian_Museum_17.jpg](https://commons.wikimedia.org/wiki/File:960px-Art_of_China_in_the_Calouste_Gulbenkian_Museum_17.jpg) — used for Museu Calouste Gulbenkian
+- [960px-Assyrian_low-relief_(Calouste_Gulbenkian_Museum)_10.jpg](https://commons.wikimedia.org/wiki/File:960px-Assyrian_low-relief_%28Calouste_Gulbenkian_Museum%29_10.jpg) — used for Museu Calouste Gulbenkian
+- [960px-Teatro_Aberto.jpg](https://commons.wikimedia.org/wiki/File:960px-Teatro_Aberto.jpg) — used for Teatro Aberto
+- [960px-Engawa_of_Centro_de_Arte_Moderna_804.jpg](https://commons.wikimedia.org/wiki/File:960px-Engawa_of_Centro_de_Arte_Moderna_804.jpg) — used for Centro de Arte Moderna Gulbenkian
+- [960px-Engawa_of_Centro_de_Arte_Moderna_809.jpg](https://commons.wikimedia.org/wiki/File:960px-Engawa_of_Centro_de_Arte_Moderna_809.jpg) — used for Centro de Arte Moderna Gulbenkian
+- [960px-Exterior_of_Centro_de_Arte_Moderna_798.jpg](https://commons.wikimedia.org/wiki/File:960px-Exterior_of_Centro_de_Arte_Moderna_798.jpg) — used for Centro de Arte Moderna Gulbenkian
+- [960px-Igreja_do_Antigo_Convento_de_Arroios_LISBOA_PORTUGAL_Photographed_by_Ph.G._de_MENDONCA_(Wikidata_Q74474004).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_do_Antigo_Convento_de_Arroios_LISBOA_PORTUGAL_Photographed_by_Ph.G._de_MENDONCA_%28Wikidata_Q74474004%29.jpg) — used for Convento de Arroios
+- [960px-Campolide_station_and_surroundings.JPG](https://commons.wikimedia.org/wiki/File:960px-Campolide_station_and_surroundings.JPG) — used for Estação Ferroviária de Campolide
+- [960px-Approaching_Lisbon_-_panoramio.jpg](https://commons.wikimedia.org/wiki/File:960px-Approaching_Lisbon_-_panoramio.jpg) — used for Estação Ferroviária de Campolide
+- [960px-Igreja_de_São_Sebastião_da_Pedreira_Lisboa.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Sebasti%C3%A3o_da_Pedreira_Lisboa.jpg) — used for Igreja de São Sebastião da Pedreira
+- [960px-2019-05-17_19-36-17_PT_Lisbon_JHe_N_(54174395628).jpg](https://commons.wikimedia.org/wiki/File:960px-2019-05-17_19-36-17_PT_Lisbon_JHe_N_%2854174395628%29.jpg) — used for Igreja de São Sebastião da Pedreira
+- [960px-Igreja_de_São_Sebastião_da_Pedreira,_Lisboa,_Portugal_02.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Sebasti%C3%A3o_da_Pedreira%2C_Lisboa%2C_Portugal_02.jpg) — used for Igreja de São Sebastião da Pedreira
+- [960px-Igreja_de_São_Sebastião_da_Pedreira,_Lisboa,_Portugal_05.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_S%C3%A3o_Sebasti%C3%A3o_da_Pedreira%2C_Lisboa%2C_Portugal_05.jpg) — used for Igreja de São Sebastião da Pedreira
+- [960px-Brutalism_(136682299).jpeg](https://commons.wikimedia.org/wiki/File:960px-Brutalism_%28136682299%29.jpeg) — used for Palácio da Justiça (Lisboa)
+- [960px-Palácio_da_Justiça_(Lisbon),_Metro_Centric,_2015,_24025730286.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_da_Justi%C3%A7a_%28Lisbon%29%2C_Metro_Centric%2C_2015%2C_24025730286.jpg) — used for Palácio da Justiça (Lisboa)
+- [960px-Casa-Museu_Dr._Anastácio_Gonçalves_-_Casa_de_Malhoa.JPG](https://commons.wikimedia.org/wiki/File:960px-Casa-Museu_Dr._Anast%C3%A1cio_Gon%C3%A7alves_-_Casa_de_Malhoa.JPG) — used for Casa-Museu Dr. Anastácio Gonçalves
+- [960px-Casa_Museu_Dr._Anastácio_Gonçalves_(sala).jpg](https://commons.wikimedia.org/wiki/File:960px-Casa_Museu_Dr._Anast%C3%A1cio_Gon%C3%A7alves_%28sala%29.jpg) — used for Casa-Museu Dr. Anastácio Gonçalves
+- [960px-Lisbon_2015_10_14_0589_(23301453940).jpg](https://commons.wikimedia.org/wiki/File:960px-Lisbon_2015_10_14_0589_%2823301453940%29.jpg) — used for Palacete Mendonça
+- [960px-Op_26550_d_maille_-_palacete_henrrique_mendonc_a_-_miguel_rodrigues_1_.jpg](https://commons.wikimedia.org/wiki/File:960px-Op_26550_d_maille_-_palacete_henrrique_mendonc_a_-_miguel_rodrigues_1_.jpg) — used for Palacete Mendonça
+- [960px-Igreja_de_Nossa_Senhora_de_Penha_de_França_-_Lisboa_-_Portugal_(48954847832).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_Nossa_Senhora_de_Penha_de_Fran%C3%A7a_-_Lisboa_-_Portugal_%2848954847832%29.jpg) — used for Convento de Nossa Senhora da Penha de França
+- [960px-Igreja_de_Nossa_Senhora_de_Penha_de_França_-_Lisboa_-_Portugal_(48954110688).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_Nossa_Senhora_de_Penha_de_Fran%C3%A7a_-_Lisboa_-_Portugal_%2848954110688%29.jpg) — used for Convento de Nossa Senhora da Penha de França
+- [960px-Igreja_de_Nossa_Senhora_de_Penha_de_França_-_Lisboa_-_Portugal_(48954110983).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_Nossa_Senhora_de_Penha_de_Fran%C3%A7a_-_Lisboa_-_Portugal_%2848954110983%29.jpg) — used for Convento de Nossa Senhora da Penha de França
+- [960px-Igreja_de_Nossa_Senhora_de_Penha_de_França_-_Lisboa_-_Portugal_(48954661411).jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_de_Nossa_Senhora_de_Penha_de_Fran%C3%A7a_-_Lisboa_-_Portugal_%2848954661411%29.jpg) — used for Convento de Nossa Senhora da Penha de França
+- [960px-Estufa_fria.jpg](https://commons.wikimedia.org/wiki/File:960px-Estufa_fria.jpg) — used for Estufa Fria
+- [960px-Lisboa_April_2014-1.jpg](https://commons.wikimedia.org/wiki/File:960px-Lisboa_April_2014-1.jpg) — used for Parque Eduardo VII
+- [960px-Lisboa_April_2014-8a.jpg](https://commons.wikimedia.org/wiki/File:960px-Lisboa_April_2014-8a.jpg) — used for Parque Eduardo VII
+- [960px-Lisboa,_Estátua_do_Marquês_de_Pombal_(3).jpg](https://commons.wikimedia.org/wiki/File:960px-Lisboa%2C_Est%C3%A1tua_do_Marqu%C3%AAs_de_Pombal_%283%29.jpg) — used for Praça do Marquês de Pombal (Lisboa)
+- [960px-Lisbon_Pombal_Sqaure_P1000834.JPG](https://commons.wikimedia.org/wiki/File:960px-Lisbon_Pombal_Sqaure_P1000834.JPG) — used for Praça do Marquês de Pombal (Lisboa)
+- [960px-Praça_do_Marquês_de_Pombal_(Lisboa).jpg](https://commons.wikimedia.org/wiki/File:960px-Pra%C3%A7a_do_Marqu%C3%AAs_de_Pombal_%28Lisboa%29.jpg) — used for Praça do Marquês de Pombal (Lisboa)
+- [960px-Igreja_do_Sagrado_Coração_de_Jesus_(Lisboa)_12.jpg](https://commons.wikimedia.org/wiki/File:960px-Igreja_do_Sagrado_Cora%C3%A7%C3%A3o_de_Jesus_%28Lisboa%29_12.jpg) — used for Igreja do Coração de Jesus (Lisboa)
+- [960px-Blow_your_trumpets_gabriel_(52078562437).jpg](https://commons.wikimedia.org/wiki/File:960px-Blow_your_trumpets_gabriel_%2852078562437%29.jpg) — used for Igreja do Coração de Jesus (Lisboa)
+- [960px-Concrete_all_around_(52078562477).jpg](https://commons.wikimedia.org/wiki/File:960px-Concrete_all_around_%2852078562477%29.jpg) — used for Igreja do Coração de Jesus (Lisboa)
+- [960px-Idols_(52079836099).jpg](https://commons.wikimedia.org/wiki/File:960px-Idols_%2852079836099%29.jpg) — used for Igreja do Coração de Jesus (Lisboa)
+- [960px-Torre_Vasco_da_Gama_(Lisboa).JPG](https://commons.wikimedia.org/wiki/File:960px-Torre_Vasco_da_Gama_%28Lisboa%29.JPG) — used for Torre Vasco da Gama
+- [960px-Hotel_Myriad_(9921720383).jpg](https://commons.wikimedia.org/wiki/File:960px-Hotel_Myriad_%289921720383%29.jpg) — used for Torre Vasco da Gama
+- [960px-Lisbon_(3578458630).jpg](https://commons.wikimedia.org/wiki/File:960px-Lisbon_%283578458630%29.jpg) — used for Torre Vasco da Gama
+- [960px-Lisbon_-_Vasco_da_Gama_tower.jpg](https://commons.wikimedia.org/wiki/File:960px-Lisbon_-_Vasco_da_Gama_tower.jpg) — used for Torre Vasco da Gama
+- [960px-Gare_do_Oriente_in_September_1999.jpg](https://commons.wikimedia.org/wiki/File:960px-Gare_do_Oriente_in_September_1999.jpg) — used for Gare do Oriente
+- [960px-Pavilhão_de_Portugal_4.JPG](https://commons.wikimedia.org/wiki/File:960px-Pavilh%C3%A3o_de_Portugal_4.JPG) — used for Pavilhão de Portugal
+- [960px-Lisbon_Oceanarium_(34535938846).jpg](https://commons.wikimedia.org/wiki/File:960px-Lisbon_Oceanarium_%2834535938846%29.jpg) — used for Oceanário de Lisboa
+- [960px-2002-10-26_11-15_(Andalusien_&_Lissabon_296)_Lissabon,_Oceanário.jpg](https://commons.wikimedia.org/wiki/File:960px-2002-10-26_11-15_%28Andalusien_%26_Lissabon_296%29_Lissabon%2C_Ocean%C3%A1rio.jpg) — used for Oceanário de Lisboa
+- [Teatro_Camoes_Lisboa.JPG](https://commons.wikimedia.org/wiki/File:Teatro_Camoes_Lisboa.JPG) — used for Teatro Camões
+- [960px-Estação_ferroviária_de_Braço_de_Prata1.jpg](https://commons.wikimedia.org/wiki/File:960px-Esta%C3%A7%C3%A3o_ferrovi%C3%A1ria_de_Bra%C3%A7o_de_Prata1.jpg) — used for Estação Ferroviária de Braço de Prata
+- [960px-Palácio_da_Mitra_(Marvila),_Lisboa_001.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_da_Mitra_%28Marvila%29%2C_Lisboa_001.jpg) — used for Palácio da Mitra (Marvila)
+- [960px-Palácio_da_Mitra_(Marvila),_Lisboa_01.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_da_Mitra_%28Marvila%29%2C_Lisboa_01.jpg) — used for Palácio da Mitra (Marvila)
+- [960px-Palácio_da_Mitra_(Marvila),_Lisboa_03.jpg](https://commons.wikimedia.org/wiki/File:960px-Pal%C3%A1cio_da_Mitra_%28Marvila%29%2C_Lisboa_03.jpg) — used for Palácio da Mitra (Marvila)

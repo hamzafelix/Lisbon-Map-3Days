@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Lisbon - 190 destinations</name>
+<description>From pt.wikipedia categories, coordinates from Wikidata. Photos from Wikimedia Commons.</description>
+<Style id="s0"><IconStyle><color>ff2b39c0</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="s1"><IconStyle><color>ffad448e</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="s2"><IconStyle><color>ffeb6f1f</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="s3"><IconStyle><color>ff6d8a0e</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="s4"><IconStyle><color>ff1089d6</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="s5"><IconStyle><color>ff8d8c7f</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="s6"><IconStyle><color>ff85a016</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Folder><name>Alfama &amp; Castelo</name>
+<Placemark><name>1. Palácio do Grilo</name>
+<description><![CDATA[<b>Palácio do Grilo</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Pal%C3%A1cio_do_Grilo.jpg/960px-Pal%C3%A1cio_do_Grilo.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.palaciogrilo.com">Website</a><br/>📞 +351 21 162 9991<br/><a href="https://pt.wikipedia.org/wiki/Palácio_do_Grilo">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.732323,-9.106588">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.106588,38.732323,0</coordinates></Point></Placemark>
+<Placemark><name>2. Convento do Grilo</name>
+<description><![CDATA[<b>Convento do Grilo</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Igreja_Paroquial_de_S%C3%A3o_Bartolomeu_do_Beato.jpg/960px-Igreja_Paroquial_de_S%C3%A3o_Bartolomeu_do_Beato.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Convento_do_Grilo">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.730475,-9.108222">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.108222,38.730475,0</coordinates></Point></Placemark>
+<Placemark><name>3. Museu Nacional do Azulejo</name>
+<description><![CDATA[<b>Museu Nacional do Azulejo</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Igreja_do_Convento_da_Madre_de_Deus%2C_Lisboa_%28Portugal%29.jpg/960px-Igreja_do_Convento_da_Madre_de_Deus%2C_Lisboa_%28Portugal%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.museudoazulejo.gov.pt">Website</a><br/>📞 +351 218 100 340<br/><a href="https://pt.wikipedia.org/wiki/Museu_Nacional_do_Azulejo">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.724669,-9.114111">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.114111,38.724669,0</coordinates></Point></Placemark>
+<Placemark><name>4. Igreja dos Anjos (Lisboa)</name>
+<description><![CDATA[<b>Igreja dos Anjos (Lisboa)</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Igreja_dos_Anjos_7114.jpg/960px-Igreja_dos_Anjos_7114.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_dos_Anjos_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.724503,-9.134519">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.134519,38.724503,0</coordinates></Point></Placemark>
+<Placemark><name>5. Capela de Nossa Senhora do Monte (Lisboa)</name>
+<description><![CDATA[<b>Capela de Nossa Senhora do Monte (Lisboa)</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Miradouro_Nossa_Senhora_do_Monte_I.jpg/960px-Miradouro_Nossa_Senhora_do_Monte_I.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Capela_de_Nossa_Senhora_do_Monte_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.719242,-9.132639">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.132639,38.719242,0</coordinates></Point></Placemark>
+<Placemark><name>6. Museu da Água</name>
+<description><![CDATA[<b>Museu da Água</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Museu_da_%C3%81gua.JPG/960px-Museu_da_%C3%81gua.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://museudaagua.epal.pt/museudaagua/">Website</a><br/>🕐 Tu-Su 10:00-18:00; PH off<br/>📞 +351 218 100 215<br/><a href="https://pt.wikipedia.org/wiki/Museu_da_Água">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.719167,-9.119167">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.119167,38.719167,0</coordinates></Point></Placemark>
+<Placemark><name>7. Miradouro da Senhora do Monte</name>
+<description><![CDATA[<b>Miradouro da Senhora do Monte</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Miradouro_Nossa_Senhora_do_Monte_II.jpg/960px-Miradouro_Nossa_Senhora_do_Monte_II.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Miradouro_da_Senhora_do_Monte">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.719078,-9.132911">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.132911,38.719078,0</coordinates></Point></Placemark>
+<Placemark><name>8. Convento da Graça (Lisboa)</name>
+<description><![CDATA[<b>Convento da Graça (Lisboa)</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Exterior_of_Igreja_e_convento_da_Gra%C3%A7a_234.jpg/960px-Exterior_of_Igreja_e_convento_da_Gra%C3%A7a_234.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/>📞 +351 218 873 943<br/><a href="https://pt.wikipedia.org/wiki/Convento_da_Graça_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.716988,-9.13087">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.13087,38.716988,0</coordinates></Point></Placemark>
+<Placemark><name>9. Panteão Nacional</name>
+<description><![CDATA[<b>Panteão Nacional</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Exterior_of_Igreja_de_Santa_Engr%C3%A1cia_70.jpg/960px-Exterior_of_Igreja_de_Santa_Engr%C3%A1cia_70.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://panteaonacional.gov.pt/">Website</a><br/>🕐 Tu-Su 10:00-18:00<br/>📞 +351 218 854 820<br/><a href="https://pt.wikipedia.org/wiki/Panteão_Nacional">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.715028,-9.124667">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.124667,38.715028,0</coordinates></Point></Placemark>
+<Placemark><name>10. Igreja de Santa Engrácia</name>
+<description><![CDATA[<b>Igreja de Santa Engrácia</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Exterior_of_Igreja_de_Santa_Engr%C3%A1cia_70.jpg/960px-Exterior_of_Igreja_de_Santa_Engr%C3%A1cia_70.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.panteaonacional.gov.pt/">Website</a><br/>🕐 Tu-Su 10:00-18:00<br/>📞 +351 218 854 820<br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_Santa_Engrácia">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.715,-9.125">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.125,38.715,0</coordinates></Point></Placemark>
+<Placemark><name>11. Igreja de São Vicente de Fora</name>
+<description><![CDATA[<b>Igreja de São Vicente de Fora</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Igreja_e_Mosteiro_de_S%C3%A3o_Vicente_de_Fora.jpg/960px-Igreja_e_Mosteiro_de_S%C3%A3o_Vicente_de_Fora.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_Vicente_de_Fora">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71472,-9.1275">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.1275,38.71472,0</coordinates></Point></Placemark>
+<Placemark><name>12. Castelo de São Jorge</name>
+<description><![CDATA[<b>Castelo de São Jorge</b><br/>Alfama &amp; Castelo<br/><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Castelo_Sao_Jorge_Lisboa_1.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://www.castelodesaojorge.pt/">Website</a><br/>🕐 Mo-Su 09:00-21:00<br/>📞 +351 218 800 620<br/><a href="https://pt.wikipedia.org/wiki/Castelo_de_São_Jorge">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71417,-9.13333">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.13333,38.71417,0</coordinates></Point></Placemark>
+<Placemark><name>13. Igreja de Santa Cruz do Castelo</name>
+<description><![CDATA[<b>Igreja de Santa Cruz do Castelo</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Castelo_de_S%C3%A3o_Jorge_-_Fotografia_33.jpg/960px-Castelo_de_S%C3%A3o_Jorge_-_Fotografia_33.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_Santa_Cruz_do_Castelo">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.713721,-9.132286">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.132286,38.713721,0</coordinates></Point></Placemark>
+<Placemark><name>14. Estação Ferroviária de Lisboa-Santa Apolónia</name>
+<description><![CDATA[<b>Estação Ferroviária de Lisboa-Santa Apolónia</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/St._Apolonia_railway_station_%2840582415693%29.jpg/960px-St._Apolonia_railway_station_%2840582415693%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://servicos.infraestruturasdeportugal.pt/pt-pt/estacoes?estacaoId=9430007">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Lisboa-Santa_Apolónia">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.713658,-9.123211">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.123211,38.713658,0</coordinates></Point></Placemark>
+<Placemark><name>15. Museu Militar de Lisboa</name>
+<description><![CDATA[<b>Museu Militar de Lisboa</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/M_militar_lisboa.jpg/960px-M_militar_lisboa.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.exercito.pt/sites/MusMilLisboa/">Website</a><br/>🕐 Tu-Su 10:00-17:00; easter off; Jan 01,May 01,Dec 25 off<br/>📞 +351 218 842 453<br/><a href="https://pt.wikipedia.org/wiki/Museu_Militar_de_Lisboa">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.713195,-9.124201">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.124201,38.713195,0</coordinates></Point></Placemark>
+<Placemark><name>16. Palácio Belmonte</name>
+<description><![CDATA[<b>Palácio Belmonte</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pal%C3%A1cio_Belmonte_-_Lisboa_-_Portugal_%2829899100698%29.jpg/960px-Pal%C3%A1cio_Belmonte_-_Lisboa_-_Portugal_%2829899100698%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.palaciobelmonte.com/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Palácio_Belmonte">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.712458,-9.131603">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.131603,38.712458,0</coordinates></Point></Placemark>
+<Placemark><name>17. Igreja de Santo Estêvão (Lisboa)</name>
+<description><![CDATA[<b>Igreja de Santo Estêvão (Lisboa)</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Igreja_de_Santo_Est%C3%AAv%C3%A3o_-_Lisboa_-_Portugal_%2850929982882%29.jpg/960px-Igreja_de_Santo_Est%C3%AAv%C3%A3o_-_Lisboa_-_Portugal_%2850929982882%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=2619">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_Santo_Estêvão_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71218,-9.12796">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.12796,38.71218,0</coordinates></Point></Placemark>
+<Placemark><name>18. Igreja de Santiago (Lisboa)</name>
+<description><![CDATA[<b>Igreja de Santiago (Lisboa)</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Igreja_de_Santiago_de_Lisboa.jpg/960px-Igreja_de_Santiago_de_Lisboa.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_Santiago_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.711749,-9.13082">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.13082,38.711749,0</coordinates></Point></Placemark>
+<Placemark><name>19. Miradouro de Santa Luzia</name>
+<description><![CDATA[<b>Miradouro de Santa Luzia</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/MiradouroSantaLuzia.JPG/960px-MiradouroSantaLuzia.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.visitlisboa.com/pt-pt/locais/miradouro-de-santa-luzia">Website</a><br/>📞 +351 213 912 600<br/><a href="https://pt.wikipedia.org/wiki/Miradouro_de_Santa_Luzia">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.711738,-9.13013">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.13013,38.711738,0</coordinates></Point></Placemark>
+<Placemark><name>20. Museu do Fado</name>
+<description><![CDATA[<b>Museu do Fado</b><br/>Alfama &amp; Castelo<br/><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Museu_do_Fado_Lisbon_Portugal_01.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="http://www.museudofado.pt/">Website</a><br/>🕐 Tu-Su 10:00-18:00; Jan 01,May 01,Dec 25 off<br/>📞 +351 218 823 470<br/><a href="https://pt.wikipedia.org/wiki/Museu_do_Fado">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.711086,-9.12762">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.12762,38.711086,0</coordinates></Point></Placemark>
+<Placemark><name>21. Cadeia do Aljube</name>
+<description><![CDATA[<b>Cadeia do Aljube</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Museu_do_Aljube.jpg/960px-Museu_do_Aljube.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.museudoaljube.pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Cadeia_do_Aljube">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71019,-9.132695">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.132695,38.71019,0</coordinates></Point></Placemark>
+<Placemark><name>22. Casa dos Bicos</name>
+<description><![CDATA[<b>Casa dos Bicos</b><br/>Alfama &amp; Castelo<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Lisboa_May_2013-12.jpg/960px-Lisboa_May_2013-12.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Casa_dos_Bicos">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.709159,-9.132635">Directions</a>]]></description>
+<styleUrl>#s0</styleUrl>
+<Point><coordinates>-9.132635,38.709159,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Baixa &amp; Chiado</name>
+<Placemark><name>23. Palácio da Bemposta</name>
+<description><![CDATA[<b>Palácio da Bemposta</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Pal%C3%A1cio_da_Bemposta%2C_Arroios%2C_Lisboa_02.jpg/960px-Pal%C3%A1cio_da_Bemposta%2C_Arroios%2C_Lisboa_02.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_da_Bemposta">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.723494,-9.138183">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.138183,38.723494,0</coordinates></Point></Placemark>
+<Placemark><name>24. Campo dos Mártires da Pátria</name>
+<description><![CDATA[<b>Campo dos Mártires da Pátria</b><br/>Baixa &amp; Chiado<br/><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/CampoDosM%C3%A1rtiresDaP%C3%A1tria.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://revelar.lisboa.pt/explorar/toponimia/detalhe?tx_toponimia_pi1%5Baction%5D=show&amp;tx_toponimia_pi1%5Bcontroller%5D=Toponimia&amp;tx_toponimia_pi1%5Btopid%5D=522">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Campo_dos_Mártires_da_Pátria">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.721944,-9.139722">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.139722,38.721944,0</coordinates></Point></Placemark>
+<Placemark><name>25. Igreja de São José dos Carpinteiros</name>
+<description><![CDATA[<b>Igreja de São José dos Carpinteiros</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Igreja_de_S%C3%A3o_Jos%C3%A9_dos_Carpinteiros%2C_Lisboa_01.jpg/960px-Igreja_de_S%C3%A3o_Jos%C3%A9_dos_Carpinteiros%2C_Lisboa_01.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_José_dos_Carpinteiros">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.719549,-9.143168">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.143168,38.719549,0</coordinates></Point></Placemark>
+<Placemark><name>26. Palácio de Sant&#x27;Anna</name>
+<description><![CDATA[<b>Palácio de Sant&#x27;Anna</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Fachada_Pal%C3%A1cio_Santana%2C_Lisboa.png/960px-Fachada_Pal%C3%A1cio_Santana%2C_Lisboa.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_de_Sant'Anna">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.718181,-9.139148">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.139148,38.718181,0</coordinates></Point></Placemark>
+<Placemark><name>27. Elevador do Lavra</name>
+<description><![CDATA[<b>Elevador do Lavra</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/LisbonTram%28byBio94%29-6065849065.jpg/960px-LisbonTram%28byBio94%29-6065849065.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Elevador_do_Lavra">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.717862,-9.141775">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.141775,38.717862,0</coordinates></Point></Placemark>
+<Placemark><name>28. Praça da Alegria (Lisboa)</name>
+<description><![CDATA[<b>Praça da Alegria (Lisboa)</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/PlacaPracaAlegria.JPG/960px-PlacaPracaAlegria.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Praça_da_Alegria_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.717778,-9.145278">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.145278,38.717778,0</coordinates></Point></Placemark>
+<Placemark><name>29. Coliseu dos Recreios</name>
+<description><![CDATA[<b>Coliseu dos Recreios</b><br/>Baixa &amp; Chiado<br/><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Lisboa_-_Panorama_-_06_-_Vista_desde_el_Jard%C3%ADn_de_San_Pedro_de_Alc%C3%A1ntara_%28cropped%29_Coliseu.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://www.coliseulisboa.com/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Coliseu_dos_Recreios">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71675,-9.140167">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.140167,38.71675,0</coordinates></Point></Placemark>
+<Placemark><name>30. Cinema Olympia (Lisboa)</name>
+<description><![CDATA[<b>Cinema Olympia (Lisboa)</b><br/>Baixa &amp; Chiado<br/><a href="https://pt.wikipedia.org/wiki/Cinema_Olympia_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.716735,-9.141404">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.141404,38.716735,0</coordinates></Point></Placemark>
+<Placemark><name>31. Teatro da Rua dos Condes</name>
+<description><![CDATA[<b>Teatro da Rua dos Condes</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Teatro_da_Rua_dos_Condes_ap%C3%B3s_a_reconstru%C3%A7%C3%A3o_de_1888.png/960px-Teatro_da_Rua_dos_Condes_ap%C3%B3s_a_reconstru%C3%A7%C3%A3o_de_1888.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Teatro_da_Rua_dos_Condes">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.716694,-9.141806">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.141806,38.716694,0</coordinates></Point></Placemark>
+<Placemark><name>32. Teatro Politeama (Lisboa)</name>
+<description><![CDATA[<b>Teatro Politeama (Lisboa)</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Teatro_Politeama_%28Lisboa%29.jpg/960px-Teatro_Politeama_%28Lisboa%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://filipelaferia.pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Teatro_Politeama_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.716621,-9.140884">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.140884,38.716621,0</coordinates></Point></Placemark>
+<Placemark><name>33. Capela de Nossa Senhora da Saúde (Lisboa)</name>
+<description><![CDATA[<b>Capela de Nossa Senhora da Saúde (Lisboa)</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Capela_de_Nossa_Senhora_da_Saude_-_panoramio.jpg/960px-Capela_de_Nossa_Senhora_da_Saude_-_panoramio.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/>📞 +351 218 862 093<br/><a href="https://pt.wikipedia.org/wiki/Capela_de_Nossa_Senhora_da_Saúde_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.715878,-9.135649">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.135649,38.715878,0</coordinates></Point></Placemark>
+<Placemark><name>34. Palácio Foz</name>
+<description><![CDATA[<b>Palácio Foz</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Lissabon-Praca_dos_Restauradores-06-Palacio_da_Foz-2011-gje_%28cropped%29.jpg/960px-Lissabon-Praca_dos_Restauradores-06-Palacio_da_Foz-2011-gje_%28cropped%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_Foz">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.715692,-9.14266">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.14266,38.715692,0</coordinates></Point></Placemark>
+<Placemark><name>35. Palácio da Independência</name>
+<description><![CDATA[<b>Palácio da Independência</b><br/>Baixa &amp; Chiado<br/><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Palacio_Independ%C3%AAncia.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_da_Independência">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.715439,-9.139397">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.139397,38.715439,0</coordinates></Point></Placemark>
+<Placemark><name>36. Jardim de São Pedro de Alcântara</name>
+<description><![CDATA[<b>Jardim de São Pedro de Alcântara</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/JardimSPedroAlcantara.JPG/960px-JardimSPedroAlcantara.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Jardim_de_São_Pedro_de_Alcântara">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.715278,-9.144444">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.144444,38.715278,0</coordinates></Point></Placemark>
+<Placemark><name>37. Cineteatro Éden</name>
+<description><![CDATA[<b>Cineteatro Éden</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Lisboa_-_Teatro_Eden_%2853853763539%29.jpg/960px-Lisboa_-_Teatro_Eden_%2853853763539%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.edenaparthotelvip.com/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Cineteatro_Éden">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71525,-9.142028">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.142028,38.71525,0</coordinates></Point></Placemark>
+<Placemark><name>38. Elevador da Glória</name>
+<description><![CDATA[<b>Elevador da Glória</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2025_%28365_challenge_No._1%29_-_Week_9_%28Lisbon_trios%29_-_Day_1%2C_Pic_3_-_tram_on_Bairro_Alto_%2854374478846%29.jpg/960px-2025_%28365_challenge_No._1%29_-_Week_9_%28Lisbon_trios%29_-_Day_1%2C_Pic_3_-_tram_on_Bairro_Alto_%2854374478846%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Elevador_da_Glória">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.715232,-9.143404">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.143404,38.715232,0</coordinates></Point></Placemark>
+<Placemark><name>39. Teatro Nacional D. Maria II</name>
+<description><![CDATA[<b>Teatro Nacional D. Maria II</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Pra%C3%A7a_Don_Pedro_IV_%28Rossio%29.jpg/960px-Pra%C3%A7a_Don_Pedro_IV_%28Rossio%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.tndm.pt/pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Teatro_Nacional_D._Maria_II">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.714807,-9.139794">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.139794,38.714807,0</coordinates></Point></Placemark>
+<Placemark><name>40. Estação Ferroviária do Rossio</name>
+<description><![CDATA[<b>Estação Ferroviária do Rossio</b><br/>Baixa &amp; Chiado<br/><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/EstacaoRossioLisboa.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://servicos.infraestruturasdeportugal.pt/pt-pt/estacoes?estacaoId=9459006">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_do_Rossio">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.714722,-9.142222">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.142222,38.714722,0</coordinates></Point></Placemark>
+<Placemark><name>41. Igreja de São Domingos (Santa Justa)</name>
+<description><![CDATA[<b>Igreja de São Domingos (Santa Justa)</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Igreja_de_S%C3%A3o_Domingos_%28Lisbon%29.jpg/960px-Igreja_de_S%C3%A3o_Domingos_%28Lisbon%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_Domingos_(Santa_Justa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.714722,-9.138447">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.138447,38.714722,0</coordinates></Point></Placemark>
+<Placemark><name>42. Igreja de São Lourenço (Socorro)</name>
+<description><![CDATA[<b>Igreja de São Lourenço (Socorro)</b><br/>Baixa &amp; Chiado<br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_Lourenço_(Socorro)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.714643,-9.13522">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.13522,38.714643,0</coordinates></Point></Placemark>
+<Placemark><name>43. Rossio</name>
+<description><![CDATA[<b>Rossio</b><br/>Baixa &amp; Chiado<br/><a href="https://www.metrolisboa.pt/viajar/rossio/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Rossio">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.714024,-9.137941">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.137941,38.714024,0</coordinates></Point></Placemark>
+<Placemark><name>44. Praça D. Pedro IV</name>
+<description><![CDATA[<b>Praça D. Pedro IV</b><br/>Baixa &amp; Chiado<br/><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Placa_topon%C3%ADmica_-_Pra%C3%A7a_D._Pedro_IV.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Praça_D._Pedro_IV">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7139,-9.13944">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.13944,38.7139,0</coordinates></Point></Placemark>
+<Placemark><name>45. Igreja de São Roque (Lisboa)</name>
+<description><![CDATA[<b>Igreja de São Roque (Lisboa)</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Exterior_of_Igreja_de_S%C3%A3o_Roque_%28Lisbon%29.jpg/960px-Exterior_of_Igreja_de_S%C3%A3o_Roque_%28Lisbon%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_Roque_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.713631,-9.143495">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.143495,38.713631,0</coordinates></Point></Placemark>
+<Placemark><name>46. Igreja de São Roque</name>
+<description><![CDATA[<b>Igreja de São Roque</b><br/>Baixa &amp; Chiado<br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_Roque">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71362,-9.143427">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.143427,38.71362,0</coordinates></Point></Placemark>
+<Placemark><name>47. Igreja de São Cristóvão (Lisboa)</name>
+<description><![CDATA[<b>Igreja de São Cristóvão (Lisboa)</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Igreja_de_S%C3%A3o_Crist%C3%B5v%C3%A3o.JPG/960px-Igreja_de_S%C3%A3o_Crist%C3%B5v%C3%A3o.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_Cristóvão_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.712829,-9.135558">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.135558,38.712829,0</coordinates></Point></Placemark>
+<Placemark><name>48. Praça da Figueira</name>
+<description><![CDATA[<b>Praça da Figueira</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Placa_topon%C3%ADmica_-_Pra%C3%A7a_da_Figueira.png/960px-Placa_topon%C3%ADmica_-_Pra%C3%A7a_da_Figueira.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://revelar.lisboa.pt/explorar/toponimia/detalhe?tx_toponimia_pi1%5Baction%5D=show&amp;tx_toponimia_pi1%5Bcontroller%5D=Toponimia&amp;tx_toponimia_pi1%5Btopid%5D=3212">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Praça_da_Figueira">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.712823,-9.138908">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.138908,38.712823,0</coordinates></Point></Placemark>
+<Placemark><name>49. Palácio Vagos</name>
+<description><![CDATA[<b>Palácio Vagos</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Pal%C3%A1cio_de_S%C3%A3o_Crist%C3%B3v%C3%A3o_01.jpg/960px-Pal%C3%A1cio_de_S%C3%A3o_Crist%C3%B3v%C3%A3o_01.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.clinicasaocristovao.pt/">Website</a><br/>📞 +351 218 813 300<br/><a href="https://pt.wikipedia.org/wiki/Palácio_Vagos">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.712592,-9.13567">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.13567,38.712592,0</coordinates></Point></Placemark>
+<Placemark><name>50. Palácio Vila Flor</name>
+<description><![CDATA[<b>Palácio Vila Flor</b><br/>Baixa &amp; Chiado<br/><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Pal%C3%A1cio_Vila_Flor_-_Costa_do_Castelo.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_Vila_Flor">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.712508,-9.134541">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.134541,38.712508,0</coordinates></Point></Placemark>
+<Placemark><name>51. Museu Arqueológico do Carmo</name>
+<description><![CDATA[<b>Museu Arqueológico do Carmo</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Lisbonne_-_Couvent_des_Carles_-_Vue_g%C3%A9n%C3%A9rale.jpg/960px-Lisbonne_-_Couvent_des_Carles_-_Vue_g%C3%A9n%C3%A9rale.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.museuarqueologicodocarmo.pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Museu_Arqueológico_do_Carmo">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.712222,-9.14">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.14,38.712222,0</coordinates></Point></Placemark>
+<Placemark><name>52. Convento do Carmo (Lisboa)</name>
+<description><![CDATA[<b>Convento do Carmo (Lisboa)</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Nave_of_Igreja_do_Convento_do_Carmo_%28Lisbon%29_81.jpg/960px-Nave_of_Igreja_do_Convento_do_Carmo_%28Lisbon%29_81.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Convento_do_Carmo_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71222,-9.14">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.14,38.71222,0</coordinates></Point></Placemark>
+<Placemark><name>53. Elevador de Santa Justa</name>
+<description><![CDATA[<b>Elevador de Santa Justa</b><br/>Baixa &amp; Chiado<br/><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Elevador-Sta-Justa_1902_fotoCarris.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Elevador_de_Santa_Justa">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71194,-9.13917">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.13917,38.71194,0</coordinates></Point></Placemark>
+<Placemark><name>54. Teatro da Trindade</name>
+<description><![CDATA[<b>Teatro da Trindade</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Teatro_da_Trindade_2017.jpg/960px-Teatro_da_Trindade_2017.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://teatrotrindade.inatel.pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Teatro_da_Trindade">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.711891,-9.142647">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.142647,38.711891,0</coordinates></Point></Placemark>
+<Placemark><name>55. Palácio Valada-Azambuja</name>
+<description><![CDATA[<b>Palácio Valada-Azambuja</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pal%C3%A1cio_Valada_Azambuja_ou_dos_Condes_de_Azambuja.jpg/960px-Pal%C3%A1cio_Valada_Azambuja_ou_dos_Condes_de_Azambuja.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_Valada-Azambuja">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.710741,-9.14608">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.14608,38.710741,0</coordinates></Point></Placemark>
+<Placemark><name>56. Praça de Luís de Camões</name>
+<description><![CDATA[<b>Praça de Luís de Camões</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Camoes_2.jpg/960px-Camoes_2.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" width="240"/><br/><a href="https://revelar.lisboa.pt/explorar/toponimia/detalhe?tx_toponimia_pi1%5Baction%5D=show&amp;tx_toponimia_pi1%5Bcontroller%5D=Toponimia&amp;tx_toponimia_pi1%5Btopid%5D=3435">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Praça_de_Luís_de_Camões">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.710597,-9.143222">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.143222,38.710597,0</coordinates></Point></Placemark>
+<Placemark><name>57. Basílica de Nossa Senhora dos Mártires</name>
+<description><![CDATA[<b>Basílica de Nossa Senhora dos Mártires</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Exterior_of_Igreja_de_Nossa_Senhora_dos_M%C3%A1rtires_56.jpg/960px-Exterior_of_Igreja_de_Nossa_Senhora_dos_M%C3%A1rtires_56.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.paroquiadosmartires.pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Basílica_de_Nossa_Senhora_dos_Mártires">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.710453,-9.141439">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.141439,38.710453,0</coordinates></Point></Placemark>
+<Placemark><name>58. Igreja da Madalena</name>
+<description><![CDATA[<b>Igreja da Madalena</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Igreja_da_Madalena_%28Lisbon%29_35.jpg/960px-Igreja_da_Madalena_%28Lisbon%29_35.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_da_Madalena">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.710139,-9.135">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.135,38.710139,0</coordinates></Point></Placemark>
+<Placemark><name>59. Museu da Farmácia</name>
+<description><![CDATA[<b>Museu da Farmácia</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/ANF1975.jpg/960px-ANF1975.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.museudafarmacia.pt">Website</a><br/>🕐 Mo-Fr 10:00-19:00; Sa 14:00-19:00<br/>📞 +351 213 400 680;+351 213 400 688<br/><a href="https://pt.wikipedia.org/wiki/Museu_da_Farmácia">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71009,-9.147351">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.147351,38.71009,0</coordinates></Point></Placemark>
+<Placemark><name>60. Elevador da Bica</name>
+<description><![CDATA[<b>Elevador da Bica</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Lisboa_-_Elevador_da_Bica_%2853861208616%29.jpg/960px-Lisboa_-_Elevador_da_Bica_%2853861208616%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Elevador_da_Bica">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.709758,-9.146205">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.146205,38.709758,0</coordinates></Point></Placemark>
+<Placemark><name>61. Sé de Lisboa</name>
+<description><![CDATA[<b>Sé de Lisboa</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/West_facade_of_Lisbon_Cathedral_%28retouched%29.jpg/960px-West_facade_of_Lisbon_Cathedral_%28retouched%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.patriarcado-lisboa.pt/">Website</a><br/>🕐 Mo-Sa 09:30-19:00<br/><a href="https://pt.wikipedia.org/wiki/Sé_de_Lisboa">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.70972,-9.13306">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.13306,38.70972,0</coordinates></Point></Placemark>
+<Placemark><name>62. Palácio Quintela</name>
+<description><![CDATA[<b>Palácio Quintela</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Pal%C3%A1cio_Quintela_2017-09-25.png/960px-Pal%C3%A1cio_Quintela_2017-09-25.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_Quintela">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.709543,-9.14282">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.14282,38.709543,0</coordinates></Point></Placemark>
+<Placemark><name>63. Teatro Nacional de São Carlos</name>
+<description><![CDATA[<b>Teatro Nacional de São Carlos</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Teatro_Nacional_de_S%C3%A3o_Carlos_2021-04-20.png/960px-Teatro_Nacional_de_S%C3%A3o_Carlos_2021-04-20.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.saocarlos.pt/">Website</a><br/>📞 +351 213 253 045;+351 213 253 046<br/><a href="https://pt.wikipedia.org/wiki/Teatro_Nacional_de_São_Carlos">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.70944,-9.1417">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.1417,38.70944,0</coordinates></Point></Placemark>
+<Placemark><name>64. Teatro São Luiz</name>
+<description><![CDATA[<b>Teatro São Luiz</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Teatro_S%C3%A3o_Luiz.jpg/960px-Teatro_S%C3%A3o_Luiz.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.teatrosaoluiz.pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Teatro_São_Luiz">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7093,-9.1424">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.1424,38.7093,0</coordinates></Point></Placemark>
+<Placemark><name>65. Museu Nacional de Arte Contemporânea do Chiado</name>
+<description><![CDATA[<b>Museu Nacional de Arte Contemporânea do Chiado</b><br/>Baixa &amp; Chiado<br/><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Lisbonne_Mus%C3%A9e_du_Chiado.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="http://www.museuartecontemporanea.pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Museu_Nacional_de_Arte_Contemporânea_do_Chiado">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.708889,-9.141111">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.141111,38.708889,0</coordinates></Point></Placemark>
+<Placemark><name>66. Igreja da Conceição Velha</name>
+<description><![CDATA[<b>Igreja da Conceição Velha</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Exterior_of_Igreja_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Velha_70.jpg/960px-Exterior_of_Igreja_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Velha_70.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/>🕐 Mo-Fr 09:15-17:00; Su 10:00-13:00<br/><a href="https://pt.wikipedia.org/wiki/Igreja_da_Conceição_Velha">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.708853,-9.134208">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.134208,38.708853,0</coordinates></Point></Placemark>
+<Placemark><name>67. Arco da Rua Augusta</name>
+<description><![CDATA[<b>Arco da Rua Augusta</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Lisbon_Pra%C3%A7a_do_Com%C3%A9rcio_BW_2018-10-03_13-33-44_s.jpg/960px-Lisbon_Pra%C3%A7a_do_Com%C3%A9rcio_BW_2018-10-03_13-33-44_s.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/>📞 +351 21 099 8599<br/><a href="https://pt.wikipedia.org/wiki/Arco_da_Rua_Augusta">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.708443,-9.136816">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.136816,38.708443,0</coordinates></Point></Placemark>
+<Placemark><name>68. Museu da Cerveja (Lisboa)</name>
+<description><![CDATA[<b>Museu da Cerveja (Lisboa)</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/01_Museu_da_Cerveja.jpg/960px-01_Museu_da_Cerveja.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.museudacerveja.pt/">Website</a><br/>🕐 Mo-Su 10:00-00:00<br/>📞 +351 210 987 656<br/><a href="https://pt.wikipedia.org/wiki/Museu_da_Cerveja_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.70844,-9.135588">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.135588,38.70844,0</coordinates></Point></Placemark>
+<Placemark><name>69. Praça do Comércio</name>
+<description><![CDATA[<b>Praça do Comércio</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Aerial_view_of_Pra%C3%A7a_do_Com%C3%A9rcio_and_Baixa_Pombalina_%28cropped_and_retouched%29.jpg/960px-Aerial_view_of_Pra%C3%A7a_do_Com%C3%A9rcio_and_Baixa_Pombalina_%28cropped_and_retouched%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Praça_do_Comércio">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.707778,-9.136389">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.136389,38.707778,0</coordinates></Point></Placemark>
+<Placemark><name>70. Mercado da Ribeira</name>
+<description><![CDATA[<b>Mercado da Ribeira</b><br/>Baixa &amp; Chiado<br/><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Mercado_Ribeira_Lisbon.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/>🕐 Mo-We 10:00-00:00; Th-Sa 10:00-02:00; Su 10:00-24:00<br/><a href="https://pt.wikipedia.org/wiki/Mercado_da_Ribeira">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.707,-9.146">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.146,38.707,0</coordinates></Point></Placemark>
+<Placemark><name>71. Paço da Ribeira</name>
+<description><![CDATA[<b>Paço da Ribeira</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Terreiro_do_Pa%C3%A7o_antes_do_Terramoto_de_1755.png/960px-Terreiro_do_Pa%C3%A7o_antes_do_Terramoto_de_1755.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Paço_da_Ribeira">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.706844,-9.137044">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.137044,38.706844,0</coordinates></Point></Placemark>
+<Placemark><name>72. Terminal Fluvial do Terreiro do Paço</name>
+<description><![CDATA[<b>Terminal Fluvial do Terreiro do Paço</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Terminal_Terreiro_do_Pa%C3%A7o_%2851215404296%29.jpg/960px-Terminal_Terreiro_do_Pa%C3%A7o_%2851215404296%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Terminal_Fluvial_do_Terreiro_do_Paço">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.706675,-9.134047">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.134047,38.706675,0</coordinates></Point></Placemark>
+<Placemark><name>73. Estação Ferroviária do Cais do Sodré</name>
+<description><![CDATA[<b>Estação Ferroviária do Cais do Sodré</b><br/>Baixa &amp; Chiado<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Bahnhof_Lissabon_Cais_do_Sodre.jpg/960px-Bahnhof_Lissabon_Cais_do_Sodre.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.cp.pt">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_do_Cais_do_Sodré">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.70596,-9.14431">Directions</a>]]></description>
+<styleUrl>#s1</styleUrl>
+<Point><coordinates>-9.14431,38.70596,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Bairro Alto &amp; Estrela</name>
+<Placemark><name>74. Palácio Anadia</name>
+<description><![CDATA[<b>Palácio Anadia</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Vista_lateral_da_fachada_do_Pal%C3%A1cio_Anadia.jpg/960px-Vista_lateral_da_fachada_do_Pal%C3%A1cio_Anadia.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_Anadia">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.723414,-9.160027">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.160027,38.723414,0</coordinates></Point></Placemark>
+<Placemark><name>75. Capela de Nossa Senhora de Monserrate</name>
+<description><![CDATA[<b>Capela de Nossa Senhora de Monserrate</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Lisbon_%2849424132976%29.jpg/960px-Lisbon_%2849424132976%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Capela_de_Nossa_Senhora_de_Monserrate">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.721781,-9.156523">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.156523,38.721781,0</coordinates></Point></Placemark>
+<Placemark><name>76. Museu Medeiros e Almeida</name>
+<description><![CDATA[<b>Museu Medeiros e Almeida</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Casa_Museu_Ant%C3%B3nio_Medeiros_e_Almeida.jpg/960px-Casa_Museu_Ant%C3%B3nio_Medeiros_e_Almeida.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.casa-museumedeirosealmeida.pt">Website</a><br/>🕐 Mo-Fr 13:00-17:30; Sa 10:00-17:30; Jan 01,May 01,Dec 24-25 off; easter off<br/>📞 +351 213 547 892<br/><a href="https://pt.wikipedia.org/wiki/Museu_Medeiros_e_Almeida">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.72158,-9.14911">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.14911,38.72158,0</coordinates></Point></Placemark>
+<Placemark><name>77. Cinemateca Portuguesa</name>
+<description><![CDATA[<b>Cinemateca Portuguesa</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Cinemateca_de_Lisboa_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853664180193%29_%28cropped%29.jpg/960px-Cinemateca_de_Lisboa_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853664180193%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.cinemateca.pt/">Website</a><br/>📞 +351 213 596 200<br/><a href="https://pt.wikipedia.org/wiki/Cinemateca_Portuguesa">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.720922,-9.148794">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.148794,38.720922,0</coordinates></Point></Placemark>
+<Placemark><name>78. Teatro Tivoli</name>
+<description><![CDATA[<b>Teatro Tivoli</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Tivoli_Raul_Lino_00004.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://www.teatrotivolibbva.pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Teatro_Tivoli">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.720491,-9.144969">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.144969,38.720491,0</coordinates></Point></Placemark>
+<Placemark><name>79. Teatro ABC</name>
+<description><![CDATA[<b>Teatro ABC</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Theatre_ABC_Lisbon.jpg/960px-Theatre_ABC_Lisbon.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Teatro_ABC">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71933,-9.14685">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.14685,38.71933,0</coordinates></Point></Placemark>
+<Placemark><name>80. Teatro Maria Vitória</name>
+<description><![CDATA[<b>Teatro Maria Vitória</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Teatro_Maria_Vitoria.JPG/960px-Teatro_Maria_Vitoria.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Teatro_Maria_Vitória">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.719324,-9.146378">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.146378,38.719324,0</coordinates></Point></Placemark>
+<Placemark><name>81. Palácio Lima Mayer</name>
+<description><![CDATA[<b>Palácio Lima Mayer</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/PalacioMayer.JPG/960px-PalacioMayer.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_Lima_Mayer">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.719319,-9.145697">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.145697,38.719319,0</coordinates></Point></Placemark>
+<Placemark><name>82. Palácio Palmela</name>
+<description><![CDATA[<b>Palácio Palmela</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Pal%C3%A1cio_Palmela_7948.jpg/960px-Pal%C3%A1cio_Palmela_7948.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.ministeriopublico.pt/destaque/palacio-palmela-um-lugar-com-historia-e-com-historias">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Palácio_Palmela">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71917,-9.15361">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.15361,38.71917,0</coordinates></Point></Placemark>
+<Placemark><name>83. Teatro Variedades</name>
+<description><![CDATA[<b>Teatro Variedades</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Teatro_Variedades_2026_-_Entrada_Vista_Superior_1.jpg/960px-Teatro_Variedades_2026_-_Entrada_Vista_Superior_1.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://teatrovariedades-capitolio.pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Teatro_Variedades">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.718928,-9.14604">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.14604,38.718928,0</coordinates></Point></Placemark>
+<Placemark><name>84. Cineteatro Capitólio</name>
+<description><![CDATA[<b>Cineteatro Capitólio</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Teatro_Capit%C3%B3lio_Lisbon_sunny_day.jpg/960px-Teatro_Capit%C3%B3lio_Lisbon_sunny_day.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Cineteatro_Capitólio">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.718852,-9.146668">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.146668,38.718852,0</coordinates></Point></Placemark>
+<Placemark><name>85. Jardim Botânico de Lisboa</name>
+<description><![CDATA[<b>Jardim Botânico de Lisboa</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Jardim_Bot%C3%A2nico_de_Lisboa_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2854210262784%29.jpg/960px-Jardim_Bot%C3%A2nico_de_Lisboa_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2854210262784%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://museus.ulisboa.pt/">Website</a><br/>🕐 09:00-20:00; Oct 01-Mar 31: 09:00-17:00<br/><a href="https://pt.wikipedia.org/wiki/Jardim_Botânico_de_Lisboa">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7181,-9.14895">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.14895,38.7181,0</coordinates></Point></Placemark>
+<Placemark><name>86. Museu Nacional de História Natural e da Ciência</name>
+<description><![CDATA[<b>Museu Nacional de História Natural e da Ciência</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Museu_Nacional_de_Historia_Natural_e_da_Ciencia_-_Universidade_de_Lisboa_-_panoramio.jpg/960px-Museu_Nacional_de_Historia_Natural_e_da_Ciencia_-_Universidade_de_Lisboa_-_panoramio.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.museus.ulisboa.pt">Website</a><br/>📞 +351 213 921 800; +351 213 921 808<br/><a href="https://pt.wikipedia.org/wiki/Museu_Nacional_de_História_Natural_e_da_Ciência">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.717872,-9.15074">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.15074,38.717872,0</coordinates></Point></Placemark>
+<Placemark><name>87. Casa Fernando Pessoa</name>
+<description><![CDATA[<b>Casa Fernando Pessoa</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Casa_Fernando_Pessoa.jpg/960px-Casa_Fernando_Pessoa.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://casafernandopessoa.cm-lisboa.pt/">Website</a><br/>🕐 Mo-Sa 10:00-18:00; Jan 01,May 01,Dec 25 off<br/>📞 +351 213 913 270<br/><a href="https://pt.wikipedia.org/wiki/Casa_Fernando_Pessoa">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71663,-9.16244">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.16244,38.71663,0</coordinates></Point></Placemark>
+<Placemark><name>88. Jardim do Príncipe Real</name>
+<description><![CDATA[<b>Jardim do Príncipe Real</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Patriarcal_Reservoir_01.jpg/960px-Patriarcal_Reservoir_01.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Jardim_do_Príncipe_Real">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.716267,-9.148808">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.148808,38.716267,0</coordinates></Point></Placemark>
+<Placemark><name>89. Museu João de Deus</name>
+<description><![CDATA[<b>Museu João de Deus</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Museu_Joao_Deus_-_Lisboa.JPG/960px-Museu_Joao_Deus_-_Lisboa.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.joaodeus.com/museu/museu.asp">Website</a><br/>🕐 Mo-Fr 09:30-17:00; PH off; Jun 13,Dec 24-26 off<br/>📞 +351 213 960 854<br/><a href="https://pt.wikipedia.org/wiki/Museu_João_de_Deus">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71586,-9.158249">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.158249,38.71586,0</coordinates></Point></Placemark>
+<Placemark><name>90. Igreja do Santo Condestável</name>
+<description><![CDATA[<b>Igreja do Santo Condestável</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Igreja_do_Santo_Condest%C3%A1vel_13.jpg/960px-Igreja_do_Santo_Condest%C3%A1vel_13.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_do_Santo_Condestável">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.715285,-9.166978">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.166978,38.715285,0</coordinates></Point></Placemark>
+<Placemark><name>91. Praça das Flores</name>
+<description><![CDATA[<b>Praça das Flores</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Jardim_Fialho_de_Almeida_-_Lisboa_-_Portugal_%2853116309229%29.jpg/960px-Jardim_Fialho_de_Almeida_-_Lisboa_-_Portugal_%2853116309229%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Praça_das_Flores">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.715083,-9.151667">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.151667,38.715083,0</coordinates></Point></Placemark>
+<Placemark><name>92. Convento dos Cardais</name>
+<description><![CDATA[<b>Convento dos Cardais</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Nave_of_the_church_of_the_Convento_dos_Cardais_93.jpg/960px-Nave_of_the_church_of_the_Convento_dos_Cardais_93.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.conventodoscardaes.com/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Convento_dos_Cardais">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.714806,-9.147873">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.147873,38.714806,0</coordinates></Point></Placemark>
+<Placemark><name>93. Jardim da Estrela</name>
+<description><![CDATA[<b>Jardim da Estrela</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Jardim_da_Estrela_-_Lisboa_-_Portugal_%2815227514472%29.jpg/960px-Jardim_da_Estrela_-_Lisboa_-_Portugal_%2815227514472%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/>🕐 Mo-Su 07:00-24:00<br/><a href="https://pt.wikipedia.org/wiki/Jardim_da_Estrela">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7146,-9.15927">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.15927,38.7146,0</coordinates></Point></Placemark>
+<Placemark><name>94. Basílica da Estrela</name>
+<description><![CDATA[<b>Basílica da Estrela</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Main_facade_of_Bas%C3%ADlica_da_Estrela_57.jpg/960px-Main_facade_of_Bas%C3%ADlica_da_Estrela_57.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/>🕐 Mo-Su 09:00-11:30, 15:00-16:00<br/><a href="https://pt.wikipedia.org/wiki/Basílica_da_Estrela">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71333,-9.16056">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.16056,38.71333,0</coordinates></Point></Placemark>
+<Placemark><name>95. Igreja da Memória</name>
+<description><![CDATA[<b>Igreja da Memória</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Exterior_of_Igreja_da_Mem%C3%B3ria_56.jpg/960px-Exterior_of_Igreja_da_Mem%C3%B3ria_56.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_da_Memória">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71333,-9.16056">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.16056,38.71333,0</coordinates></Point></Placemark>
+<Placemark><name>96. Convento de Nossa Senhora de Jesus</name>
+<description><![CDATA[<b>Convento de Nossa Senhora de Jesus</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Exterior_Igreja_N%C2%AA_S%C2%AA_Merc%C3%AAs_2.jpg/960px-Exterior_Igreja_N%C2%AA_S%C2%AA_Merc%C3%AAs_2.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Convento_de_Nossa_Senhora_de_Jesus">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.71312,-9.149606">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.149606,38.71312,0</coordinates></Point></Placemark>
+<Placemark><name>97. Palacete de São Bento</name>
+<description><![CDATA[<b>Palacete de São Bento</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/22_11_2022_Encontro_com_o_senhor_Ant%C3%B3nio_Costa%2C_Primeiro-Ministro_da_Rep%C3%BAblica_Portuguesa_%2852518745795%29.jpg/960px-22_11_2022_Encontro_com_o_senhor_Ant%C3%B3nio_Costa%2C_Primeiro-Ministro_da_Rep%C3%BAblica_Portuguesa_%2852518745795%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palacete_de_São_Bento">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.712889,-9.155278">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.155278,38.712889,0</coordinates></Point></Placemark>
+<Placemark><name>98. Palácio de São Bento</name>
+<description><![CDATA[<b>Palácio de São Bento</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/22_11_2022_Encontro_com_o_senhor_Ant%C3%B3nio_Costa%2C_Primeiro-Ministro_da_Rep%C3%BAblica_Portuguesa_%2852518745795%29.jpg/960px-22_11_2022_Encontro_com_o_senhor_Ant%C3%B3nio_Costa%2C_Primeiro-Ministro_da_Rep%C3%BAblica_Portuguesa_%2852518745795%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.parlamento.pt">Website</a><br/>📞 +351 213 919 000<br/><a href="https://pt.wikipedia.org/wiki/Palácio_de_São_Bento">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7125,-9.153611">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.153611,38.7125,0</coordinates></Point></Placemark>
+<Placemark><name>99. Assembleia da República (Portugal)</name>
+<description><![CDATA[<b>Assembleia da República (Portugal)</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/22_11_2022_Encontro_com_o_senhor_Augusto_Santos_Silva%2C_Presidente_da_Assembleia_da_Rep%C3%BAblica_%2852518546029%29.jpg/960px-22_11_2022_Encontro_com_o_senhor_Augusto_Santos_Silva%2C_Presidente_da_Assembleia_da_Rep%C3%BAblica_%2852518546029%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.parlamento.pt/">Website</a><br/>📞 +351 213 919 000<br/><a href="https://pt.wikipedia.org/wiki/Assembleia_da_República_(Portugal)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7125,-9.15361">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.15361,38.7125,0</coordinates></Point></Placemark>
+<Placemark><name>100. Museu da Marioneta</name>
+<description><![CDATA[<b>Museu da Marioneta</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Museu_da_Marioneta.jpg/960px-Museu_da_Marioneta.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.museudamarioneta.pt/pt/">Website</a><br/>🕐 Tu-Su 10:00-18:00<br/>📞 +351 213 942 810;+351 916 294 128;+351 916 294 135<br/><a href="https://pt.wikipedia.org/wiki/Museu_da_Marioneta">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.70811,-9.15596">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.15596,38.70811,0</coordinates></Point></Placemark>
+<Placemark><name>101. Estação Ferroviária de Santos</name>
+<description><![CDATA[<b>Estação Ferroviária de Santos</b><br/>Bairro Alto &amp; Estrela<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Santos_train_station.jpg/960px-Santos_train_station.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Santos">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7062,-9.15536">Directions</a>]]></description>
+<styleUrl>#s2</styleUrl>
+<Point><coordinates>-9.15536,38.7062,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Belém &amp; Ajuda</name>
+<Placemark><name>102. Palácio Nacional da Ajuda</name>
+<description><![CDATA[<b>Palácio Nacional da Ajuda</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Main_fa%C3%A7ade_of_Pal%C3%A1cio_Nacional_da_Ajuda_043.jpg/960px-Main_fa%C3%A7ade_of_Pal%C3%A1cio_Nacional_da_Ajuda_043.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.palacioajuda.pt/">Website</a><br/>🕐 Mo-Su 10:00-18:00; We off<br/>📞 +351 213 637 095;+351 213 620 264<br/><a href="https://pt.wikipedia.org/wiki/Palácio_Nacional_da_Ajuda">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7075,-9.197778">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.197778,38.7075,0</coordinates></Point></Placemark>
+<Placemark><name>103. Jardim Botânico da Ajuda</name>
+<description><![CDATA[<b>Jardim Botânico da Ajuda</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Topiary_in_Jardim_Bot%C3%A2nico_da_Ajuda_73.jpg/960px-Topiary_in_Jardim_Bot%C3%A2nico_da_Ajuda_73.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://jba.isa.ulisboa.pt/">Website</a><br/>📞 +351 213 653 100<br/><a href="https://pt.wikipedia.org/wiki/Jardim_Botânico_da_Ajuda">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.706161,-9.200781">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.200781,38.706161,0</coordinates></Point></Placemark>
+<Placemark><name>104. Museu Nacional de Etnologia</name>
+<description><![CDATA[<b>Museu Nacional de Etnologia</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lisbon%2C_the_Museu_Nacional_de_Etnologia.JPG/960px-Lisbon%2C_the_Museu_Nacional_de_Etnologia.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://museudeetnologia.pt/">Website</a><br/>🕐 Tu 14:00-18:00; We-Su 10:00-18:00; Jan 01,May 01,Jun 13,Dec 25 off;easter off<br/>📞 +351 213 041 160;+351 213 041 169<br/><a href="https://pt.wikipedia.org/wiki/Museu_Nacional_de_Etnologia">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7048,-9.2085">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.2085,38.7048,0</coordinates></Point></Placemark>
+<Placemark><name>105. Jardim Botânico Tropical</name>
+<description><![CDATA[<b>Jardim Botânico Tropical</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Palm_Trees_-_Jardim_do_Ultramar_%28Botanical_Gardens%29_-_Belem_District_-_Lisbon%2C_Portugal_%284633068205%29.jpg/960px-Palm_Trees_-_Jardim_do_Ultramar_%28Botanical_Gardens%29_-_Belem_District_-_Lisbon%2C_Portugal_%284633068205%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.museus.ulisboa.pt/pt-pt/jardim-botanico-tropical">Website</a><br/>🕐 Apr-Sep Mo-Su 09:00-20:00; Oct-Mar Mo-Su 10:00-17:00; PH; Jan 01,Dec 25 off<br/><a href="https://pt.wikipedia.org/wiki/Jardim_Botânico_Tropical">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.699322,-9.202488">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.202488,38.699322,0</coordinates></Point></Placemark>
+<Placemark><name>106. Palácio Nacional de Belém</name>
+<description><![CDATA[<b>Palácio Nacional de Belém</b><br/>Belém &amp; Ajuda<br/><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Palacio_Belem_Lisboa.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="http://www.presidencia.pt/?idc=15">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Palácio_Nacional_de_Belém">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.69805,-9.21445">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.21445,38.69805,0</coordinates></Point></Placemark>
+<Placemark><name>107. Mosteiro dos Jerónimos</name>
+<description><![CDATA[<b>Mosteiro dos Jerónimos</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg/960px-1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Mosteiro_dos_Jerónimos">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.69778,-9.20667">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.20667,38.69778,0</coordinates></Point></Placemark>
+<Placemark><name>108. Jardins do Palácio de Belém</name>
+<description><![CDATA[<b>Jardins do Palácio de Belém</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Pal%C3%A1cio_de_Bel%C3%A9m_-_Lisboa_-_Portugal_%285284659273%29_%28cropped%29.jpg/960px-Pal%C3%A1cio_de_Bel%C3%A9m_-_Lisboa_-_Portugal_%285284659273%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Jardins_do_Palácio_de_Belém">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.697713,-9.200562">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.200562,38.697713,0</coordinates></Point></Placemark>
+<Placemark><name>109. Cordoaria Nacional</name>
+<description><![CDATA[<b>Cordoaria Nacional</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/F%C3%A1brica_Nacional_da_Cordoaria_7614.jpg/960px-F%C3%A1brica_Nacional_da_Cordoaria_7614.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Cordoaria_Nacional">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.6975,-9.19028">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.19028,38.6975,0</coordinates></Point></Placemark>
+<Placemark><name>110. Museu Nacional de Arqueologia</name>
+<description><![CDATA[<b>Museu Nacional de Arqueologia</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Museo_Nacional_de_Arqueolog%C3%ADa._Lisboa.jpg/960px-Museo_Nacional_de_Arqueolog%C3%ADa._Lisboa.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.museunacionalarqueologia.gov.pt/">Website</a><br/>🕐 Tu-Su 10:00-18:00; Jan 01,May 01,Jun 13,Dec 25 off;easter off<br/>📞 +351 213 620 000;+351 213 620 025<br/><a href="https://pt.wikipedia.org/wiki/Museu_Nacional_de_Arqueologia">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.697278,-9.207056">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.207056,38.697278,0</coordinates></Point></Placemark>
+<Placemark><name>111. Museu de Marinha</name>
+<description><![CDATA[<b>Museu de Marinha</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Museu_de_Marinha_Lissabon_Eingang_September_2014.jpg/960px-Museu_de_Marinha_Lissabon_Eingang_September_2014.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://ccm.marinha.pt/pt/museu">Website</a><br/>🕐 May 01-Sep 30 10:00-18:00; Oct 01-Apr 30 10:00-17:00; easter off; Jan 01,May 01,Dec 25 off<br/>📞 +351 21 097 7390<br/><a href="https://pt.wikipedia.org/wiki/Museu_de_Marinha">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.697097,-9.208139">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.208139,38.697097,0</coordinates></Point></Placemark>
+<Placemark><name>112. Museu Nacional dos Coches</name>
+<description><![CDATA[<b>Museu Nacional dos Coches</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Antigo_Picadeiro_Real.jpg/960px-Antigo_Picadeiro_Real.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://museudoscoches.pt/">Website</a><br/>🕐 Tu-Su 10:00-18:00; Jan 01,May 01,Dec 25; easter off<br/>📞 +351 210 732 319;+351 210 492 400<br/><a href="https://pt.wikipedia.org/wiki/Museu_Nacional_dos_Coches">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.696685,-9.198172">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.198172,38.696685,0</coordinates></Point></Placemark>
+<Placemark><name>113. Jardim da Praça do Império</name>
+<description><![CDATA[<b>Jardim da Praça do Império</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/JeronimosView.jpg/960px-JeronimosView.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Jardim_da_Praça_do_Império">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.696486,-9.207398">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.207398,38.696486,0</coordinates></Point></Placemark>
+<Placemark><name>114. Estação Ferroviária de Belém</name>
+<description><![CDATA[<b>Estação Ferroviária de Belém</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Between_Belem_and_Alcantara_%2842498166721%29.jpg/960px-Between_Belem_and_Alcantara_%2842498166721%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Belém">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.696147,-9.198036">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.198036,38.696147,0</coordinates></Point></Placemark>
+<Placemark><name>115. Museu de Arte, Arquitetura e Tecnologia</name>
+<description><![CDATA[<b>Museu de Arte, Arquitetura e Tecnologia</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Exterior_of_Museu_de_Arte%2C_Arquitetura_e_Tecnologia_67.jpg/960px-Exterior_of_Museu_de_Arte%2C_Arquitetura_e_Tecnologia_67.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.maat.pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Museu_de_Arte,_Arquitetura_e_Tecnologia">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.695908,-9.193504">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.193504,38.695908,0</coordinates></Point></Placemark>
+<Placemark><name>116. Museu da Eletricidade</name>
+<description><![CDATA[<b>Museu da Eletricidade</b><br/>Belém &amp; Ajuda<br/><a href="https://www.maat.pt/pt/event/fabrica-da-eletricidade">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Museu_da_Eletricidade">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.695745,-9.195399">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.195399,38.695745,0</coordinates></Point></Placemark>
+<Placemark><name>117. Centro Cultural de Belém</name>
+<description><![CDATA[<b>Centro Cultural de Belém</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/View_from_Padr%C3%A3o_dos_Descobrimentos_-_Centro_Cultural_de_Bel%C3%A9m_%282%29_-_Jul_2008.jpg/960px-View_from_Padr%C3%A3o_dos_Descobrimentos_-_Centro_Cultural_de_Bel%C3%A9m_%282%29_-_Jul_2008.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.ccb.pt">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Centro_Cultural_de_Belém">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.69556,-9.20778">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.20778,38.69556,0</coordinates></Point></Placemark>
+<Placemark><name>118. Museu da Eletricidade (Lisboa)</name>
+<description><![CDATA[<b>Museu da Eletricidade (Lisboa)</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Exterior_of_Museu_da_Electricidade_16.jpg/960px-Exterior_of_Museu_da_Electricidade_16.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.fundacaoedp.pt">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Museu_da_Eletricidade_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.695556,-9.196111">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.196111,38.695556,0</coordinates></Point></Placemark>
+<Placemark><name>119. Museu de Arte Contemporânea - Centro Cultural de Belém</name>
+<description><![CDATA[<b>Museu de Arte Contemporânea - Centro Cultural de Belém</b><br/>Belém &amp; Ajuda<br/><a href="https://pt.wikipedia.org/wiki/Museu_de_Arte_Contemporânea_-_Centro_Cultural_de_Belém">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.695556,-9.209167">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.209167,38.695556,0</coordinates></Point></Placemark>
+<Placemark><name>120. Museu de Arte Contemporânea do Centro Cultural de Belém</name>
+<description><![CDATA[<b>Museu de Arte Contemporânea do Centro Cultural de Belém</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Berardo_Collection_Museum.png/960px-Berardo_Collection_Museum.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.museuberardo.com/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Museu_de_Arte_Contemporânea_do_Centro_Cultural_de_Belém">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.695522,-9.208378">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.208378,38.695522,0</coordinates></Point></Placemark>
+<Placemark><name>121. Museu de Arte Popular (Portugal)</name>
+<description><![CDATA[<b>Museu de Arte Popular (Portugal)</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Exterior_of_Museu_de_Arte_Popular_%28Lisboa%29_84.jpg/960px-Exterior_of_Museu_de_Arte_Popular_%28Lisboa%29_84.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://museuartepopular.wordpress.com/">Website</a><br/>🕐 We-Fr 10:00-18:00; Sa,Su 10:00-13:00,14:00-18:00; Jan 01,May 01,Jun 13,Dec 25 off; easter off<br/>📞 +351 213 011 282;+351 213 011 675;+351 213 011 128<br/><a href="https://pt.wikipedia.org/wiki/Museu_de_Arte_Popular_(Portugal)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.693658,-9.208366">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.208366,38.693658,0</coordinates></Point></Placemark>
+<Placemark><name>122. Padrão dos Descobrimentos</name>
+<description><![CDATA[<b>Padrão dos Descobrimentos</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Monumento_a_los_Descubrimientos%2C_Lisboa%2C_Portugal%2C_2012-05-12%2C_DD_19.JPG/960px-Monumento_a_los_Descubrimientos%2C_Lisboa%2C_Portugal%2C_2012-05-12%2C_DD_19.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.cm-lisboa.pt/equipamentos/equipamento/info/padrao-dos-descobrimentos">Website</a><br/>📞 +351 213 031 950<br/><a href="https://pt.wikipedia.org/wiki/Padrão_dos_Descobrimentos">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.69361,-9.2056">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.2056,38.69361,0</coordinates></Point></Placemark>
+<Placemark><name>123. Torre de Belém</name>
+<description><![CDATA[<b>Torre de Belém</b><br/>Belém &amp; Ajuda<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bel%C3%A9m_Tower_in_Lisbon%2C_Portugal.jpg/960px-Bel%C3%A9m_Tower_in_Lisbon%2C_Portugal.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/>🕐 Oct-Apr: Tu-Su 10:00-17:30; May-Sep: Tu-Su 10:00-18:30<br/><a href="https://pt.wikipedia.org/wiki/Torre_de_Belém">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.6917,-9.21583">Directions</a>]]></description>
+<styleUrl>#s3</styleUrl>
+<Point><coordinates>-9.21583,38.6917,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Alcântara &amp; Riverside</name>
+<Placemark><name>124. Estação Ferroviária de Alvito-A</name>
+<description><![CDATA[<b>Estação Ferroviária de Alvito-A</b><br/>Alcântara &amp; Riverside<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Alvito-A_train_station.jpg/960px-Alvito-A_train_station.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Alvito-A">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.710478,-9.17675">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.17675,38.710478,0</coordinates></Point></Placemark>
+<Placemark><name>125. Estação Ferroviária de Alcântara-Terra</name>
+<description><![CDATA[<b>Estação Ferroviária de Alcântara-Terra</b><br/>Alcântara &amp; Riverside<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Alcantara_Terra_Railway_Station.jpg/960px-Alcantara_Terra_Railway_Station.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Alcântara-Terra">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.707465,-9.173262">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.173262,38.707465,0</coordinates></Point></Placemark>
+<Placemark><name>126. Palácio das Necessidades</name>
+<description><![CDATA[<b>Palácio das Necessidades</b><br/>Alcântara &amp; Riverside<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Exterior_of_Pal%C3%A1cio_das_Necessidades_%28Lisbon%29_47.jpg/960px-Exterior_of_Pal%C3%A1cio_das_Necessidades_%28Lisbon%29_47.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_das_Necessidades">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.706844,-9.169633">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.169633,38.706844,0</coordinates></Point></Placemark>
+<Placemark><name>127. Museu Nacional de Arte Antiga</name>
+<description><![CDATA[<b>Museu Nacional de Arte Antiga</b><br/>Alcântara &amp; Riverside<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/MNAA.jpg/960px-MNAA.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://museudearteantiga.pt">Website</a><br/>🕐 Tu-Su 10:00-18:00<br/>📞 +351 213 912 800<br/><a href="https://pt.wikipedia.org/wiki/Museu_Nacional_de_Arte_Antiga">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.704785,-9.161466">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.161466,38.704785,0</coordinates></Point></Placemark>
+<Placemark><name>128. Igreja e Convento das Flamengas</name>
+<description><![CDATA[<b>Igreja e Convento das Flamengas</b><br/>Alcântara &amp; Riverside<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Igreja_e_Convento_Flamengas.jpg/960px-Igreja_e_Convento_Flamengas.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_e_Convento_das_Flamengas">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.704353,-9.179048">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.179048,38.704353,0</coordinates></Point></Placemark>
+<Placemark><name>129. Palácio dos Condes de Óbidos</name>
+<description><![CDATA[<b>Palácio dos Condes de Óbidos</b><br/>Alcântara &amp; Riverside<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Pal%C3%A1cio_do_Conde_de_%C3%93bidos_%28da_gare_m_Rocha_Conde_de_%C3%93bidos%29_8266.jpg/960px-Pal%C3%A1cio_do_Conde_de_%C3%93bidos_%28da_gare_m_Rocha_Conde_de_%C3%93bidos%29_8266.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_dos_Condes_de_Óbidos">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.704107,-9.163442">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.163442,38.704107,0</coordinates></Point></Placemark>
+<Placemark><name>130. Palácio Sabugosa</name>
+<description><![CDATA[<b>Palácio Sabugosa</b><br/>Alcântara &amp; Riverside<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pal%C3%A1cio_Sabugosa_2.jpg/960px-Pal%C3%A1cio_Sabugosa_2.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_Sabugosa">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.703167,-9.180417">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.180417,38.703167,0</coordinates></Point></Placemark>
+<Placemark><name>131. Museu do Oriente</name>
+<description><![CDATA[<b>Museu do Oriente</b><br/>Alcântara &amp; Riverside<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Museu_do_Oriente.jpg/960px-Museu_do_Oriente.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.museudooriente.pt/261/the-oriente-museum.htm#.X9FAsdj7RPY">Website</a><br/>📞 +351 213 585 200<br/><a href="https://pt.wikipedia.org/wiki/Museu_do_Oriente">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.703035,-9.170632">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.170632,38.703035,0</coordinates></Point></Placemark>
+<Placemark><name>132. Estação Ferroviária de Alcântara-Mar</name>
+<description><![CDATA[<b>Estação Ferroviária de Alcântara-Mar</b><br/>Alcântara &amp; Riverside<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Alc%C3%A2ntara-Mar_train_station_%281%29.jpg/960px-Alc%C3%A2ntara-Mar_train_station_%281%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Alcântara-Mar">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.702442,-9.173884">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.173884,38.702442,0</coordinates></Point></Placemark>
+<Placemark><name>133. Museu da Carris</name>
+<description><![CDATA[<b>Museu da Carris</b><br/>Alcântara &amp; Riverside<br/><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Museucarris002.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="http://museu.carris.pt/">Website</a><br/>🕐 Mo-Fr 10:00-18:00; Sa 10:00-13:00,14:00-18:00; PH off<br/>📞 +351 213 613 087<br/><a href="https://pt.wikipedia.org/wiki/Museu_da_Carris">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.702222,-9.180556">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.180556,38.702222,0</coordinates></Point></Placemark>
+<Placemark><name>134. Museu do Centro Científico e Cultural de Macau</name>
+<description><![CDATA[<b>Museu do Centro Científico e Cultural de Macau</b><br/>Alcântara &amp; Riverside<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/LocationAsia.png/960px-LocationAsia.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.cccm.pt">Website</a><br/>🕐 Tu-Su 10:00-17:00<br/>📞 +351 213 617 570<br/><a href="https://pt.wikipedia.org/wiki/Museu_do_Centro_Científico_e_Cultural_de_Macau">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.700833,-9.1825">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.1825,38.700833,0</coordinates></Point></Placemark>
+<Placemark><name>135. Palácio dos Condes da Ponte</name>
+<description><![CDATA[<b>Palácio dos Condes da Ponte</b><br/>Alcântara &amp; Riverside<br/><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Museucarris002.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_dos_Condes_da_Ponte">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.699666,-9.185355">Directions</a>]]></description>
+<styleUrl>#s4</styleUrl>
+<Point><coordinates>-9.185355,38.699666,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Avenidas &amp; North</name>
+<Placemark><name>136. Igreja de São Bartolomeu da Charneca</name>
+<description><![CDATA[<b>Igreja de São Bartolomeu da Charneca</b><br/>Avenidas &amp; North<br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_Bartolomeu_da_Charneca">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.783248,-9.143138">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.143138,38.783248,0</coordinates></Point></Placemark>
+<Placemark><name>137. Igreja de Nossa Senhora da Encarnação da Ameixoeira</name>
+<description><![CDATA[<b>Igreja de Nossa Senhora da Encarnação da Ameixoeira</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Igreja_de_Nossa_Senhora_da_Encarna%C3%A7%C3%A3o_%28Ameixoeira%29_03.jpg/960px-Igreja_de_Nossa_Senhora_da_Encarna%C3%A7%C3%A3o_%28Ameixoeira%29_03.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_da_Encarnação_da_Ameixoeira">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.781828,-9.161062">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.161062,38.781828,0</coordinates></Point></Placemark>
+<Placemark><name>138. Museu Nacional do Traje</name>
+<description><![CDATA[<b>Museu Nacional do Traje</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Museu_do_Traje_8404.jpg/960px-Museu_do_Traje_8404.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Museu_Nacional_do_Traje">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.775163,-9.164985">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.164985,38.775163,0</coordinates></Point></Placemark>
+<Placemark><name>139. Palácio do Monteiro-Mor</name>
+<description><![CDATA[<b>Palácio do Monteiro-Mor</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Museu_do_Teatro_8428.jpg/960px-Museu_do_Teatro_8428.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_do_Monteiro-Mor">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.774758,-9.16688">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.16688,38.774758,0</coordinates></Point></Placemark>
+<Placemark><name>140. Igreja de São João Baptista (Lumiar)</name>
+<description><![CDATA[<b>Igreja de São João Baptista (Lumiar)</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Igreja_Paroquial_do_Lumiar.jpg/960px-Igreja_Paroquial_do_Lumiar.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_João_Baptista_(Lumiar)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.774625,-9.165085">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.165085,38.774625,0</coordinates></Point></Placemark>
+<Placemark><name>141. Teatro de Carnide</name>
+<description><![CDATA[<b>Teatro de Carnide</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Teatro_de_Carnide.jpg/960px-Teatro_de_Carnide.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Teatro_de_Carnide">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.762084,-9.187042">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.187042,38.762084,0</coordinates></Point></Placemark>
+<Placemark><name>142. Convento de Santa Teresa de Jesus de Carnide</name>
+<description><![CDATA[<b>Convento de Santa Teresa de Jesus de Carnide</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Convento_de_Santa_Teresa_de_Jesus_de_Carnide.jpg/960px-Convento_de_Santa_Teresa_de_Jesus_de_Carnide.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Convento_de_Santa_Teresa_de_Jesus_de_Carnide">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.762019,-9.190055">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.190055,38.762019,0</coordinates></Point></Placemark>
+<Placemark><name>143. Igreja de Nossa Senhora da Luz (Carnide)</name>
+<description><![CDATA[<b>Igreja de Nossa Senhora da Luz (Carnide)</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Lisboa_-_Portugal_%28281668614%29.jpg/960px-Lisboa_-_Portugal_%28281668614%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_da_Luz_(Carnide)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.760434,-9.184722">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.184722,38.760434,0</coordinates></Point></Placemark>
+<Placemark><name>144. Igreja de São Lourenço de Carnide</name>
+<description><![CDATA[<b>Igreja de São Lourenço de Carnide</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Igreja_Sao_Louren%C3%A7o_Carnide.jpg/960px-Igreja_Sao_Louren%C3%A7o_Carnide.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_Lourenço_de_Carnide">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.760306,-9.190811">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.190811,38.760306,0</coordinates></Point></Placemark>
+<Placemark><name>145. Palácio do Conde de Vimioso</name>
+<description><![CDATA[<b>Palácio do Conde de Vimioso</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Pal%C3%A1cio_do_Conde_de_Vimioso_8353.jpg/960px-Pal%C3%A1cio_do_Conde_de_Vimioso_8353.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_do_Conde_de_Vimioso">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.759995,-9.155801">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.155801,38.759995,0</coordinates></Point></Placemark>
+<Placemark><name>146. Igreja Paroquial de Nossa Senhora da Porta do Céu</name>
+<description><![CDATA[<b>Igreja Paroquial de Nossa Senhora da Porta do Céu</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Igreja_de_Nossa_Senhora_da_Porta_do_C%C3%A9u_%28Telheiras%29_-_Fachada.jpg/960px-Igreja_de_Nossa_Senhora_da_Porta_do_C%C3%A9u_%28Telheiras%29_-_Fachada.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://portadoceu.org">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Igreja_Paroquial_de_Nossa_Senhora_da_Porta_do_Céu">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.759535,-9.165349">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.165349,38.759535,0</coordinates></Point></Placemark>
+<Placemark><name>147. Museu Rafael Bordalo Pinheiro</name>
+<description><![CDATA[<b>Museu Rafael Bordalo Pinheiro</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Museu_Bordalo_Pinheiro.jpg/960px-Museu_Bordalo_Pinheiro.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://museubordalopinheiro.cm-lisboa.pt">Website</a><br/>🕐 Tu-Su 10:00-18:00<br/>📞 +351 218 170 667<br/><a href="https://pt.wikipedia.org/wiki/Museu_Rafael_Bordalo_Pinheiro">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7589,-9.1542">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.1542,38.7589,0</coordinates></Point></Placemark>
+<Placemark><name>148. Museu de Lisboa</name>
+<description><![CDATA[<b>Museu de Lisboa</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Exterior_of_Pal%C3%A1cio_Pimenta_78.jpg/960px-Exterior_of_Pal%C3%A1cio_Pimenta_78.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.museudelisboa.pt">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Museu_de_Lisboa">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.758453,-9.156667">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.156667,38.758453,0</coordinates></Point></Placemark>
+<Placemark><name>149. Palácio Pimenta</name>
+<description><![CDATA[<b>Palácio Pimenta</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Exterior_of_Pal%C3%A1cio_Pimenta_78.jpg/960px-Exterior_of_Pal%C3%A1cio_Pimenta_78.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.museudelisboa.pt/">Website</a><br/>📞 +351 217 513 200<br/><a href="https://pt.wikipedia.org/wiki/Palácio_Pimenta">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.758452,-9.156664">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.156664,38.758452,0</coordinates></Point></Placemark>
+<Placemark><name>150. Quinta dos Condes de Carnide</name>
+<description><![CDATA[<b>Quinta dos Condes de Carnide</b><br/>Avenidas &amp; North<br/><a href="https://pt.wikipedia.org/wiki/Quinta_dos_Condes_de_Carnide">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.758334,-9.189332">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.189332,38.758334,0</coordinates></Point></Placemark>
+<Placemark><name>151. Igreja de São João de Brito</name>
+<description><![CDATA[<b>Igreja de São João de Brito</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Brito.JPG/960px-Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Brito.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_João_de_Brito">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.755229,-9.137653">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.137653,38.755229,0</coordinates></Point></Placemark>
+<Placemark><name>152. Arquivo Nacional da Torre do Tombo</name>
+<description><![CDATA[<b>Arquivo Nacional da Torre do Tombo</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/A_Guerra_e_a_Paz.jpg/960px-A_Guerra_e_a_Paz.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" width="240"/><br/><a href="http://antt.dgarq.gov.pt">Website</a><br/>📞 +351 210 037 100<br/><a href="https://pt.wikipedia.org/wiki/Arquivo_Nacional_da_Torre_do_Tombo">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.754524,-9.156378">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.156378,38.754524,0</coordinates></Point></Placemark>
+<Placemark><name>153. Igreja dos Santos Reis Magos (Lisboa)</name>
+<description><![CDATA[<b>Igreja dos Santos Reis Magos (Lisboa)</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Igreja_Paroquial_do_Campo_Grande_01.jpg/960px-Igreja_Paroquial_do_Campo_Grande_01.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.igrejacampogrande.pt/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Igreja_dos_Santos_Reis_Magos_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.754445,-9.150599">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.150599,38.754445,0</coordinates></Point></Placemark>
+<Placemark><name>154. Jardim Mário Soares</name>
+<description><![CDATA[<b>Jardim Mário Soares</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Jardim_do_Campo_Grande.jpg/960px-Jardim_do_Campo_Grande.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Jardim_Mário_Soares">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.753963,-9.151541">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.151541,38.753963,0</coordinates></Point></Placemark>
+<Placemark><name>155. Igreja de Nossa Senhora do Amparo (Benfica)</name>
+<description><![CDATA[<b>Igreja de Nossa Senhora do Amparo (Benfica)</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Igreja_Paroquial_de_Benfica.jpg/960px-Igreja_Paroquial_de_Benfica.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_do_Amparo_(Benfica)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.751101,-9.202107">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.202107,38.751101,0</coordinates></Point></Placemark>
+<Placemark><name>156. Monumento aos Heróis da Guerra Peninsular (Lisboa)</name>
+<description><![CDATA[<b>Monumento aos Heróis da Guerra Peninsular (Lisboa)</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Monumento_aos_Her%C3%B3is_da_guerra_Peninsular_%28Lisboa%291883.JPG/960px-Monumento_aos_Her%C3%B3is_da_guerra_Peninsular_%28Lisboa%291883.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Monumento_aos_Heróis_da_Guerra_Peninsular_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.748332,-9.148521">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.148521,38.748332,0</coordinates></Point></Placemark>
+<Placemark><name>157. Teatro Maria Matos</name>
+<description><![CDATA[<b>Teatro Maria Matos</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Teatro_Municipal_Maria_Matos_8959.jpg/960px-Teatro_Municipal_Maria_Matos_8959.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Teatro_Maria_Matos">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.74597,-9.138825">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.138825,38.74597,0</coordinates></Point></Placemark>
+<Placemark><name>158. Estação Ferroviária de Roma-Areeiro</name>
+<description><![CDATA[<b>Estação Ferroviária de Roma-Areeiro</b><br/>Avenidas &amp; North<br/><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Pt_ferv.png?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Roma-Areeiro">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.74565,-9.13551">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.13551,38.74565,0</coordinates></Point></Placemark>
+<Placemark><name>159. Teatro Talia</name>
+<description><![CDATA[<b>Teatro Talia</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Teatro_Thalia_02.JPG/960px-Teatro_Thalia_02.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.sec-geral.mec.pt/pagina/teatro-thalia">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Teatro_Talia">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.745012,-9.16933">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.16933,38.745012,0</coordinates></Point></Placemark>
+<Placemark><name>160. Estação Ferroviária de Entrecampos</name>
+<description><![CDATA[<b>Estação Ferroviária de Entrecampos</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Entrecampos_train_station%2C_Lisbon_%2827389921409%29.jpg/960px-Entrecampos_train_station%2C_Lisbon_%2827389921409%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Entrecampos">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.744567,-9.148667">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.148667,38.744567,0</coordinates></Point></Placemark>
+<Placemark><name>161. Estação Ferroviária de Benfica</name>
+<description><![CDATA[<b>Estação Ferroviária de Benfica</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Esta%C3%A7%C3%A3o_Ferrovi%C3%A1ria_de_Benfica._07-25_%2803%29.jpg/960px-Esta%C3%A7%C3%A3o_Ferrovi%C3%A1ria_de_Benfica._07-25_%2803%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Benfica">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7444,-9.19973">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.19973,38.7444,0</coordinates></Point></Placemark>
+<Placemark><name>162. Aqueduto das Águas Livres</name>
+<description><![CDATA[<b>Aqueduto das Águas Livres</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Aqueduto_das_%C3%81guas_Livres2.JPG/960px-Aqueduto_das_%C3%81guas_Livres2.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Aqueduto_das_Águas_Livres">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.742879,-9.185451">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.185451,38.742879,0</coordinates></Point></Placemark>
+<Placemark><name>163. Apeadeiro de Cruz da Pedra</name>
+<description><![CDATA[<b>Apeadeiro de Cruz da Pedra</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%BA%D0%B0_%2811609588425%29.jpg/960px-%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%BA%D0%B0_%2811609588425%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Apeadeiro_de_Cruz_da_Pedra">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.741664,-9.177644">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.177644,38.741664,0</coordinates></Point></Placemark>
+<Placemark><name>164. Palácio Galveias</name>
+<description><![CDATA[<b>Palácio Galveias</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Pal%C3%A1cio_Galveias.jpg/960px-Pal%C3%A1cio_Galveias.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://blx.cm-lisboa.pt/horarios-e-contactos/biblioteca-palacio-galveias/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Palácio_Galveias">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.741444,-9.143667">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.143667,38.741444,0</coordinates></Point></Placemark>
+<Placemark><name>165. Jardim Maria José Moura</name>
+<description><![CDATA[<b>Jardim Maria José Moura</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Bustos_de_dupla_face_IX.jpg/960px-Bustos_de_dupla_face_IX.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Jardim_Maria_José_Moura">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.741115,-9.143498">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.143498,38.741115,0</coordinates></Point></Placemark>
+<Placemark><name>166. Igreja de São João de Deus (Lisboa)</name>
+<description><![CDATA[<b>Igreja de São João de Deus (Lisboa)</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Deus_em_Lisboa%2C_Portugal.jpg/960px-Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Deus_em_Lisboa%2C_Portugal.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_João_de_Deus_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.740363,-9.137981">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.137981,38.740363,0</coordinates></Point></Placemark>
+<Placemark><name>167. Estação Ferroviária de Sete Rios</name>
+<description><![CDATA[<b>Estação Ferroviária de Sete Rios</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Sete_Rios_Train_Station_%283784715251%29.jpg/960px-Sete_Rios_Train_Station_%283784715251%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://servicos.infraestruturasdeportugal.pt/pt-pt/estacoes?estacaoId=9466076">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Sete_Rios">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.740252,-9.166675">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.166675,38.740252,0</coordinates></Point></Placemark>
+<Placemark><name>168. Palácio dos Marqueses de Fronteira</name>
+<description><![CDATA[<b>Palácio dos Marqueses de Fronteira</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Garden_of_Pal%C3%A1cio_dos_Marqueses_de_Fronteira_59.jpg/960px-Garden_of_Pal%C3%A1cio_dos_Marqueses_de_Fronteira_59.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.fronteira-alorna.pt/">Website</a><br/>🕐 Mo-Sa 11:00-12:00<br/>📞 +351 217 782 023<br/><a href="https://pt.wikipedia.org/wiki/Palácio_dos_Marqueses_de_Fronteira">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.74,-9.18028">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.18028,38.74,0</coordinates></Point></Placemark>
+<Placemark><name>169. Igreja de Nossa Senhora do Rosário de Fátima</name>
+<description><![CDATA[<b>Igreja de Nossa Senhora do Rosário de Fátima</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lisbon_%2827721677829%29.jpg/960px-Lisbon_%2827721677829%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://www.paroquiansrfatima.com">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_do_Rosário_de_Fátima">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.739647,-9.150847">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.150847,38.739647,0</coordinates></Point></Placemark>
+<Placemark><name>170. Museu Calouste Gulbenkian</name>
+<description><![CDATA[<b>Museu Calouste Gulbenkian</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Calouste_Gulbenkian_Museum_Exterior_37.jpg/960px-Calouste_Gulbenkian_Museum_Exterior_37.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://gulbenkian.pt/museu/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Museu_Calouste_Gulbenkian">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.73667,-9.15417">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.15417,38.73667,0</coordinates></Point></Placemark>
+<Placemark><name>171. Teatro Aberto</name>
+<description><![CDATA[<b>Teatro Aberto</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Teatro_Aberto.jpg/960px-Teatro_Aberto.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Teatro_Aberto">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7362,-9.15848">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.15848,38.7362,0</coordinates></Point></Placemark>
+<Placemark><name>172. Centro de Arte Moderna Gulbenkian</name>
+<description><![CDATA[<b>Centro de Arte Moderna Gulbenkian</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Engawa_of_Centro_de_Arte_Moderna_804.jpg/960px-Engawa_of_Centro_de_Arte_Moderna_804.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" width="240"/><br/><a href="https://gulbenkian.pt/cam/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Centro_de_Arte_Moderna_Gulbenkian">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.735465,-9.154015">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.154015,38.735465,0</coordinates></Point></Placemark>
+<Placemark><name>173. Convento de Arroios</name>
+<description><![CDATA[<b>Convento de Arroios</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Igreja_do_Antigo_Convento_de_Arroios_LISBOA_PORTUGAL_Photographed_by_Ph.G._de_MENDONCA_%28Wikidata_Q74474004%29.jpg/960px-Igreja_do_Antigo_Convento_de_Arroios_LISBOA_PORTUGAL_Photographed_by_Ph.G._de_MENDONCA_%28Wikidata_Q74474004%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Convento_de_Arroios">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.734348,-9.134778">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.134778,38.734348,0</coordinates></Point></Placemark>
+<Placemark><name>174. Estação Ferroviária de Campolide</name>
+<description><![CDATA[<b>Estação Ferroviária de Campolide</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Campolide_station_and_surroundings.JPG/960px-Campolide_station_and_surroundings.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Campolide">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.732531,-9.168208">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.168208,38.732531,0</coordinates></Point></Placemark>
+<Placemark><name>175. Igreja de São Sebastião da Pedreira</name>
+<description><![CDATA[<b>Igreja de São Sebastião da Pedreira</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Igreja_de_S%C3%A3o_Sebasti%C3%A3o_da_Pedreira_Lisboa.jpg/960px-Igreja_de_S%C3%A3o_Sebasti%C3%A3o_da_Pedreira_Lisboa.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_de_São_Sebastião_da_Pedreira">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.732527,-9.15126">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.15126,38.732527,0</coordinates></Point></Placemark>
+<Placemark><name>176. Palácio da Justiça (Lisboa)</name>
+<description><![CDATA[<b>Palácio da Justiça (Lisboa)</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Brutalism_%28136682299%29.jpeg/960px-Brutalism_%28136682299%29.jpeg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_da_Justiça_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.732503,-9.157745">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.157745,38.732503,0</coordinates></Point></Placemark>
+<Placemark><name>177. Casa-Museu Dr. Anastácio Gonçalves</name>
+<description><![CDATA[<b>Casa-Museu Dr. Anastácio Gonçalves</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Casa-Museu_Dr._Anast%C3%A1cio_Gon%C3%A7alves_-_Casa_de_Malhoa.JPG/960px-Casa-Museu_Dr._Anast%C3%A1cio_Gon%C3%A7alves_-_Casa_de_Malhoa.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="http://blogdacmag.blogspot.pt/">Website</a><br/>📞 +351 213 540 823<br/><a href="https://pt.wikipedia.org/wiki/Casa-Museu_Dr._Anastácio_Gonçalves">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7325,-9.14639">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.14639,38.7325,0</coordinates></Point></Placemark>
+<Placemark><name>178. Palacete Mendonça</name>
+<description><![CDATA[<b>Palacete Mendonça</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Lisbon_2015_10_14_0589_%2823301453940%29.jpg/960px-Lisbon_2015_10_14_0589_%2823301453940%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palacete_Mendonça">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.73247,-9.155876">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.155876,38.73247,0</coordinates></Point></Placemark>
+<Placemark><name>179. Convento de Nossa Senhora da Penha de França</name>
+<description><![CDATA[<b>Convento de Nossa Senhora da Penha de França</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Igreja_de_Nossa_Senhora_de_Penha_de_Fran%C3%A7a_-_Lisboa_-_Portugal_%2848954847832%29.jpg/960px-Igreja_de_Nossa_Senhora_de_Penha_de_Fran%C3%A7a_-_Lisboa_-_Portugal_%2848954847832%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Convento_de_Nossa_Senhora_da_Penha_de_França">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.73045,-9.131559">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.131559,38.73045,0</coordinates></Point></Placemark>
+<Placemark><name>180. Estufa Fria</name>
+<description><![CDATA[<b>Estufa Fria</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Estufa_fria.jpg/960px-Estufa_fria.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/estufa-fria-de-lisboa">Website</a><br/>🕐 Mo-Su 10:00-19:00<br/>📞 +351 213 882 278<br/><a href="https://pt.wikipedia.org/wiki/Estufa_Fria">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.729328,-9.155497">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.155497,38.729328,0</coordinates></Point></Placemark>
+<Placemark><name>181. Parque Eduardo VII</name>
+<description><![CDATA[<b>Parque Eduardo VII</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Lisboa_April_2014-1.jpg/960px-Lisboa_April_2014-1.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Parque_Eduardo_VII">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.728333,-9.152778">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.152778,38.728333,0</coordinates></Point></Placemark>
+<Placemark><name>182. Praça do Marquês de Pombal (Lisboa)</name>
+<description><![CDATA[<b>Praça do Marquês de Pombal (Lisboa)</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Lisboa%2C_Est%C3%A1tua_do_Marqu%C3%AAs_de_Pombal_%283%29.jpg/960px-Lisboa%2C_Est%C3%A1tua_do_Marqu%C3%AAs_de_Pombal_%283%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Praça_do_Marquês_de_Pombal_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.725278,-9.15">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.15,38.725278,0</coordinates></Point></Placemark>
+<Placemark><name>183. Igreja do Coração de Jesus (Lisboa)</name>
+<description><![CDATA[<b>Igreja do Coração de Jesus (Lisboa)</b><br/>Avenidas &amp; North<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Igreja_do_Sagrado_Cora%C3%A7%C3%A3o_de_Jesus_%28Lisboa%29_12.jpg/960px-Igreja_do_Sagrado_Cora%C3%A7%C3%A3o_de_Jesus_%28Lisboa%29_12.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Igreja_do_Coração_de_Jesus_(Lisboa)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.72489,-9.14717">Directions</a>]]></description>
+<styleUrl>#s5</styleUrl>
+<Point><coordinates>-9.14717,38.72489,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Parque das Nações</name>
+<Placemark><name>184. Torre Vasco da Gama</name>
+<description><![CDATA[<b>Torre Vasco da Gama</b><br/>Parque das Nações<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Torre_Vasco_da_Gama_%28Lisboa%29.JPG/960px-Torre_Vasco_da_Gama_%28Lisboa%29.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.vascodagamatower.com/">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Torre_Vasco_da_Gama">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.77472,-9.09139">Directions</a>]]></description>
+<styleUrl>#s6</styleUrl>
+<Point><coordinates>-9.09139,38.77472,0</coordinates></Point></Placemark>
+<Placemark><name>185. Gare do Oriente</name>
+<description><![CDATA[<b>Gare do Oriente</b><br/>Parque das Nações<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gare_do_Oriente_in_September_1999.jpg/960px-Gare_do_Oriente_in_September_1999.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.infraestruturasdeportugal.pt/negocios-e-servicos/estacoes/detalhe/9431039">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Gare_do_Oriente">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.76778,-9.09917">Directions</a>]]></description>
+<styleUrl>#s6</styleUrl>
+<Point><coordinates>-9.09917,38.76778,0</coordinates></Point></Placemark>
+<Placemark><name>186. Pavilhão de Portugal</name>
+<description><![CDATA[<b>Pavilhão de Portugal</b><br/>Parque das Nações<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Pavilh%C3%A3o_de_Portugal_4.JPG/960px-Pavilh%C3%A3o_de_Portugal_4.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Pavilhão_de_Portugal">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.766558,-9.095097">Directions</a>]]></description>
+<styleUrl>#s6</styleUrl>
+<Point><coordinates>-9.095097,38.766558,0</coordinates></Point></Placemark>
+<Placemark><name>187. Oceanário de Lisboa</name>
+<description><![CDATA[<b>Oceanário de Lisboa</b><br/>Parque das Nações<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Lisbon_Oceanarium_%2834535938846%29.jpg/960px-Lisbon_Oceanarium_%2834535938846%29.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://www.oceanario.pt/">Website</a><br/>📞 +351 218 917 000<br/><a href="https://pt.wikipedia.org/wiki/Oceanário_de_Lisboa">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.76361,-9.09389">Directions</a>]]></description>
+<styleUrl>#s6</styleUrl>
+<Point><coordinates>-9.09389,38.76361,0</coordinates></Point></Placemark>
+<Placemark><name>188. Teatro Camões</name>
+<description><![CDATA[<b>Teatro Camões</b><br/>Parque das Nações<br/><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Teatro_Camoes_Lisboa.JPG?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" width="240"/><br/><a href="https://www.cnb.pt/gca/?id=42">Website</a><br/><a href="https://pt.wikipedia.org/wiki/Teatro_Camões">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.7609,-9.09335">Directions</a>]]></description>
+<styleUrl>#s6</styleUrl>
+<Point><coordinates>-9.09335,38.7609,0</coordinates></Point></Placemark>
+<Placemark><name>189. Estação Ferroviária de Braço de Prata</name>
+<description><![CDATA[<b>Estação Ferroviária de Braço de Prata</b><br/>Parque das Nações<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Esta%C3%A7%C3%A3o_ferrovi%C3%A1ria_de_Bra%C3%A7o_de_Prata1.jpg/960px-Esta%C3%A7%C3%A3o_ferrovi%C3%A1ria_de_Bra%C3%A7o_de_Prata1.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Estação_Ferroviária_de_Braço_de_Prata">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.746653,-9.103042">Directions</a>]]></description>
+<styleUrl>#s6</styleUrl>
+<Point><coordinates>-9.103042,38.746653,0</coordinates></Point></Placemark>
+<Placemark><name>190. Palácio da Mitra (Marvila)</name>
+<description><![CDATA[<b>Palácio da Mitra (Marvila)</b><br/>Parque das Nações<br/><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pal%C3%A1cio_da_Mitra_%28Marvila%29%2C_Lisboa_001.jpg/960px-Pal%C3%A1cio_da_Mitra_%28Marvila%29%2C_Lisboa_001.jpg?utm_source=pt.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" width="240"/><br/><a href="https://pt.wikipedia.org/wiki/Palácio_da_Mitra_(Marvila)">Wikipedia</a><br/><a href="https://www.google.com/maps/dir/?api=1&destination=38.739712,-9.103167">Directions</a>]]></description>
+<styleUrl>#s6</styleUrl>
+<Point><coordinates>-9.103167,38.739712,0</coordinates></Point></Placemark>
+</Folder>
+</Document>
+</kml>
