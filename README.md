@@ -3,6 +3,12 @@
 190 Lisbon destinations on one map: search, area filters, three day routes,
 photo lightbox, "near me" GPS sort, and a Google My Maps KML for the same data.
 
+Mobile-first: full-screen map with a draggable bottom sheet (peek / half / full),
+48px touch targets, 16px input text so iOS doesn't zoom on focus, safe-area
+insets, and card taps that pan the map and open the place popup. Visual language
+borrowed from Airbnb's system via VoltAgent/awesome-design-md — white canvas,
+#222 ink, one accent (#ff385c), hairline dividers, a single shadow tier.
+
 **Live:** https://hamzafelix.github.io/Lisbon-Map-3Days/
 
 ## What's inside
